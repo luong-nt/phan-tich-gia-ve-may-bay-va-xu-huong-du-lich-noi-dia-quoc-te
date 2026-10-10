@@ -41,9 +41,14 @@ div[data-testid="stMetricValue"] {color:#174D77}
 .insight {background:linear-gradient(120deg,#E8F5FF,#F7FCFF);border:1px solid #D7EAF7;border-radius:14px;padding:14px;min-height:102px}
 .insight .k {font-size:13px;color:#698AA5}.insight .v {font-size:21px;font-weight:800;color:#154B73;margin:7px 0}.insight .n {font-size:13px;color:#287FAF}
 #MainMenu, footer {visibility:hidden}
-/* Hide the Deploy tools, preserve sidebar collapse/expand control */
-[data-testid="stToolbar"], [data-testid="stDecoration"] {display:none!important}
-[data-testid="stHeader"] {background:transparent!important;height:2rem!important}
+/* Keep Streamlit header and sidebar reopening button functional.
+   Hide only the Deploy button rather than the entire toolbar. */
+[data-testid="stHeader"] {display:flex!important;visibility:visible!important;background:transparent!important;height:3rem!important}
+[data-testid="stSidebarCollapsedControl"], [data-testid="stSidebarCollapseButton"] {visibility:visible!important;opacity:1!important}
+[data-testid="stDeployButton"] {display:none!important}
+/* The navigation buttons in main area remain available even if sidebar is collapsed. */
+.nav-caption {font-size:12px;color:#5D7F9C;font-weight:700;letter-spacing:.5px}
+
 /* Increase text readability in the dashboard */
 div[data-testid="stMarkdownContainer"] p {font-size:15px}
 div[data-testid="stCaptionContainer"] p {font-size:13px}
@@ -121,7 +126,7 @@ route_sel=routes if market=='Cả hai' else routes[routes['LOAI']==market]
 route_sel=route_sel.groupby('LOAI',group_keys=False).head(top).copy()
 
 def section(t): st.markdown(f'<div class="section-title">{escape(t)}</div>',unsafe_allow_html=True)
-def plot(fig,key): st.plotly_chart(fig,use_container_width=True,config={'displaylogo':False},key=key)
+def plot(fig,key): st.plotly_chart(fig,width='stretch',config={'displaylogo':False},key=key)
 def theme(fig,height=260,y=None):
     fig.update_layout(height=height,margin=dict(l=8,r=8,t=18,b=15),paper_bgcolor='white',plot_bgcolor='white',font=dict(color='#58768E',size=13),xaxis=dict(showgrid=False),yaxis=dict(title=y,showgrid=True,gridcolor='#EBF1F7'),hovermode='closest')
     return fig
@@ -208,6 +213,27 @@ def destinations_map(d,top_n):
     f.update_layout(height=370,margin=dict(l=0,r=0,t=0,b=0),geo=dict(**view,showland=True,landcolor='#E7F0F8',showocean=True,oceancolor='#F7FBFE',showcountries=True,countrycolor='#C7D8E6',showcoastlines=True,coastlinecolor='#C7D8E6',showframe=False,bgcolor='white'),legend=dict(orientation='h',x=0,y=0),paper_bgcolor='white')
     return f
 
+# Secondary navigation stays visible when the sidebar is collapsed.
+# This avoids getting stuck on one page if the Streamlit sidebar toggle is hidden.
+st.markdown('<div class="nav-caption">CHUYỂN TRANG NHANH</div>', unsafe_allow_html=True)
+nav_labels = [
+    '01  Tổng quan & Giá vé',
+    '02  Tuyến bay & Chuyên sâu',
+    '03  Xu hướng du lịch & Điểm đến',
+]
+nav_cols = st.columns(3, gap='small')
+for nav_col, nav_label in zip(nav_cols, nav_labels):
+    with nav_col:
+        active = st.session_state.get('navigation', nav_labels[0]) == nav_label
+        st.button(
+            nav_label,
+            key='quick_nav_' + nav_label[:2],
+            width='stretch',
+            type='primary' if active else 'secondary',
+            on_click=lambda value=nav_label: st.session_state.update(navigation=value),
+        )
+st.write('')
+
 # Use contiguous HTML to prevent the Markdown code-block rendering issue.
 st.markdown('<div class="hero"><div class="eyebrow">ANAC AVIATION INTELLIGENCE | BRAZIL 2024</div><div class="hero-title">Phân tích biến động giá vé máy bay &amp; Xu hướng du lịch nội địa / quốc tế</div><div class="hero-sub">Phân tích giá vé, số ghế bán và mạng lưới tuyến bay nội địa / quốc tế tại Brazil năm 2024.</div></div>',unsafe_allow_html=True)
 
@@ -260,11 +286,11 @@ elif page.startswith('02'):
         with col:panel('Tương quan | '+NAMES[code],f'Pearson r = {r:.3f}' if pd.notna(r) else 'Không đủ dữ liệu',fig,'corr_'+code)
     section('05 | Dữ liệu chi tiết và tải xuống')
     with st.expander('Bảng dữ liệu theo tháng'):
-        st.dataframe(selected,height=260,hide_index=True,use_container_width=True)
+        st.dataframe(selected,height=260,hide_index=True,width="stretch")
         st.download_button('Tải dữ liệu tháng CSV',selected.to_csv(index=False).encode('utf-8-sig'),'phan_tich_thang_2024.csv','text/csv')
     with st.expander('Danh sách tuyến bay'):
         cols=['LOAI','ORIGEM','DESTINO','ASSENTOS']
-        st.dataframe(route_sel[cols],height=260,hide_index=True,use_container_width=True)
+        st.dataframe(route_sel[cols],height=260,hide_index=True,width="stretch")
         st.download_button('Tải tuyến bay CSV',route_sel[cols].to_csv(index=False).encode('utf-8-sig'),'tuyen_bay_2024.csv','text/csv')
 
 else:
@@ -302,7 +328,7 @@ else:
         plot(destinations_map(dest,dest_top),'destination_map')
     with st.expander('Bảng chi tiết điểm đến và tải CSV'):
         result=dest.sort_values('ASSENTOS',ascending=False)
-        st.dataframe(result,height=290,hide_index=True,use_container_width=True)
+        st.dataframe(result,height=290,hide_index=True,width="stretch")
         st.download_button('Tải dữ liệu điểm đến CSV',result.to_csv(index=False).encode('utf-8-sig'),'diem_den_2024.csv','text/csv')
     st.caption('Giới hạn: tháng là tháng bán vé; ghế bán không xác nhận số hành khách thực đi hay mục đích du lịch. Danh sách quốc tế chỉ gồm hành trình có sân bay xuất phát tại Brazil và sân bay đến ở nước ngoài, đối chiếu theo OurAirports.')
 

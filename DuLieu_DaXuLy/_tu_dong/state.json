@@ -1,0 +1,105 @@
+{
+  "last_success_utc": "2026-10-11 06:01:58",
+  "period": "2024-01 den 2025-08",
+  "months": {
+    "domestic_2025-01": {
+      "month": "2025-01",
+      "market": "domestic",
+      "seats": 2877862.0,
+      "fare_weight": 1856868409.81,
+      "fare_seats": 2877862.0,
+      "rows": null,
+      "sha256": null,
+      "url": "https://sas.anac.gov.br/sas/tarifadomestica/2025/202501.csv"
+    },
+    "domestic_2025-02": {
+      "month": "2025-02",
+      "market": "domestic",
+      "seats": 2696738.0,
+      "fare_weight": 1647492634.41,
+      "fare_seats": 2696738.0,
+      "rows": 714433,
+      "sha256": "c3bc15b1631c96d623efc09ceb48207c083daaa573167107a87e85ea056345d8",
+      "url": "https://sas.anac.gov.br/sas/tarifadomestica/2025/202502.csv"
+    },
+    "domestic_2025-04": {
+      "month": "2025-04",
+      "market": "domestic",
+      "seats": 2777918.0,
+      "fare_weight": 1634567644.83,
+      "fare_seats": 2777918.0,
+      "rows": 786918,
+      "sha256": "0af770b7919ab783226af328c520bb0cd9e73f5ee23bb09ae2143e297e5b9874",
+      "url": "https://sas.anac.gov.br/sas/tarifadomestica/2025/202504.csv"
+    },
+    "domestic_2025-05": {
+      "month": "2025-05",
+      "market": "domestic",
+      "seats": 3144086.0,
+      "fare_weight": 1708149269.2600002,
+      "fare_seats": 3144086.0,
+      "rows": 797080,
+      "sha256": "9178c314ad956b9bd2e19c2158bca6a0b9d46d05f917fdb24cd8c54297d32b37",
+      "url": "https://sas.anac.gov.br/sas/tarifadomestica/2025/202505.csv"
+    },
+    "domestic_2025-06": {
+      "month": "2025-06",
+      "market": "domestic",
+      "seats": 2550961.0,
+      "fare_weight": 1604666142.0599997,
+      "fare_seats": 2550961.0,
+      "rows": 663644,
+      "sha256": "21a213891ba07c9abe4859d67437e235736aecd3ee9450d2d326ce0c56c10bfc",
+      "url": "https://sas.anac.gov.br/sas/tarifadomestica/2025/202506.csv"
+    },
+    "domestic_2025-07": {
+      "month": "2025-07",
+      "market": "domestic",
+      "seats": 2527763.0,
+      "fare_weight": 1796136340.1200004,
+      "fare_seats": 2527763.0,
+      "rows": 627891,
+      "sha256": "7212114f241d9e4895b5ff2dcabc06aed75afe86fd33ca1983b1de3c10524be1",
+      "url": "https://sas.anac.gov.br/sas/tarifadomestica/2025/202507.csv"
+    },
+    "domestic_2025-08": {
+      "month": "2025-08",
+      "market": "domestic",
+      "seats": 2870631.0,
+      "fare_weight": 1868728426.89,
+      "fare_seats": 2870631.0,
+      "rows": 633529,
+      "sha256": "e72cf2db50ddc1037d19e078d9540c3e42e7f1c4722cfc6262907f55727602d1",
+      "url": "https://sas.anac.gov.br/sas/tarifadomestica/2025/202508.csv"
+    },
+    "domestic_2025-03": {
+      "month": "2025-03",
+      "market": "domestic",
+      "seats": 3015998.0,
+      "fare_weight": 1739016526.7199998,
+      "fare_seats": 3015998.0,
+      "rows": 701901,
+      "sha256": "37ab00aac01456fbe3a6573e8524e467edc1a3a70441568aa22f1a73aaed5a69",
+      "url": "https://sas.anac.gov.br/sas/tarifadomestica/2025/202503.csv"
+    },
+    "international_2025-01": {
+      "month": "2025-01",
+      "market": "international",
+      "seats": 210541.0,
+      "fare_weight": 116485449.92999999,
+      "fare_seats": 210541.0,
+      "rows": 55158,
+      "sha256": "ccd7d4758bd0b5a803cca4846247b780864a97feb812727b57e0d510b0385fb5",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-01.csv"
+    }
+  },
+  "newly_processed": [
+    "international_2025-01"
+  ],
+  "warnings": [],
+  "year_coverage": [
+    "2024",
+    "2025"
+  ],
+  "source": "ANAC Brazil / OurAirports"
+}

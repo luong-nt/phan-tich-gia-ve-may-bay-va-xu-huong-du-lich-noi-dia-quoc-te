@@ -1,0 +1,6 @@
+{
+  "start_new_year": 2025,
+  "max_files_per_run": 6,
+  "recheck_recent_months": 3,
+  "airports_url": "https://raw.githubusercontent.com/davidmegginson/ourairports-data/main/airports.csv"
+}

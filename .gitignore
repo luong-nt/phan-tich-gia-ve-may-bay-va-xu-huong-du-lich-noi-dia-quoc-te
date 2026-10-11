@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+DuLieu_DaXuLy/_tu_dong/airports.csv
+DuLieu_DaXuLy/noi_dia_sach_2024.csv
+DuLieu_DaXuLy/quoc_te_sach_2024.csv

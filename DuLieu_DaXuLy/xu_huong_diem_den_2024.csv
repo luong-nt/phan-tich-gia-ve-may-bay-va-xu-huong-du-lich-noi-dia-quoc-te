@@ -2682,3 +2682,1156 @@
 2024-12,LIBR,10,Quốc tế,Brindisi Airport,Brindisi,IT,40.6576,17.947001,Brindisi
 2024-12,HAAB,6,Quốc tế,Addis Ababa Bole International Airport,Addis Ababa,ET,8.97789,38.799301,Addis Ababa
 2024-12,LICJ,6,Quốc tế,Falcone–Borsellino Airport,Palermo,IT,38.175999,13.091,Palermo
+2025-01,CYUL,164,Quốc tế,Montreal / Pierre Elliott Trudeau International Airport,Montréal,CA,45.467837,-73.742294,Montréal
+2025-01,CYYZ,371,Quốc tế,Toronto Pearson International Airport,Toronto,CA,43.675935,-79.629421,Toronto
+2025-01,DTTA,12,Quốc tế,Tunis Carthage International Airport,Tunis,TN,36.851002,10.2272,Tunis
+2025-01,EDDF,1879,Quốc tế,Frankfurt Main Airport,Frankfurt am Main,DE,50.026706,8.55835,Frankfurt am Main
+2025-01,EDDM,154,Quốc tế,Munich Airport,Munich,DE,48.353802,11.7861,Munich
+2025-01,EGLL,3866,Quốc tế,London Heathrow Airport,London,GB,51.470748,-0.459909,London
+2025-01,EHAM,747,Quốc tế,Amsterdam Airport Schiphol,Amsterdam,NL,52.308601,4.76389,Amsterdam
+2025-01,FAOR,977,Quốc tế,O.R. Tambo International Airport,Johannesburg,ZA,-26.140081,28.246801,Johannesburg
+2025-01,FNLU,788,Quốc tế,Quatro de Fevereiro International Airport,Luanda,AO,-8.85837,13.2312,Luanda
+2025-01,GMMN,670,Quốc tế,Mohammed V International Airport,Casablanca,MA,33.3675,-7.58997,Casablanca
+2025-01,HAAB,4,Quốc tế,Addis Ababa Bole International Airport,Addis Ababa,ET,8.97789,38.799301,Addis Ababa
+2025-01,KATL,268,Quốc tế,Hartsfield Jackson Atlanta International Airport,Atlanta,US,33.6367,-84.428101,Atlanta
+2025-01,KBOS,508,Quốc tế,Boston Logan International Airport,Boston,US,42.36197,-71.0079,Boston
+2025-01,KDFW,198,Quốc tế,Dallas Fort Worth International Airport,Dallas-Fort Worth,US,32.896801,-97.038002,Dallas-Fort Worth
+2025-01,KEWR,1142,Quốc tế,Newark Liberty International Airport,Newark,US,40.6894,-74.170545,Newark
+2025-01,KFLL,8318,Quốc tế,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,US,26.072599,-80.152702,Fort Lauderdale
+2025-01,KIAD,229,Quốc tế,Washington Dulles International Airport,Dulles,US,38.9445,-77.455803,Dulles
+2025-01,KIAH,312,Quốc tế,George Bush Intercontinental Airport,Houston,US,29.9844,-95.3414,Houston
+2025-01,KJFK,3647,Quốc tế,John F. Kennedy International Airport,New York,US,40.639447,-73.779317,New York
+2025-01,KLAX,774,Quốc tế,Los Angeles International Airport,Los Angeles,US,33.942501,-118.407997,Los Angeles
+2025-01,KMCO,16132,Quốc tế,Orlando International Airport,Orlando,US,28.429399490356445,-81.30899810791016,Orlando
+2025-01,KMIA,8797,Quốc tế,Miami International Airport,Miami,US,25.796011,-80.289751,Miami
+2025-01,KORD,407,Quốc tế,Chicago O'Hare International Airport,Chicago,US,41.9786,-87.9048,Chicago
+2025-01,LEBL,744,Quốc tế,Josep Tarradellas Barcelona-El Prat Airport,Barcelona,ES,41.2971,2.07846,Barcelona
+2025-01,LEMD,7291,Quốc tế,Adolfo Suárez Madrid–Barajas Airport,Madrid,ES,40.493407,-3.572249,Madrid
+2025-01,LFMN,64,Quốc tế,Nice-Côte d'Azur Airport,"Nice, Alpes-Maritimes",FR,43.658401,7.21587,"Nice, Alpes-Maritimes"
+2025-01,LFPG,4663,Quốc tế,Charles de Gaulle International Airport,"Paris (Roissy-en-France, Val-d'Oise)",FR,49.00896,2.554117,"Paris (Roissy-en-France, Val-d'Oise)"
+2025-01,LFPO,3286,Quốc tế,Paris-Orly Airport,"Paris (Orly, Val-de-Marne)",FR,48.729499,2.358963,"Paris (Orly, Val-de-Marne)"
+2025-01,LGAV,234,Quốc tế,Athens Eleftherios Venizelos International Airport,Spata-Artemida,GR,37.936401,23.9445,Spata-Artemida
+2025-01,LIBD,72,Quốc tế,Bari Karol Wojtyła International Airport,Bari,IT,41.138901,16.760599,Bari
+2025-01,LIBR,14,Quốc tế,Brindisi Airport,Brindisi,IT,40.6576,17.947001,Brindisi
+2025-01,LICA,9,Quốc tế,Lamezia Terme Sant'Eufemia International Airport,Lamezia Terme (CZ),IT,38.906214,16.246007,Lamezia Terme (CZ)
+2025-01,LICC,44,Quốc tế,Catania-Fontanarossa Airport,Catania,IT,37.466801,15.0664,Catania
+2025-01,LICJ,65,Quốc tế,Falcone–Borsellino Airport,Palermo,IT,38.175999,13.091,Palermo
+2025-01,LIMC,3087,Quốc tế,Milan Malpensa International Airport,Ferno (VA),IT,45.6306,8.72811,Ferno (VA)
+2025-01,LIMF,91,Quốc tế,Turin Airport,Caselle Torinese (TO),IT,45.200802,7.64963,Caselle Torinese (TO)
+2025-01,LIMJ,34,Quốc tế,Genoa Cristoforo Colombo Airport,Genova (GE),IT,44.412039,8.840732,Genova (GE)
+2025-01,LIPE,99,Quốc tế,Bologna Guglielmo Marconi Airport,Bologna,IT,44.5354,11.2887,Bologna
+2025-01,LIPQ,20,Quốc tế,Trieste Airport,Ronchi dei Legionari/Trieste,IT,45.827862,13.466672,Ronchi dei Legionari/Trieste
+2025-01,LIPZ,147,Quốc tế,Venice Marco Polo Airport,Venezia (VE),IT,45.505299,12.3519,Venezia (VE)
+2025-01,LIRF,4187,Quốc tế,Rome–Fiumicino Leonardo da Vinci International Airport,Rome,IT,41.804532,12.251998,Rome
+2025-01,LIRN,107,Quốc tế,Naples International Airport,Napoli,IT,40.886002,14.2908,Napoli
+2025-01,LIRQ,154,Quốc tế,"Florence Airport, Peretola",Firenze (FI),IT,43.808558,11.202822,Firenze (FI)
+2025-01,LPPR,92,Quốc tế,Francisco de Sá Carneiro Airport,Porto,PT,41.2481002808,-8.68138980865,Porto
+2025-01,LPPT,14615,Quốc tế,Lisbon Humberto Delgado Airport,Lisbon,PT,38.7813,-9.13592,Lisbon
+2025-01,LSZH,393,Quốc tế,Zürich Airport,Zurich,CH,47.458056,8.548056,Zurich
+2025-01,LTFM,1454,Quốc tế,İstanbul Airport,Istanbul,TR,41.274874,28.732136,Istanbul
+2025-01,MDPC,4714,Quốc tế,Punta Cana International Airport,Punta Cana,DO,18.567093,-68.364558,Punta Cana
+2025-01,MMMX,2184,Quốc tế,Mexico City Benito Juárez International Airport,Mexico City,MX,19.435822,-99.07033,Mexico City
+2025-01,MMUN,437,Quốc tế,Cancún International Airport,Cancún,MX,21.040817,-86.87347,Cancún
+2025-01,MPTO,1504,Quốc tế,Tocumen International Airport,Tocumen,PA,9.07136,-79.383499,Tocumen
+2025-01,MROC,473,Quốc tế,Juan Santamaría International Airport,San José (Alajuela),CR,9.99386,-84.208801,San José (Alajuela)
+2025-01,OMDB,515,Quốc tế,Dubai International Airport,Dubai,AE,25.24979,55.370992,Dubai
+2025-01,OTHH,102,Quốc tế,Hamad International Airport,Doha,QA,25.273056,51.608056,Doha
+2025-01,SAAR,44,Quốc tế,Rosario Islas Malvinas International Airport,Rosario,AR,-32.9036,-60.785,Rosario
+2025-01,SABE,19454,Quốc tế,Aeroparque Jorge Newbery,Buenos Aires,AR,-34.559419,-58.415536,Buenos Aires
+2025-01,SACO,17,Quốc tế,Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport,Cordoba,AR,-31.312346,-64.208329,Cordoba
+2025-01,SAEZ,14060,Quốc tế,Ezeiza International Airport - Ministro Pistarini,Buenos Aires (Ezeiza),AR,-34.8222,-58.5358,Buenos Aires (Ezeiza)
+2025-01,SAME,1001,Quốc tế,Governor Francisco Gabrielli International Airport,Mendoza,AR,-32.831699,-68.7929,Mendoza
+2025-01,SAZS,812,Quốc tế,Teniente Luis Candelaria International Airport,San Carlos de Bariloche,AR,-41.151199,-71.157501,San Carlos de Bariloche
+2025-01,SBAE,977,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
+2025-01,SBAQ,75,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
+2025-01,SBAR,28326,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
+2025-01,SBAT,1331,Nội địa,Piloto Osvaldo Marques Dias Airport,Alta Floresta,BR,-9.866389,-56.106298,Alta Floresta
+2025-01,SBAU,1516,Nội địa,Araçatuba Airport,Araçatuba,BR,-21.141479,-50.424575,Araçatuba
+2025-01,SBAX,185,Nội địa,Romeu Zema Airport,Araxá,BR,-19.5632,-46.9604,Araxá
+2025-01,SBBE,61866,Nội địa,Val de Cans/Júlio Cezar Ribeiro International Airport,Belém,BR,-1.379279,-48.476207,Belém
+2025-01,SBBR,179099,Nội địa,Presidente Juscelino Kubitschek International Airport,Brasília,BR,-15.869167,-47.920834,Brasília
+2025-01,SBBV,7614,Nội địa,Atlas Brasil Cantanhede International Airport,Boa Vista,BR,2.84615,-60.690648,Boa Vista
+2025-01,SBBW,36,Nội địa,Barra do Garças Airport,Barra do Garças,BR,-15.861417,-52.389008,Barra do Garças
+2025-01,SBCA,11227,Nội địa,Coronel Adalberto Mendes da Silva Airport,Cascavel,BR,-25.000323,-53.501208,Cascavel
+2025-01,SBCB,218,Nội địa,Cabo Frio Airport,Cabo Frio,BR,-22.921485,-42.071874,Cabo Frio
+2025-01,SBCF,123968,Nội địa,Tancredo Neves International Airport,Belo Horizonte,BR,-19.63571,-43.966928,Belo Horizonte
+2025-01,SBCG,36870,Nội địa,Campo Grande Airport,Campo Grande,BR,-20.469998,-54.673988,Campo Grande
+2025-01,SBCH,9833,Nội địa,Serafin Enoss Bertaso Airport,Chapecó,BR,-27.134199,-52.656601,Chapecó
+2025-01,SBCJ,2844,Nội địa,Carajás Airport,Parauapebas,BR,-6.117841,-50.003372,Parauapebas
+2025-01,SBCN,647,Nội địa,Nelson Ribeiro Guimarães Airport,Caldas Novas,BR,-17.725096,-48.606324,Caldas Novas
+2025-01,SBCP,334,Nội địa,Bartolomeu Lisandro Airport,Campos dos Goytacazes,BR,-21.698299,-41.301701,Campos dos Goytacazes
+2025-01,SBCR,932,Nội địa,Corumbá International Airport,Corumbá,BR,-19.01193,-57.672772,Corumbá
+2025-01,SBCT,94902,Nội địa,Curitiba-Afonso Pena International Airport,Curitiba,BR,-25.5285,-49.1758,Curitiba
+2025-01,SBCX,7714,Nội địa,Hugo Cantergiani Regional Airport,Caxias Do Sul,BR,-29.197183,-51.187647,Caxias Do Sul
+2025-01,SBCY,48588,Nội địa,Várzea Grande–Marechal Rondon International Airport,Cuiabá,BR,-15.6529,-56.116699,Cuiabá
+2025-01,SBCZ,348,Nội địa,Cruzeiro do Sul Airport,Cruzeiro Do Sul,BR,-7.59991,-72.769501,Cruzeiro Do Sul
+2025-01,SBDB,1159,Nội địa,Bonito Airport,Bonito,BR,-21.2473,-56.452399,Bonito
+2025-01,SBDN,7579,Nội địa,Presidente Prudente Airport,Presidente Prudente,BR,-22.1751,-51.424599,Presidente Prudente
+2025-01,SBEG,53184,Nội địa,Eduardo Gomes International Airport,Manaus,BR,-3.03861,-60.049702,Manaus
+2025-01,SBFI,31608,Nội địa,Cataratas International Airport,Foz do Iguaçu,BR,-25.594167,-54.489444,Foz do Iguaçu
+2025-01,SBFL,85774,Nội địa,Hercílio Luz International Airport,Florianópolis,BR,-27.670279,-48.552502,Florianópolis
+2025-01,SBFN,6549,Nội địa,Fernando de Noronha Airport,Fernando de Noronha,BR,-3.854534,-32.423017,Fernando de Noronha
+2025-01,SBFZ,89471,Nội địa,Pinto Martins International Airport,Fortaleza,BR,-3.775833,-38.532222,Fortaleza
+2025-01,SBGL,174080,Nội địa,Rio de Janeiro Galeão – Tom Jobim International Airport,Rio De Janeiro,BR,-22.809999,-43.250557,Rio De Janeiro
+2025-01,SBGO,73096,Nội địa,Santa Genoveva International Airport,Goiânia,BR,-16.632,-49.220699,Goiânia
+2025-01,SBGR,272310,Nội địa,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,São Paulo,BR,-23.431274,-46.469954,São Paulo
+2025-01,SBGV,1354,Nội địa,Coronel Altino Machado Airport,Governador Valadares,BR,-18.895882,-41.982869,Governador Valadares
+2025-01,SBHT,2273,Nội địa,Altamira Interstate Airport,Altamira,BR,-3.253144,-52.253938,Altamira
+2025-01,SBIH,438,Nội địa,Itaituba Airport,Itaituba,BR,-4.242131,-56.000651,Itaituba
+2025-01,SBIL,12688,Nội địa,Bahia - Jorge Amado Airport,Ilhéus,BR,-14.815929,-39.033458,Ilhéus
+2025-01,SBIP,3768,Nội địa,Usiminas Airport,Ipatinga,BR,-19.470699,-42.487598,Ipatinga
+2025-01,SBIZ,6066,Nội địa,Prefeito Renato Moreira Airport,Imperatriz,BR,-5.53129,-47.459999,Imperatriz
+2025-01,SBJA,2120,Nội địa,Humberto Ghizzo Bortoluzzi Regional Airport,Jaguaruna,BR,-28.6753,-49.0596,Jaguaruna
+2025-01,SBJE,4149,Nội địa,Comandante Ariston Pessoa Airport,Cruz,BR,-2.906425,-40.357338,Cruz
+2025-01,SBJI,417,Nội địa,Ji-Paraná Airport,Ji-Paraná,BR,-10.870743,-61.846675,Ji-Paraná
+2025-01,SBJP,36663,Nội địa,Presidente Castro Pinto International Airport,João Pessoa,BR,-7.148691,-34.950554,João Pessoa
+2025-01,SBJR,642,Nội địa,Jacarepaguá - Roberto Marinho Airport,Rio de Janeiro,BR,-22.986773,-43.372194,Rio de Janeiro
+2025-01,SBJU,11146,Nội địa,Orlando Bezerra de Menezes Airport,Juazeiro do Norte,BR,-7.21932,-39.269096,Juazeiro do Norte
+2025-01,SBJV,13919,Nội địa,Lauro Carneiro de Loyola Airport,Joinville,BR,-26.224501,-48.797401,Joinville
+2025-01,SBKG,2358,Nội địa,Presidente João Suassuna Airport,Campina Grande,BR,-7.269662,-35.896057,Campina Grande
+2025-01,SBKP,83132,Nội địa,Viracopos International Airport,Campinas,BR,-23.007404,-47.134502,Campinas
+2025-01,SBLE,281,Nội địa,Coronel Horácio de Mattos Airport,Lençóis,BR,-12.4823,-41.277,Lençóis
+2025-01,SBLO,17580,Nội địa,Governor José Richa Airport,Londrina,BR,-23.334375,-51.128365,Londrina
+2025-01,SBMA,8173,Nội địa,João Correa da Rocha Airport,Marabá,BR,-5.36859,-49.138,Marabá
+2025-01,SBMD,49,Nội địa,Monte Dourado - Serra do Areão Airport,Almeirim,BR,-0.889839,-52.6022,Almeirim
+2025-01,SBMG,15580,Nội địa,Regional de Maringá - Sílvio Name Júnior Airport,Maringá,BR,-23.47606,-52.016187,Maringá
+2025-01,SBMK,7319,Nội địa,Mário Ribeiro Airport,Montes Claros,BR,-16.706919,-43.818901,Montes Claros
+2025-01,SBML,585,Nội địa,Frank Miloye Milenkowichi–Marília State Airport,Marília,BR,-22.196899,-49.926485,Marília
+2025-01,SBMO,40761,Nội địa,Zumbi dos Palmares International Airport,Maceió,BR,-9.512559,-35.791839,Maceió
+2025-01,SBMQ,12457,Nội địa,Macapá - Alberto Alcolumbre International Airport,Macapá,BR,0.050664,-51.072201,Macapá
+2025-01,SBMS,242,Nội địa,Dix-Sept Rosado Airport,Mossoró,BR,-5.20192,-37.3643,Mossoró
+2025-01,SBMY,34,Nội địa,Manicoré Airport,Manicoré,BR,-5.81138,-61.278301,Manicoré
+2025-01,SBNF,42291,Nội địa,Ministro Victor Konder International Airport,Navegantes,BR,-26.879431,-48.650979,Navegantes
+2025-01,SBNM,1775,Nội địa,Santo Ângelo Airport,Santo Ângelo,BR,-28.282503,-54.169623,Santo Ângelo
+2025-01,SBPA,102439,Nội địa,Porto Alegre-Salgado Filho International Airport,Porto Alegre,BR,-29.993984,-51.167482,Porto Alegre
+2025-01,SBPB,58,Nội địa,Parnaíba - Prefeito Doutor João Silva Filho International Airport,Parnaíba,BR,-2.89375,-41.731998,Parnaíba
+2025-01,SBPF,5873,Nội địa,Lauro Kurtz Airport,Passo Fundo,BR,-28.243976,-52.32777,Passo Fundo
+2025-01,SBPG,177,Nội địa,Ponta Grossa Airport - Comandante Antonio Amilton Beraldo,Ponta Grossa,BR,-25.184476,-50.143822,Ponta Grossa
+2025-01,SBPJ,13876,Nội địa,Brigadeiro Lysias Rodrigues Airport,Palmas,BR,-10.2915,-48.356998,Palmas
+2025-01,SBPK,2879,Nội địa,João Simões Lopes Neto International Airport,Pelotas,BR,-31.717189,-52.327796,Pelotas
+2025-01,SBPL,10775,Nội địa,Senador Nilo Coelho Airport,Petrolina,BR,-9.362422,-40.569098,Petrolina
+2025-01,SBPO,761,Nội địa,Juvenal Loureiro Cardoso Airport,Pato Branco,BR,-26.217184,-52.694463,Pato Branco
+2025-01,SBPP,766,Nội địa,Ponta Porã Airport,Ponta Porã,BR,-22.549601,-55.702599,Ponta Porã
+2025-01,SBPS,34900,Nội địa,Porto Seguro International Airport,Porto Seguro,BR,-16.438426,-39.080584,Porto Seguro
+2025-01,SBPV,9945,Nội địa,Governador Jorge Teixeira de Oliveira International Airport,Porto Velho,BR,-8.708491,-63.902338,Porto Velho
+2025-01,SBRB,6131,Nội địa,Rio Branco-Plácido de Castro International Airport,Rio Branco,BR,-9.869031,-67.893984,Rio Branco
+2025-01,SBRD,744,Nội địa,Maestro Marinho Franco Airport,Rondonópolis,BR,-16.584292,-54.724803,Rondonópolis
+2025-01,SBRF,115178,Nội địa,Recife/Guararapes - Gilberto Freyre International Airport,Recife,BR,-8.12747,-34.922961,Recife
+2025-01,SBRJ,110769,Nội địa,Santos Dumont Airport,Rio de Janeiro,BR,-22.910397,-43.16282,Rio de Janeiro
+2025-01,SBRP,14549,Nội địa,Leite Lopes Airport,Ribeirão Preto,BR,-21.134314,-47.774053,Ribeirão Preto
+2025-01,SBSG,29073,Nội địa,Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport,Natal,BR,-5.769822,-35.36661,Natal
+2025-01,SBSI,11563,Nội địa,Presidente João Batista Figueiredo Airport,Sinop,BR,-11.885001,-55.586109,Sinop
+2025-01,SBSJ,1080,Nội địa,Professor Urbano Ernesto Stumpf Airport,São José Dos Campos,BR,-23.2292,-45.8615,São José Dos Campos
+2025-01,SBSL,32999,Nội địa,Marechal Cunha Machado International Airport,São Luís,BR,-2.586386,-44.235008,São Luís
+2025-01,SBSM,1804,Nội địa,Santa Maria Airport,Santa Maria,BR,-29.711399,-53.688202,Santa Maria
+2025-01,SBSN,8667,Nội địa,Santarém - Maestro Wilson Fonseca International Airport,Santarém,BR,-2.422423,-54.79306,Santarém
+2025-01,SBSO,1234,Nội địa,Adolino Bedin Regional Airport,Sorriso,BR,-12.479177,-55.672341,Sorriso
+2025-01,SBSP,348779,Nội địa,Congonhas–Deputado Freitas Nobre Airport,São Paulo,BR,-23.627657,-46.654601,São Paulo
+2025-01,SBSR,17447,Nội địa,Prof. Eribelto Manoel Reino State Airport,São José do Rio Preto,BR,-20.817113,-49.406963,São José do Rio Preto
+2025-01,SBSV,117573,Nội địa,Deputado Luiz Eduardo Magalhães International Airport,Salvador,BR,-12.908611,-38.322498,Salvador
+2025-01,SBTB,74,Nội địa,Trombetas Airport,Oriximiná,BR,-1.4896,-56.396801,Oriximiná
+2025-01,SBTC,109,Nội địa,Una-Comandatuba Airport,Una,BR,-15.354358,-38.998729,Una
+2025-01,SBTE,24069,Nội địa,Senador Petrônio Portela Airport,Teresina,BR,-5.06025,-42.823712,Teresina
+2025-01,SBTF,754,Nội địa,Tefé Airport,Tefé,BR,-3.38294,-64.724098,Tefé
+2025-01,SBTG,344,Nội địa,Plínio Alarcom Airport,Três Lagoas,BR,-20.752643,-51.682026,Três Lagoas
+2025-01,SBTT,1735,Nội địa,Tabatinga International Airport,Tabatinga,BR,-4.25567,-69.935799,Tabatinga
+2025-01,SBTU,12,Nội địa,Tucuruí Airport,Tucuruí,BR,-3.78601,-49.720299,Tucuruí
+2025-01,SBUA,393,Nội địa,São Gabriel da Cachoeira Airport,São Gabriel da Cachoeira,BR,-0.14835,-66.9855,São Gabriel da Cachoeira
+2025-01,SBUG,270,Nội địa,Rubem Berta Airport,Uruguaiana,BR,-29.7822,-57.0382,Uruguaiana
+2025-01,SBUL,18025,Nội địa,Ten. Cel. Aviador César Bombonato Airport,Uberlândia,BR,-18.883579,-48.225936,Uberlândia
+2025-01,SBUR,2139,Nội địa,Mário de Almeida Franco Airport,Uberaba,BR,-19.765036,-47.964805,Uberaba
+2025-01,SBVG,20,Nội địa,Major Brigadeiro Trompowsky Airport,Varginha,BR,-21.591375,-45.474116,Varginha
+2025-01,SBVH,373,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
+2025-01,SBVT,60950,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
+2025-01,SBZM,6010,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-01,SCEL,50188,Quốc tế,Comodoro Arturo Merino Benítez International Airport,Santiago,CL,-33.393001556396484,-70.78579711914062,Santiago
+2025-01,SDOW,30,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-01,SGAS,1858,Quốc tế,Silvio Pettirossi International Airport,Asunción,PY,-25.240156,-57.519227,Asunción
+2025-01,SIRI,10,Nội địa,Barra Grande Airport,Maraú,BR,-13.906082,-38.940804,Maraú
+2025-01,SKBO,2602,Quốc tế,El Dorado International Airport,Bogota,CO,4.70159,-74.1469,Bogota
+2025-01,SLCB,335,Quốc tế,Jorge Wilsterman International Airport,Cochabamba,BO,-17.421105,-66.177102,Cochabamba
+2025-01,SLVR,1690,Quốc tế,Viru Viru International Airport,Santa Cruz,BO,-17.6448,-63.135399,Santa Cruz
+2025-01,SMJP,481,Quốc tế,Johan Adolf Pengel International Airport,Paramaribo,SR,5.45283,-55.187801,Paramaribo
+2025-01,SN6L,5,Nội địa,Dr. Luciano de Arruda Coelho Regional Airport,Sobral,BR,-3.614769,-40.232208,Sobral
+2025-01,SNAB,25,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
+2025-01,SNBR,1197,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
+2025-01,SNCL,125,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
+2025-01,SNCP,365,Nội địa,Planalto Serrano Regional Airport,Correia Pinto,BR,-27.634128,-50.358253,Correia Pinto
+2025-01,SNDV,86,Nội địa,Brigadeiro Cabral Airport,Divinópolis,BR,-20.180700302124,-44.870899200439,Divinópolis
+2025-01,SNEB,18,Nội địa,Nagib Demachki Airport,Paragominas,BR,-3.019798,-47.316474,Paragominas
+2025-01,SNGI,651,Nội địa,Guanambi Airport,Guanambi,BR,-14.2082,-42.746101,Guanambi
+2025-01,SNGN,7,Nội địa,Garanhuns Airport,Garanhuns,BR,-8.83428,-36.4716,Garanhuns
+2025-01,SNHS,23,Nội địa,Santa Magalhães Airport,Serra Talhada,BR,-8.061433,-38.328888,Serra Talhada
+2025-01,SNIG,2,Nội địa,Iguatu Airport,Iguatu,BR,-6.346319,-39.294448,Iguatu
+2025-01,SNJM,11,Nội địa,Aeroporto Elias Breder Airport,Manhuaçu,BR,-20.259722,-42.183887,Manhuaçu
+2025-01,SNLN,50,Nội địa,Linhares Municipal Airport,Linhares,BR,-19.355202,-40.07128,Linhares
+2025-01,SNMZ,34,Nội địa,Porto de Moz Airport,Porto de Moz,BR,-1.741307,-52.236026,Porto de Moz
+2025-01,SNPD,303,Nội địa,Patos de Minas Airport,Patos de Minas,BR,-18.672673,-46.491292,Patos de Minas
+2025-01,SNRU,7,Nội địa,Caruaru Airport,Caruaru,BR,-8.28239,-36.0135,Caruaru
+2025-01,SNSM,4,Nội địa,Salinópolis Airport,Salinópolis,BR,-0.696111,-47.336111,Salinópolis
+2025-01,SNSS,36,Nội địa,Salinas Municipal Airport,Salinas,BR,-16.2083,-42.321999,Salinas
+2025-01,SNTO,60,Nội địa,Juscelino Kubitscheck Airport,Teófilo Otoni,BR,-17.8923,-41.513599,Teófilo Otoni
+2025-01,SNTS,2,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
+2025-01,SNVS,29,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
+2025-01,SNZR,5,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-01,SOCA,18,Quốc tế,Cayenne – Félix Eboué Airport,Matoury,GF,4.819964,-52.361326,Matoury
+2025-01,SPJC,5443,Quốc tế,Jorge Chávez International Airport,Lima,PE,-12.0219,-77.1143,Lima
+2025-01,SSGY,22,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
+2025-01,SSKW,413,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
+2025-01,SSOU,40,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
+2025-01,SSRS,12,Nội địa,Rancho Sumidor Airport,Pouso Redondo,BR,-27.19232,-49.832029,Pouso Redondo
+2025-01,SSUM,48,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
+2025-01,SSUV,2,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
+2025-01,SSVL,3,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-01,SULS,386,Quốc tế,Capitan Corbeta CA Curbelo International Airport,Punta del Este,UY,-34.855099,-55.094299,Punta del Este
+2025-01,SUMU,9621,Quốc tế,Carrasco General Cesáreo L. Berisso International Airport,Ciudad de la Costa,UY,-34.835647,-56.026497,Ciudad de la Costa
+2025-01,SWBE,1,Nội địa,Walfrido Salmito de Almeida Airport,São Benedito,BR,-4.042841,-40.893813,São Benedito
+2025-01,SWBR,4,Nội địa,Borba Airport,Borba,BR,-4.40634,-59.602402,Borba
+2025-01,SWEI,138,Nội địa,Eirunepé Airport,Eirunepé,BR,-6.639533,-69.879709,Eirunepé
+2025-01,SWKO,49,Nội địa,Danilson Municipal Airport,Coari,BR,-4.13406,-63.132599,Coari
+2025-01,SWKQ,116,Nội địa,Serra da Capivara Airport,São Raimundo Nonato,BR,-9.083392,-42.644656,São Raimundo Nonato
+2025-01,SWLB,32,Nội địa,Lábrea Airport,Lábrea,BR,-7.27897,-64.769501,Lábrea
+2025-01,SWLC,551,Nội địa,General Leite de Castro Airport,Rio Verde,BR,-17.834723,-50.956112,Rio Verde
+2025-01,SWMW,27,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
+2025-01,SWPI,425,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
+2025-01,SWTP,6,Nội địa,Tapuruquara Airport,Santa Isabel do Rio Negro,BR,-0.378604,-64.992558,Santa Isabel do Rio Negro
+2025-01,TNCA,313,Quốc tế,Queen Beatrix International Airport,Oranjestad,AW,12.501056,-70.014281,Oranjestad
+2025-01,TNCC,237,Quốc tế,Hato International Airport,Willemstad,CW,12.1889,-68.959801,Willemstad
+2025-01,ZBAA,613,Quốc tế,Beijing Capital International Airport,Beijing,CN,40.077349,116.596702,Beijing
+2025-02,SBAE,1071,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
+2025-02,SBAQ,51,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
+2025-02,SBAR,24774,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
+2025-02,SBAT,1575,Nội địa,Piloto Osvaldo Marques Dias Airport,Alta Floresta,BR,-9.866389,-56.106298,Alta Floresta
+2025-02,SBAU,1946,Nội địa,Araçatuba Airport,Araçatuba,BR,-21.141479,-50.424575,Araçatuba
+2025-02,SBAX,177,Nội địa,Romeu Zema Airport,Araxá,BR,-19.5632,-46.9604,Araxá
+2025-02,SBBE,60779,Nội địa,Val de Cans/Júlio Cezar Ribeiro International Airport,Belém,BR,-1.379279,-48.476207,Belém
+2025-02,SBBR,171370,Nội địa,Presidente Juscelino Kubitschek International Airport,Brasília,BR,-15.869167,-47.920834,Brasília
+2025-02,SBBV,6346,Nội địa,Atlas Brasil Cantanhede International Airport,Boa Vista,BR,2.84615,-60.690648,Boa Vista
+2025-02,SBBW,48,Nội địa,Barra do Garças Airport,Barra do Garças,BR,-15.861417,-52.389008,Barra do Garças
+2025-02,SBCA,10349,Nội địa,Coronel Adalberto Mendes da Silva Airport,Cascavel,BR,-25.000323,-53.501208,Cascavel
+2025-02,SBCB,16,Nội địa,Cabo Frio Airport,Cabo Frio,BR,-22.921485,-42.071874,Cabo Frio
+2025-02,SBCF,122469,Nội địa,Tancredo Neves International Airport,Belo Horizonte,BR,-19.63571,-43.966928,Belo Horizonte
+2025-02,SBCG,35290,Nội địa,Campo Grande Airport,Campo Grande,BR,-20.469998,-54.673988,Campo Grande
+2025-02,SBCH,10123,Nội địa,Serafin Enoss Bertaso Airport,Chapecó,BR,-27.134199,-52.656601,Chapecó
+2025-02,SBCJ,2880,Nội địa,Carajás Airport,Parauapebas,BR,-6.117841,-50.003372,Parauapebas
+2025-02,SBCN,683,Nội địa,Nelson Ribeiro Guimarães Airport,Caldas Novas,BR,-17.725096,-48.606324,Caldas Novas
+2025-02,SBCP,140,Nội địa,Bartolomeu Lisandro Airport,Campos dos Goytacazes,BR,-21.698299,-41.301701,Campos dos Goytacazes
+2025-02,SBCR,1097,Nội địa,Corumbá International Airport,Corumbá,BR,-19.01193,-57.672772,Corumbá
+2025-02,SBCT,98464,Nội địa,Curitiba-Afonso Pena International Airport,Curitiba,BR,-25.5285,-49.1758,Curitiba
+2025-02,SBCX,6579,Nội địa,Hugo Cantergiani Regional Airport,Caxias Do Sul,BR,-29.197183,-51.187647,Caxias Do Sul
+2025-02,SBCY,46879,Nội địa,Várzea Grande–Marechal Rondon International Airport,Cuiabá,BR,-15.6529,-56.116699,Cuiabá
+2025-02,SBCZ,334,Nội địa,Cruzeiro do Sul Airport,Cruzeiro Do Sul,BR,-7.59991,-72.769501,Cruzeiro Do Sul
+2025-02,SBDB,1207,Nội địa,Bonito Airport,Bonito,BR,-21.2473,-56.452399,Bonito
+2025-02,SBDN,7544,Nội địa,Presidente Prudente Airport,Presidente Prudente,BR,-22.1751,-51.424599,Presidente Prudente
+2025-02,SBEG,50830,Nội địa,Eduardo Gomes International Airport,Manaus,BR,-3.03861,-60.049702,Manaus
+2025-02,SBFI,24940,Nội địa,Cataratas International Airport,Foz do Iguaçu,BR,-25.594167,-54.489444,Foz do Iguaçu
+2025-02,SBFL,67946,Nội địa,Hercílio Luz International Airport,Florianópolis,BR,-27.670279,-48.552502,Florianópolis
+2025-02,SBFN,7393,Nội địa,Fernando de Noronha Airport,Fernando de Noronha,BR,-3.854534,-32.423017,Fernando de Noronha
+2025-02,SBFZ,81946,Nội địa,Pinto Martins International Airport,Fortaleza,BR,-3.775833,-38.532222,Fortaleza
+2025-02,SBGL,165954,Nội địa,Rio de Janeiro Galeão – Tom Jobim International Airport,Rio De Janeiro,BR,-22.809999,-43.250557,Rio De Janeiro
+2025-02,SBGO,73403,Nội địa,Santa Genoveva International Airport,Goiânia,BR,-16.632,-49.220699,Goiânia
+2025-02,SBGR,258502,Nội địa,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,São Paulo,BR,-23.431274,-46.469954,São Paulo
+2025-02,SBGV,1504,Nội địa,Coronel Altino Machado Airport,Governador Valadares,BR,-18.895882,-41.982869,Governador Valadares
+2025-02,SBHT,1879,Nội địa,Altamira Interstate Airport,Altamira,BR,-3.253144,-52.253938,Altamira
+2025-02,SBIH,334,Nội địa,Itaituba Airport,Itaituba,BR,-4.242131,-56.000651,Itaituba
+2025-02,SBIL,9536,Nội địa,Bahia - Jorge Amado Airport,Ilhéus,BR,-14.815929,-39.033458,Ilhéus
+2025-02,SBIP,3559,Nội địa,Usiminas Airport,Ipatinga,BR,-19.470699,-42.487598,Ipatinga
+2025-02,SBIZ,5894,Nội địa,Prefeito Renato Moreira Airport,Imperatriz,BR,-5.53129,-47.459999,Imperatriz
+2025-02,SBJA,1543,Nội địa,Humberto Ghizzo Bortoluzzi Regional Airport,Jaguaruna,BR,-28.6753,-49.0596,Jaguaruna
+2025-02,SBJE,4047,Nội địa,Comandante Ariston Pessoa Airport,Cruz,BR,-2.906425,-40.357338,Cruz
+2025-02,SBJI,307,Nội địa,Ji-Paraná Airport,Ji-Paraná,BR,-10.870743,-61.846675,Ji-Paraná
+2025-02,SBJP,33890,Nội địa,Presidente Castro Pinto International Airport,João Pessoa,BR,-7.148691,-34.950554,João Pessoa
+2025-02,SBJR,334,Nội địa,Jacarepaguá - Roberto Marinho Airport,Rio de Janeiro,BR,-22.986773,-43.372194,Rio de Janeiro
+2025-02,SBJU,10583,Nội địa,Orlando Bezerra de Menezes Airport,Juazeiro do Norte,BR,-7.21932,-39.269096,Juazeiro do Norte
+2025-02,SBJV,14130,Nội địa,Lauro Carneiro de Loyola Airport,Joinville,BR,-26.224501,-48.797401,Joinville
+2025-02,SBKG,4717,Nội địa,Presidente João Suassuna Airport,Campina Grande,BR,-7.269662,-35.896057,Campina Grande
+2025-02,SBKP,78698,Nội địa,Viracopos International Airport,Campinas,BR,-23.007404,-47.134502,Campinas
+2025-02,SBLE,224,Nội địa,Coronel Horácio de Mattos Airport,Lençóis,BR,-12.4823,-41.277,Lençóis
+2025-02,SBLO,16019,Nội địa,Governor José Richa Airport,Londrina,BR,-23.334375,-51.128365,Londrina
+2025-02,SBMA,8693,Nội địa,João Correa da Rocha Airport,Marabá,BR,-5.36859,-49.138,Marabá
+2025-02,SBMD,26,Nội địa,Monte Dourado - Serra do Areão Airport,Almeirim,BR,-0.889839,-52.6022,Almeirim
+2025-02,SBMG,16329,Nội địa,Regional de Maringá - Sílvio Name Júnior Airport,Maringá,BR,-23.47606,-52.016187,Maringá
+2025-02,SBMK,7223,Nội địa,Mário Ribeiro Airport,Montes Claros,BR,-16.706919,-43.818901,Montes Claros
+2025-02,SBML,558,Nội địa,Frank Miloye Milenkowichi–Marília State Airport,Marília,BR,-22.196899,-49.926485,Marília
+2025-02,SBMO,36959,Nội địa,Zumbi dos Palmares International Airport,Maceió,BR,-9.512559,-35.791839,Maceió
+2025-02,SBMQ,12628,Nội địa,Macapá - Alberto Alcolumbre International Airport,Macapá,BR,0.050664,-51.072201,Macapá
+2025-02,SBMS,116,Nội địa,Dix-Sept Rosado Airport,Mossoró,BR,-5.20192,-37.3643,Mossoró
+2025-02,SBMY,35,Nội địa,Manicoré Airport,Manicoré,BR,-5.81138,-61.278301,Manicoré
+2025-02,SBNF,34849,Nội địa,Ministro Victor Konder International Airport,Navegantes,BR,-26.879431,-48.650979,Navegantes
+2025-02,SBNM,1497,Nội địa,Santo Ângelo Airport,Santo Ângelo,BR,-28.282503,-54.169623,Santo Ângelo
+2025-02,SBPA,102818,Nội địa,Porto Alegre-Salgado Filho International Airport,Porto Alegre,BR,-29.993984,-51.167482,Porto Alegre
+2025-02,SBPB,21,Nội địa,Parnaíba - Prefeito Doutor João Silva Filho International Airport,Parnaíba,BR,-2.89375,-41.731998,Parnaíba
+2025-02,SBPF,5378,Nội địa,Lauro Kurtz Airport,Passo Fundo,BR,-28.243976,-52.32777,Passo Fundo
+2025-02,SBPG,83,Nội địa,Ponta Grossa Airport - Comandante Antonio Amilton Beraldo,Ponta Grossa,BR,-25.184476,-50.143822,Ponta Grossa
+2025-02,SBPJ,13461,Nội địa,Brigadeiro Lysias Rodrigues Airport,Palmas,BR,-10.2915,-48.356998,Palmas
+2025-02,SBPK,2840,Nội địa,João Simões Lopes Neto International Airport,Pelotas,BR,-31.717189,-52.327796,Pelotas
+2025-02,SBPL,10149,Nội địa,Senador Nilo Coelho Airport,Petrolina,BR,-9.362422,-40.569098,Petrolina
+2025-02,SBPO,726,Nội địa,Juvenal Loureiro Cardoso Airport,Pato Branco,BR,-26.217184,-52.694463,Pato Branco
+2025-02,SBPP,646,Nội địa,Ponta Porã Airport,Ponta Porã,BR,-22.549601,-55.702599,Ponta Porã
+2025-02,SBPS,30800,Nội địa,Porto Seguro International Airport,Porto Seguro,BR,-16.438426,-39.080584,Porto Seguro
+2025-02,SBPV,10495,Nội địa,Governador Jorge Teixeira de Oliveira International Airport,Porto Velho,BR,-8.708491,-63.902338,Porto Velho
+2025-02,SBRB,5542,Nội địa,Rio Branco-Plácido de Castro International Airport,Rio Branco,BR,-9.869031,-67.893984,Rio Branco
+2025-02,SBRD,913,Nội địa,Maestro Marinho Franco Airport,Rondonópolis,BR,-16.584292,-54.724803,Rondonópolis
+2025-02,SBRF,104894,Nội địa,Recife/Guararapes - Gilberto Freyre International Airport,Recife,BR,-8.12747,-34.922961,Recife
+2025-02,SBRJ,105331,Nội địa,Santos Dumont Airport,Rio de Janeiro,BR,-22.910397,-43.16282,Rio de Janeiro
+2025-02,SBRP,13871,Nội địa,Leite Lopes Airport,Ribeirão Preto,BR,-21.134314,-47.774053,Ribeirão Preto
+2025-02,SBSG,30372,Nội địa,Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport,Natal,BR,-5.769822,-35.36661,Natal
+2025-02,SBSI,11387,Nội địa,Presidente João Batista Figueiredo Airport,Sinop,BR,-11.885001,-55.586109,Sinop
+2025-02,SBSJ,519,Nội địa,Professor Urbano Ernesto Stumpf Airport,São José Dos Campos,BR,-23.2292,-45.8615,São José Dos Campos
+2025-02,SBSL,30442,Nội địa,Marechal Cunha Machado International Airport,São Luís,BR,-2.586386,-44.235008,São Luís
+2025-02,SBSM,1763,Nội địa,Santa Maria Airport,Santa Maria,BR,-29.711399,-53.688202,Santa Maria
+2025-02,SBSN,9761,Nội địa,Santarém - Maestro Wilson Fonseca International Airport,Santarém,BR,-2.422423,-54.79306,Santarém
+2025-02,SBSO,1276,Nội địa,Adolino Bedin Regional Airport,Sorriso,BR,-12.479177,-55.672341,Sorriso
+2025-02,SBSP,305145,Nội địa,Congonhas–Deputado Freitas Nobre Airport,São Paulo,BR,-23.627657,-46.654601,São Paulo
+2025-02,SBSR,17644,Nội địa,Prof. Eribelto Manoel Reino State Airport,São José do Rio Preto,BR,-20.817113,-49.406963,São José do Rio Preto
+2025-02,SBSV,106439,Nội địa,Deputado Luiz Eduardo Magalhães International Airport,Salvador,BR,-12.908611,-38.322498,Salvador
+2025-02,SBTB,131,Nội địa,Trombetas Airport,Oriximiná,BR,-1.4896,-56.396801,Oriximiná
+2025-02,SBTC,160,Nội địa,Una-Comandatuba Airport,Una,BR,-15.354358,-38.998729,Una
+2025-02,SBTE,21797,Nội địa,Senador Petrônio Portela Airport,Teresina,BR,-5.06025,-42.823712,Teresina
+2025-02,SBTF,755,Nội địa,Tefé Airport,Tefé,BR,-3.38294,-64.724098,Tefé
+2025-02,SBTG,130,Nội địa,Plínio Alarcom Airport,Três Lagoas,BR,-20.752643,-51.682026,Três Lagoas
+2025-02,SBTT,1201,Nội địa,Tabatinga International Airport,Tabatinga,BR,-4.25567,-69.935799,Tabatinga
+2025-02,SBTU,13,Nội địa,Tucuruí Airport,Tucuruí,BR,-3.78601,-49.720299,Tucuruí
+2025-02,SBUA,482,Nội địa,São Gabriel da Cachoeira Airport,São Gabriel da Cachoeira,BR,-0.14835,-66.9855,São Gabriel da Cachoeira
+2025-02,SBUG,496,Nội địa,Rubem Berta Airport,Uruguaiana,BR,-29.7822,-57.0382,Uruguaiana
+2025-02,SBUL,18843,Nội địa,Ten. Cel. Aviador César Bombonato Airport,Uberlândia,BR,-18.883579,-48.225936,Uberlândia
+2025-02,SBUR,1899,Nội địa,Mário de Almeida Franco Airport,Uberaba,BR,-19.765036,-47.964805,Uberaba
+2025-02,SBVG,37,Nội địa,Major Brigadeiro Trompowsky Airport,Varginha,BR,-21.591375,-45.474116,Varginha
+2025-02,SBVH,350,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
+2025-02,SBVT,56461,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
+2025-02,SBZM,5256,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-02,SDLO,9,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
+2025-02,SDOW,29,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-02,SIRI,10,Nội địa,Barra Grande Airport,Maraú,BR,-13.906082,-38.940804,Maraú
+2025-02,SNAB,12,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
+2025-02,SNBR,929,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
+2025-02,SNCL,139,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
+2025-02,SNCP,150,Nội địa,Planalto Serrano Regional Airport,Correia Pinto,BR,-27.634128,-50.358253,Correia Pinto
+2025-02,SNDV,66,Nội địa,Brigadeiro Cabral Airport,Divinópolis,BR,-20.180700302124,-44.870899200439,Divinópolis
+2025-02,SNEB,12,Nội địa,Nagib Demachki Airport,Paragominas,BR,-3.019798,-47.316474,Paragominas
+2025-02,SNGI,601,Nội địa,Guanambi Airport,Guanambi,BR,-14.2082,-42.746101,Guanambi
+2025-02,SNGN,1,Nội địa,Garanhuns Airport,Garanhuns,BR,-8.83428,-36.4716,Garanhuns
+2025-02,SNHS,15,Nội địa,Santa Magalhães Airport,Serra Talhada,BR,-8.061433,-38.328888,Serra Talhada
+2025-02,SNJM,11,Nội địa,Aeroporto Elias Breder Airport,Manhuaçu,BR,-20.259722,-42.183887,Manhuaçu
+2025-02,SNLN,56,Nội địa,Linhares Municipal Airport,Linhares,BR,-19.355202,-40.07128,Linhares
+2025-02,SNMZ,28,Nội địa,Porto de Moz Airport,Porto de Moz,BR,-1.741307,-52.236026,Porto de Moz
+2025-02,SNPD,217,Nội địa,Patos de Minas Airport,Patos de Minas,BR,-18.672673,-46.491292,Patos de Minas
+2025-02,SNRU,3,Nội địa,Caruaru Airport,Caruaru,BR,-8.28239,-36.0135,Caruaru
+2025-02,SNSM,5,Nội địa,Salinópolis Airport,Salinópolis,BR,-0.696111,-47.336111,Salinópolis
+2025-02,SNSS,53,Nội địa,Salinas Municipal Airport,Salinas,BR,-16.2083,-42.321999,Salinas
+2025-02,SNTO,60,Nội địa,Juscelino Kubitscheck Airport,Teófilo Otoni,BR,-17.8923,-41.513599,Teófilo Otoni
+2025-02,SNTS,9,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
+2025-02,SNVS,18,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
+2025-02,SNWS,1,Nội địa,Crateús Airport,Crateús,BR,-5.21135,-40.704201,Crateús
+2025-02,SNZR,11,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-02,SSGY,18,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
+2025-02,SSKW,367,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
+2025-02,SSOU,38,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
+2025-02,SSUM,28,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
+2025-02,SSUV,2,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
+2025-02,SSVL,3,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-02,SWBR,1,Nội địa,Borba Airport,Borba,BR,-4.40634,-59.602402,Borba
+2025-02,SWEI,123,Nội địa,Eirunepé Airport,Eirunepé,BR,-6.639533,-69.879709,Eirunepé
+2025-02,SWKO,55,Nội địa,Danilson Municipal Airport,Coari,BR,-4.13406,-63.132599,Coari
+2025-02,SWKQ,68,Nội địa,Serra da Capivara Airport,São Raimundo Nonato,BR,-9.083392,-42.644656,São Raimundo Nonato
+2025-02,SWLB,21,Nội địa,Lábrea Airport,Lábrea,BR,-7.27897,-64.769501,Lábrea
+2025-02,SWLC,180,Nội địa,General Leite de Castro Airport,Rio Verde,BR,-17.834723,-50.956112,Rio Verde
+2025-02,SWMW,16,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
+2025-02,SWPI,354,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
+2025-02,SWTP,8,Nội địa,Tapuruquara Airport,Santa Isabel do Rio Negro,BR,-0.378604,-64.992558,Santa Isabel do Rio Negro
+2025-03,SBAE,1063,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
+2025-03,SBAQ,40,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
+2025-03,SBAR,23604,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
+2025-03,SBAT,1486,Nội địa,Piloto Osvaldo Marques Dias Airport,Alta Floresta,BR,-9.866389,-56.106298,Alta Floresta
+2025-03,SBAU,1761,Nội địa,Araçatuba Airport,Araçatuba,BR,-21.141479,-50.424575,Araçatuba
+2025-03,SBAX,139,Nội địa,Romeu Zema Airport,Araxá,BR,-19.5632,-46.9604,Araxá
+2025-03,SBBE,66412,Nội địa,Val de Cans/Júlio Cezar Ribeiro International Airport,Belém,BR,-1.379279,-48.476207,Belém
+2025-03,SBBR,215608,Nội địa,Presidente Juscelino Kubitschek International Airport,Brasília,BR,-15.869167,-47.920834,Brasília
+2025-03,SBBV,7374,Nội địa,Atlas Brasil Cantanhede International Airport,Boa Vista,BR,2.84615,-60.690648,Boa Vista
+2025-03,SBBW,36,Nội địa,Barra do Garças Airport,Barra do Garças,BR,-15.861417,-52.389008,Barra do Garças
+2025-03,SBCA,9471,Nội địa,Coronel Adalberto Mendes da Silva Airport,Cascavel,BR,-25.000323,-53.501208,Cascavel
+2025-03,SBCB,2,Nội địa,Cabo Frio Airport,Cabo Frio,BR,-22.921485,-42.071874,Cabo Frio
+2025-03,SBCF,140826,Nội địa,Tancredo Neves International Airport,Belo Horizonte,BR,-19.63571,-43.966928,Belo Horizonte
+2025-03,SBCG,31356,Nội địa,Campo Grande Airport,Campo Grande,BR,-20.469998,-54.673988,Campo Grande
+2025-03,SBCH,12696,Nội địa,Serafin Enoss Bertaso Airport,Chapecó,BR,-27.134199,-52.656601,Chapecó
+2025-03,SBCJ,2414,Nội địa,Carajás Airport,Parauapebas,BR,-6.117841,-50.003372,Parauapebas
+2025-03,SBCN,1139,Nội địa,Nelson Ribeiro Guimarães Airport,Caldas Novas,BR,-17.725096,-48.606324,Caldas Novas
+2025-03,SBCP,2,Nội địa,Bartolomeu Lisandro Airport,Campos dos Goytacazes,BR,-21.698299,-41.301701,Campos dos Goytacazes
+2025-03,SBCR,1006,Nội địa,Corumbá International Airport,Corumbá,BR,-19.01193,-57.672772,Corumbá
+2025-03,SBCT,101257,Nội địa,Curitiba-Afonso Pena International Airport,Curitiba,BR,-25.5285,-49.1758,Curitiba
+2025-03,SBCX,5762,Nội địa,Hugo Cantergiani Regional Airport,Caxias Do Sul,BR,-29.197183,-51.187647,Caxias Do Sul
+2025-03,SBCY,45102,Nội địa,Várzea Grande–Marechal Rondon International Airport,Cuiabá,BR,-15.6529,-56.116699,Cuiabá
+2025-03,SBCZ,600,Nội địa,Cruzeiro do Sul Airport,Cruzeiro Do Sul,BR,-7.59991,-72.769501,Cruzeiro Do Sul
+2025-03,SBDB,1343,Nội địa,Bonito Airport,Bonito,BR,-21.2473,-56.452399,Bonito
+2025-03,SBDN,5676,Nội địa,Presidente Prudente Airport,Presidente Prudente,BR,-22.1751,-51.424599,Presidente Prudente
+2025-03,SBEG,50327,Nội địa,Eduardo Gomes International Airport,Manaus,BR,-3.03861,-60.049702,Manaus
+2025-03,SBFI,26289,Nội địa,Cataratas International Airport,Foz do Iguaçu,BR,-25.594167,-54.489444,Foz do Iguaçu
+2025-03,SBFL,62894,Nội địa,Hercílio Luz International Airport,Florianópolis,BR,-27.670279,-48.552502,Florianópolis
+2025-03,SBFN,9893,Nội địa,Fernando de Noronha Airport,Fernando de Noronha,BR,-3.854534,-32.423017,Fernando de Noronha
+2025-03,SBFZ,95068,Nội địa,Pinto Martins International Airport,Fortaleza,BR,-3.775833,-38.532222,Fortaleza
+2025-03,SBGL,197972,Nội địa,Rio de Janeiro Galeão – Tom Jobim International Airport,Rio De Janeiro,BR,-22.809999,-43.250557,Rio De Janeiro
+2025-03,SBGO,74319,Nội địa,Santa Genoveva International Airport,Goiânia,BR,-16.632,-49.220699,Goiânia
+2025-03,SBGR,313672,Nội địa,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,São Paulo,BR,-23.431274,-46.469954,São Paulo
+2025-03,SBGV,1718,Nội địa,Coronel Altino Machado Airport,Governador Valadares,BR,-18.895882,-41.982869,Governador Valadares
+2025-03,SBHT,2069,Nội địa,Altamira Interstate Airport,Altamira,BR,-3.253144,-52.253938,Altamira
+2025-03,SBIH,181,Nội địa,Itaituba Airport,Itaituba,BR,-4.242131,-56.000651,Itaituba
+2025-03,SBIL,9663,Nội địa,Bahia - Jorge Amado Airport,Ilhéus,BR,-14.815929,-39.033458,Ilhéus
+2025-03,SBIP,3231,Nội địa,Usiminas Airport,Ipatinga,BR,-19.470699,-42.487598,Ipatinga
+2025-03,SBIZ,7073,Nội địa,Prefeito Renato Moreira Airport,Imperatriz,BR,-5.53129,-47.459999,Imperatriz
+2025-03,SBJA,2760,Nội địa,Humberto Ghizzo Bortoluzzi Regional Airport,Jaguaruna,BR,-28.6753,-49.0596,Jaguaruna
+2025-03,SBJE,5025,Nội địa,Comandante Ariston Pessoa Airport,Cruz,BR,-2.906425,-40.357338,Cruz
+2025-03,SBJI,176,Nội địa,Ji-Paraná Airport,Ji-Paraná,BR,-10.870743,-61.846675,Ji-Paraná
+2025-03,SBJP,42142,Nội địa,Presidente Castro Pinto International Airport,João Pessoa,BR,-7.148691,-34.950554,João Pessoa
+2025-03,SBJR,336,Nội địa,Jacarepaguá - Roberto Marinho Airport,Rio de Janeiro,BR,-22.986773,-43.372194,Rio de Janeiro
+2025-03,SBJU,11540,Nội địa,Orlando Bezerra de Menezes Airport,Juazeiro do Norte,BR,-7.21932,-39.269096,Juazeiro do Norte
+2025-03,SBJV,13705,Nội địa,Lauro Carneiro de Loyola Airport,Joinville,BR,-26.224501,-48.797401,Joinville
+2025-03,SBKG,3484,Nội địa,Presidente João Suassuna Airport,Campina Grande,BR,-7.269662,-35.896057,Campina Grande
+2025-03,SBKP,84397,Nội địa,Viracopos International Airport,Campinas,BR,-23.007404,-47.134502,Campinas
+2025-03,SBLE,252,Nội địa,Coronel Horácio de Mattos Airport,Lençóis,BR,-12.4823,-41.277,Lençóis
+2025-03,SBLO,13901,Nội địa,Governor José Richa Airport,Londrina,BR,-23.334375,-51.128365,Londrina
+2025-03,SBMA,8916,Nội địa,João Correa da Rocha Airport,Marabá,BR,-5.36859,-49.138,Marabá
+2025-03,SBMD,38,Nội địa,Monte Dourado - Serra do Areão Airport,Almeirim,BR,-0.889839,-52.6022,Almeirim
+2025-03,SBMG,18963,Nội địa,Regional de Maringá - Sílvio Name Júnior Airport,Maringá,BR,-23.47606,-52.016187,Maringá
+2025-03,SBMK,7027,Nội địa,Mário Ribeiro Airport,Montes Claros,BR,-16.706919,-43.818901,Montes Claros
+2025-03,SBML,653,Nội địa,Frank Miloye Milenkowichi–Marília State Airport,Marília,BR,-22.196899,-49.926485,Marília
+2025-03,SBMO,38732,Nội địa,Zumbi dos Palmares International Airport,Maceió,BR,-9.512559,-35.791839,Maceió
+2025-03,SBMQ,13801,Nội địa,Macapá - Alberto Alcolumbre International Airport,Macapá,BR,0.050664,-51.072201,Macapá
+2025-03,SBMY,35,Nội địa,Manicoré Airport,Manicoré,BR,-5.81138,-61.278301,Manicoré
+2025-03,SBNF,35971,Nội địa,Ministro Victor Konder International Airport,Navegantes,BR,-26.879431,-48.650979,Navegantes
+2025-03,SBNM,1327,Nội địa,Santo Ângelo Airport,Santo Ângelo,BR,-28.282503,-54.169623,Santo Ângelo
+2025-03,SBPA,131123,Nội địa,Porto Alegre-Salgado Filho International Airport,Porto Alegre,BR,-29.993984,-51.167482,Porto Alegre
+2025-03,SBPF,4583,Nội địa,Lauro Kurtz Airport,Passo Fundo,BR,-28.243976,-52.32777,Passo Fundo
+2025-03,SBPG,38,Nội địa,Ponta Grossa Airport - Comandante Antonio Amilton Beraldo,Ponta Grossa,BR,-25.184476,-50.143822,Ponta Grossa
+2025-03,SBPJ,15419,Nội địa,Brigadeiro Lysias Rodrigues Airport,Palmas,BR,-10.2915,-48.356998,Palmas
+2025-03,SBPK,2384,Nội địa,João Simões Lopes Neto International Airport,Pelotas,BR,-31.717189,-52.327796,Pelotas
+2025-03,SBPL,11507,Nội địa,Senador Nilo Coelho Airport,Petrolina,BR,-9.362422,-40.569098,Petrolina
+2025-03,SBPO,714,Nội địa,Juvenal Loureiro Cardoso Airport,Pato Branco,BR,-26.217184,-52.694463,Pato Branco
+2025-03,SBPP,846,Nội địa,Ponta Porã Airport,Ponta Porã,BR,-22.549601,-55.702599,Ponta Porã
+2025-03,SBPS,30123,Nội địa,Porto Seguro International Airport,Porto Seguro,BR,-16.438426,-39.080584,Porto Seguro
+2025-03,SBPV,12784,Nội địa,Governador Jorge Teixeira de Oliveira International Airport,Porto Velho,BR,-8.708491,-63.902338,Porto Velho
+2025-03,SBRB,6204,Nội địa,Rio Branco-Plácido de Castro International Airport,Rio Branco,BR,-9.869031,-67.893984,Rio Branco
+2025-03,SBRD,883,Nội địa,Maestro Marinho Franco Airport,Rondonópolis,BR,-16.584292,-54.724803,Rondonópolis
+2025-03,SBRF,124903,Nội địa,Recife/Guararapes - Gilberto Freyre International Airport,Recife,BR,-8.12747,-34.922961,Recife
+2025-03,SBRJ,115056,Nội địa,Santos Dumont Airport,Rio de Janeiro,BR,-22.910397,-43.16282,Rio de Janeiro
+2025-03,SBRP,14142,Nội địa,Leite Lopes Airport,Ribeirão Preto,BR,-21.134314,-47.774053,Ribeirão Preto
+2025-03,SBSG,30194,Nội địa,Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport,Natal,BR,-5.769822,-35.36661,Natal
+2025-03,SBSI,9814,Nội địa,Presidente João Batista Figueiredo Airport,Sinop,BR,-11.885001,-55.586109,Sinop
+2025-03,SBSJ,519,Nội địa,Professor Urbano Ernesto Stumpf Airport,São José Dos Campos,BR,-23.2292,-45.8615,São José Dos Campos
+2025-03,SBSL,41313,Nội địa,Marechal Cunha Machado International Airport,São Luís,BR,-2.586386,-44.235008,São Luís
+2025-03,SBSM,1251,Nội địa,Santa Maria Airport,Santa Maria,BR,-29.711399,-53.688202,Santa Maria
+2025-03,SBSN,12464,Nội địa,Santarém - Maestro Wilson Fonseca International Airport,Santarém,BR,-2.422423,-54.79306,Santarém
+2025-03,SBSO,1265,Nội địa,Adolino Bedin Regional Airport,Sorriso,BR,-12.479177,-55.672341,Sorriso
+2025-03,SBSP,339963,Nội địa,Congonhas–Deputado Freitas Nobre Airport,São Paulo,BR,-23.627657,-46.654601,São Paulo
+2025-03,SBSR,15930,Nội địa,Prof. Eribelto Manoel Reino State Airport,São José do Rio Preto,BR,-20.817113,-49.406963,São José do Rio Preto
+2025-03,SBSV,120309,Nội địa,Deputado Luiz Eduardo Magalhães International Airport,Salvador,BR,-12.908611,-38.322498,Salvador
+2025-03,SBTB,106,Nội địa,Trombetas Airport,Oriximiná,BR,-1.4896,-56.396801,Oriximiná
+2025-03,SBTC,146,Nội địa,Una-Comandatuba Airport,Una,BR,-15.354358,-38.998729,Una
+2025-03,SBTE,24784,Nội địa,Senador Petrônio Portela Airport,Teresina,BR,-5.06025,-42.823712,Teresina
+2025-03,SBTF,567,Nội địa,Tefé Airport,Tefé,BR,-3.38294,-64.724098,Tefé
+2025-03,SBTG,3,Nội địa,Plínio Alarcom Airport,Três Lagoas,BR,-20.752643,-51.682026,Três Lagoas
+2025-03,SBTT,1223,Nội địa,Tabatinga International Airport,Tabatinga,BR,-4.25567,-69.935799,Tabatinga
+2025-03,SBTU,24,Nội địa,Tucuruí Airport,Tucuruí,BR,-3.78601,-49.720299,Tucuruí
+2025-03,SBUA,414,Nội địa,São Gabriel da Cachoeira Airport,São Gabriel da Cachoeira,BR,-0.14835,-66.9855,São Gabriel da Cachoeira
+2025-03,SBUG,455,Nội địa,Rubem Berta Airport,Uruguaiana,BR,-29.7822,-57.0382,Uruguaiana
+2025-03,SBUL,15393,Nội địa,Ten. Cel. Aviador César Bombonato Airport,Uberlândia,BR,-18.883579,-48.225936,Uberlândia
+2025-03,SBUR,2121,Nội địa,Mário de Almeida Franco Airport,Uberaba,BR,-19.765036,-47.964805,Uberaba
+2025-03,SBVG,25,Nội địa,Major Brigadeiro Trompowsky Airport,Varginha,BR,-21.591375,-45.474116,Varginha
+2025-03,SBVH,253,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
+2025-03,SBVT,69277,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
+2025-03,SBZM,4034,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-03,SDLO,15,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
+2025-03,SDOW,11,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-03,SIRI,17,Nội địa,Barra Grande Airport,Maraú,BR,-13.906082,-38.940804,Maraú
+2025-03,SNAB,9,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
+2025-03,SNBR,1005,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
+2025-03,SNCL,267,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
+2025-03,SNCP,2,Nội địa,Planalto Serrano Regional Airport,Correia Pinto,BR,-27.634128,-50.358253,Correia Pinto
+2025-03,SNDV,69,Nội địa,Brigadeiro Cabral Airport,Divinópolis,BR,-20.180700302124,-44.870899200439,Divinópolis
+2025-03,SNEB,8,Nội địa,Nagib Demachki Airport,Paragominas,BR,-3.019798,-47.316474,Paragominas
+2025-03,SNGI,672,Nội địa,Guanambi Airport,Guanambi,BR,-14.2082,-42.746101,Guanambi
+2025-03,SNGN,4,Nội địa,Garanhuns Airport,Garanhuns,BR,-8.83428,-36.4716,Garanhuns
+2025-03,SNHS,12,Nội địa,Santa Magalhães Airport,Serra Talhada,BR,-8.061433,-38.328888,Serra Talhada
+2025-03,SNJM,15,Nội địa,Aeroporto Elias Breder Airport,Manhuaçu,BR,-20.259722,-42.183887,Manhuaçu
+2025-03,SNLN,48,Nội địa,Linhares Municipal Airport,Linhares,BR,-19.355202,-40.07128,Linhares
+2025-03,SNMZ,39,Nội địa,Porto de Moz Airport,Porto de Moz,BR,-1.741307,-52.236026,Porto de Moz
+2025-03,SNPD,212,Nội địa,Patos de Minas Airport,Patos de Minas,BR,-18.672673,-46.491292,Patos de Minas
+2025-03,SNRU,4,Nội địa,Caruaru Airport,Caruaru,BR,-8.28239,-36.0135,Caruaru
+2025-03,SNSM,7,Nội địa,Salinópolis Airport,Salinópolis,BR,-0.696111,-47.336111,Salinópolis
+2025-03,SNSS,63,Nội địa,Salinas Municipal Airport,Salinas,BR,-16.2083,-42.321999,Salinas
+2025-03,SNTO,68,Nội địa,Juscelino Kubitscheck Airport,Teófilo Otoni,BR,-17.8923,-41.513599,Teófilo Otoni
+2025-03,SNTS,83,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
+2025-03,SNVS,30,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
+2025-03,SNZR,9,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-03,SSGY,18,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
+2025-03,SSKW,336,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
+2025-03,SSOU,30,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
+2025-03,SSUM,20,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
+2025-03,SSUV,3,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
+2025-03,SSVL,2,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-03,SWBR,1,Nội địa,Borba Airport,Borba,BR,-4.40634,-59.602402,Borba
+2025-03,SWEI,193,Nội địa,Eirunepé Airport,Eirunepé,BR,-6.639533,-69.879709,Eirunepé
+2025-03,SWKO,28,Nội địa,Danilson Municipal Airport,Coari,BR,-4.13406,-63.132599,Coari
+2025-03,SWKQ,9,Nội địa,Serra da Capivara Airport,São Raimundo Nonato,BR,-9.083392,-42.644656,São Raimundo Nonato
+2025-03,SWLB,35,Nội địa,Lábrea Airport,Lábrea,BR,-7.27897,-64.769501,Lábrea
+2025-03,SWLC,3,Nội địa,General Leite de Castro Airport,Rio Verde,BR,-17.834723,-50.956112,Rio Verde
+2025-03,SWMW,31,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
+2025-03,SWPI,453,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
+2025-03,SWTP,9,Nội địa,Tapuruquara Airport,Santa Isabel do Rio Negro,BR,-0.378604,-64.992558,Santa Isabel do Rio Negro
+2025-04,SBAE,1377,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
+2025-04,SBAQ,21,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
+2025-04,SBAR,22217,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
+2025-04,SBAT,1155,Nội địa,Piloto Osvaldo Marques Dias Airport,Alta Floresta,BR,-9.866389,-56.106298,Alta Floresta
+2025-04,SBAU,2052,Nội địa,Araçatuba Airport,Araçatuba,BR,-21.141479,-50.424575,Araçatuba
+2025-04,SBAX,132,Nội địa,Romeu Zema Airport,Araxá,BR,-19.5632,-46.9604,Araxá
+2025-04,SBBE,67713,Nội địa,Val de Cans/Júlio Cezar Ribeiro International Airport,Belém,BR,-1.379279,-48.476207,Belém
+2025-04,SBBR,179722,Nội địa,Presidente Juscelino Kubitschek International Airport,Brasília,BR,-15.869167,-47.920834,Brasília
+2025-04,SBBV,6359,Nội địa,Atlas Brasil Cantanhede International Airport,Boa Vista,BR,2.84615,-60.690648,Boa Vista
+2025-04,SBBW,39,Nội địa,Barra do Garças Airport,Barra do Garças,BR,-15.861417,-52.389008,Barra do Garças
+2025-04,SBCA,9049,Nội địa,Coronel Adalberto Mendes da Silva Airport,Cascavel,BR,-25.000323,-53.501208,Cascavel
+2025-04,SBCF,124811,Nội địa,Tancredo Neves International Airport,Belo Horizonte,BR,-19.63571,-43.966928,Belo Horizonte
+2025-04,SBCG,29091,Nội địa,Campo Grande Airport,Campo Grande,BR,-20.469998,-54.673988,Campo Grande
+2025-04,SBCH,11282,Nội địa,Serafin Enoss Bertaso Airport,Chapecó,BR,-27.134199,-52.656601,Chapecó
+2025-04,SBCJ,2720,Nội địa,Carajás Airport,Parauapebas,BR,-6.117841,-50.003372,Parauapebas
+2025-04,SBCN,626,Nội địa,Nelson Ribeiro Guimarães Airport,Caldas Novas,BR,-17.725096,-48.606324,Caldas Novas
+2025-04,SBCR,1044,Nội địa,Corumbá International Airport,Corumbá,BR,-19.01193,-57.672772,Corumbá
+2025-04,SBCT,97538,Nội địa,Curitiba-Afonso Pena International Airport,Curitiba,BR,-25.5285,-49.1758,Curitiba
+2025-04,SBCX,5114,Nội địa,Hugo Cantergiani Regional Airport,Caxias Do Sul,BR,-29.197183,-51.187647,Caxias Do Sul
+2025-04,SBCY,43828,Nội địa,Várzea Grande–Marechal Rondon International Airport,Cuiabá,BR,-15.6529,-56.116699,Cuiabá
+2025-04,SBCZ,575,Nội địa,Cruzeiro do Sul Airport,Cruzeiro Do Sul,BR,-7.59991,-72.769501,Cruzeiro Do Sul
+2025-04,SBDB,652,Nội địa,Bonito Airport,Bonito,BR,-21.2473,-56.452399,Bonito
+2025-04,SBDN,4074,Nội địa,Presidente Prudente Airport,Presidente Prudente,BR,-22.1751,-51.424599,Presidente Prudente
+2025-04,SBEG,52785,Nội địa,Eduardo Gomes International Airport,Manaus,BR,-3.03861,-60.049702,Manaus
+2025-04,SBFI,27691,Nội địa,Cataratas International Airport,Foz do Iguaçu,BR,-25.594167,-54.489444,Foz do Iguaçu
+2025-04,SBFL,62674,Nội địa,Hercílio Luz International Airport,Florianópolis,BR,-27.670279,-48.552502,Florianópolis
+2025-04,SBFN,7506,Nội địa,Fernando de Noronha Airport,Fernando de Noronha,BR,-3.854534,-32.423017,Fernando de Noronha
+2025-04,SBFZ,91881,Nội địa,Pinto Martins International Airport,Fortaleza,BR,-3.775833,-38.532222,Fortaleza
+2025-04,SBGL,164347,Nội địa,Rio de Janeiro Galeão – Tom Jobim International Airport,Rio De Janeiro,BR,-22.809999,-43.250557,Rio De Janeiro
+2025-04,SBGO,72459,Nội địa,Santa Genoveva International Airport,Goiânia,BR,-16.632,-49.220699,Goiânia
+2025-04,SBGR,284471,Nội địa,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,São Paulo,BR,-23.431274,-46.469954,São Paulo
+2025-04,SBGV,1544,Nội địa,Coronel Altino Machado Airport,Governador Valadares,BR,-18.895882,-41.982869,Governador Valadares
+2025-04,SBHT,2238,Nội địa,Altamira Interstate Airport,Altamira,BR,-3.253144,-52.253938,Altamira
+2025-04,SBIH,214,Nội địa,Itaituba Airport,Itaituba,BR,-4.242131,-56.000651,Itaituba
+2025-04,SBIL,11774,Nội địa,Bahia - Jorge Amado Airport,Ilhéus,BR,-14.815929,-39.033458,Ilhéus
+2025-04,SBIP,2238,Nội địa,Usiminas Airport,Ipatinga,BR,-19.470699,-42.487598,Ipatinga
+2025-04,SBIZ,6891,Nội địa,Prefeito Renato Moreira Airport,Imperatriz,BR,-5.53129,-47.459999,Imperatriz
+2025-04,SBJA,2352,Nội địa,Humberto Ghizzo Bortoluzzi Regional Airport,Jaguaruna,BR,-28.6753,-49.0596,Jaguaruna
+2025-04,SBJE,3520,Nội địa,Comandante Ariston Pessoa Airport,Cruz,BR,-2.906425,-40.357338,Cruz
+2025-04,SBJI,176,Nội địa,Ji-Paraná Airport,Ji-Paraná,BR,-10.870743,-61.846675,Ji-Paraná
+2025-04,SBJP,33583,Nội địa,Presidente Castro Pinto International Airport,João Pessoa,BR,-7.148691,-34.950554,João Pessoa
+2025-04,SBJR,943,Nội địa,Jacarepaguá - Roberto Marinho Airport,Rio de Janeiro,BR,-22.986773,-43.372194,Rio de Janeiro
+2025-04,SBJU,9462,Nội địa,Orlando Bezerra de Menezes Airport,Juazeiro do Norte,BR,-7.21932,-39.269096,Juazeiro do Norte
+2025-04,SBJV,10597,Nội địa,Lauro Carneiro de Loyola Airport,Joinville,BR,-26.224501,-48.797401,Joinville
+2025-04,SBKG,3789,Nội địa,Presidente João Suassuna Airport,Campina Grande,BR,-7.269662,-35.896057,Campina Grande
+2025-04,SBKP,85018,Nội địa,Viracopos International Airport,Campinas,BR,-23.007404,-47.134502,Campinas
+2025-04,SBLE,261,Nội địa,Coronel Horácio de Mattos Airport,Lençóis,BR,-12.4823,-41.277,Lençóis
+2025-04,SBLO,13399,Nội địa,Governor José Richa Airport,Londrina,BR,-23.334375,-51.128365,Londrina
+2025-04,SBMA,8525,Nội địa,João Correa da Rocha Airport,Marabá,BR,-5.36859,-49.138,Marabá
+2025-04,SBMD,22,Nội địa,Monte Dourado - Serra do Areão Airport,Almeirim,BR,-0.889839,-52.6022,Almeirim
+2025-04,SBMG,17415,Nội địa,Regional de Maringá - Sílvio Name Júnior Airport,Maringá,BR,-23.47606,-52.016187,Maringá
+2025-04,SBMK,8444,Nội địa,Mário Ribeiro Airport,Montes Claros,BR,-16.706919,-43.818901,Montes Claros
+2025-04,SBML,647,Nội địa,Frank Miloye Milenkowichi–Marília State Airport,Marília,BR,-22.196899,-49.926485,Marília
+2025-04,SBMO,34981,Nội địa,Zumbi dos Palmares International Airport,Maceió,BR,-9.512559,-35.791839,Maceió
+2025-04,SBMQ,14044,Nội địa,Macapá - Alberto Alcolumbre International Airport,Macapá,BR,0.050664,-51.072201,Macapá
+2025-04,SBMY,31,Nội địa,Manicoré Airport,Manicoré,BR,-5.81138,-61.278301,Manicoré
+2025-04,SBNF,39154,Nội địa,Ministro Victor Konder International Airport,Navegantes,BR,-26.879431,-48.650979,Navegantes
+2025-04,SBNM,1130,Nội địa,Santo Ângelo Airport,Santo Ângelo,BR,-28.282503,-54.169623,Santo Ângelo
+2025-04,SBPA,123834,Nội địa,Porto Alegre-Salgado Filho International Airport,Porto Alegre,BR,-29.993984,-51.167482,Porto Alegre
+2025-04,SBPF,5208,Nội địa,Lauro Kurtz Airport,Passo Fundo,BR,-28.243976,-52.32777,Passo Fundo
+2025-04,SBPJ,16194,Nội địa,Brigadeiro Lysias Rodrigues Airport,Palmas,BR,-10.2915,-48.356998,Palmas
+2025-04,SBPK,2961,Nội địa,João Simões Lopes Neto International Airport,Pelotas,BR,-31.717189,-52.327796,Pelotas
+2025-04,SBPL,11285,Nội địa,Senador Nilo Coelho Airport,Petrolina,BR,-9.362422,-40.569098,Petrolina
+2025-04,SBPO,705,Nội địa,Juvenal Loureiro Cardoso Airport,Pato Branco,BR,-26.217184,-52.694463,Pato Branco
+2025-04,SBPP,594,Nội địa,Ponta Porã Airport,Ponta Porã,BR,-22.549601,-55.702599,Ponta Porã
+2025-04,SBPS,30051,Nội địa,Porto Seguro International Airport,Porto Seguro,BR,-16.438426,-39.080584,Porto Seguro
+2025-04,SBPV,12181,Nội địa,Governador Jorge Teixeira de Oliveira International Airport,Porto Velho,BR,-8.708491,-63.902338,Porto Velho
+2025-04,SBRB,6475,Nội địa,Rio Branco-Plácido de Castro International Airport,Rio Branco,BR,-9.869031,-67.893984,Rio Branco
+2025-04,SBRD,1023,Nội địa,Maestro Marinho Franco Airport,Rondonópolis,BR,-16.584292,-54.724803,Rondonópolis
+2025-04,SBRF,115902,Nội địa,Recife/Guararapes - Gilberto Freyre International Airport,Recife,BR,-8.12747,-34.922961,Recife
+2025-04,SBRJ,102378,Nội địa,Santos Dumont Airport,Rio de Janeiro,BR,-22.910397,-43.16282,Rio de Janeiro
+2025-04,SBRP,10204,Nội địa,Leite Lopes Airport,Ribeirão Preto,BR,-21.134314,-47.774053,Ribeirão Preto
+2025-04,SBSG,31061,Nội địa,Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport,Natal,BR,-5.769822,-35.36661,Natal
+2025-04,SBSI,9685,Nội địa,Presidente João Batista Figueiredo Airport,Sinop,BR,-11.885001,-55.586109,Sinop
+2025-04,SBSJ,550,Nội địa,Professor Urbano Ernesto Stumpf Airport,São José Dos Campos,BR,-23.2292,-45.8615,São José Dos Campos
+2025-04,SBSL,42464,Nội địa,Marechal Cunha Machado International Airport,São Luís,BR,-2.586386,-44.235008,São Luís
+2025-04,SBSM,761,Nội địa,Santa Maria Airport,Santa Maria,BR,-29.711399,-53.688202,Santa Maria
+2025-04,SBSN,11986,Nội địa,Santarém - Maestro Wilson Fonseca International Airport,Santarém,BR,-2.422423,-54.79306,Santarém
+2025-04,SBSO,1193,Nội địa,Adolino Bedin Regional Airport,Sorriso,BR,-12.479177,-55.672341,Sorriso
+2025-04,SBSP,297638,Nội địa,Congonhas–Deputado Freitas Nobre Airport,São Paulo,BR,-23.627657,-46.654601,São Paulo
+2025-04,SBSR,16492,Nội địa,Prof. Eribelto Manoel Reino State Airport,São José do Rio Preto,BR,-20.817113,-49.406963,São José do Rio Preto
+2025-04,SBSV,109573,Nội địa,Deputado Luiz Eduardo Magalhães International Airport,Salvador,BR,-12.908611,-38.322498,Salvador
+2025-04,SBTB,141,Nội địa,Trombetas Airport,Oriximiná,BR,-1.4896,-56.396801,Oriximiná
+2025-04,SBTC,57,Nội địa,Una-Comandatuba Airport,Una,BR,-15.354358,-38.998729,Una
+2025-04,SBTE,23026,Nội địa,Senador Petrônio Portela Airport,Teresina,BR,-5.06025,-42.823712,Teresina
+2025-04,SBTF,555,Nội địa,Tefé Airport,Tefé,BR,-3.38294,-64.724098,Tefé
+2025-04,SBTT,1301,Nội địa,Tabatinga International Airport,Tabatinga,BR,-4.25567,-69.935799,Tabatinga
+2025-04,SBTU,10,Nội địa,Tucuruí Airport,Tucuruí,BR,-3.78601,-49.720299,Tucuruí
+2025-04,SBUA,414,Nội địa,São Gabriel da Cachoeira Airport,São Gabriel da Cachoeira,BR,-0.14835,-66.9855,São Gabriel da Cachoeira
+2025-04,SBUG,528,Nội địa,Rubem Berta Airport,Uruguaiana,BR,-29.7822,-57.0382,Uruguaiana
+2025-04,SBUL,14776,Nội địa,Ten. Cel. Aviador César Bombonato Airport,Uberlândia,BR,-18.883579,-48.225936,Uberlândia
+2025-04,SBUR,1639,Nội địa,Mário de Almeida Franco Airport,Uberaba,BR,-19.765036,-47.964805,Uberaba
+2025-04,SBVG,18,Nội địa,Major Brigadeiro Trompowsky Airport,Varginha,BR,-21.591375,-45.474116,Varginha
+2025-04,SBVH,501,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
+2025-04,SBVT,62682,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
+2025-04,SBZM,2822,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-04,SDLO,4,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
+2025-04,SDOW,22,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-04,SIRI,17,Nội địa,Barra Grande Airport,Maraú,BR,-13.906082,-38.940804,Maraú
+2025-04,SNAB,21,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
+2025-04,SNBR,1257,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
+2025-04,SNCL,187,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
+2025-04,SNDV,71,Nội địa,Brigadeiro Cabral Airport,Divinópolis,BR,-20.180700302124,-44.870899200439,Divinópolis
+2025-04,SNEB,7,Nội địa,Nagib Demachki Airport,Paragominas,BR,-3.019798,-47.316474,Paragominas
+2025-04,SNGI,721,Nội địa,Guanambi Airport,Guanambi,BR,-14.2082,-42.746101,Guanambi
+2025-04,SNGN,6,Nội địa,Garanhuns Airport,Garanhuns,BR,-8.83428,-36.4716,Garanhuns
+2025-04,SNHS,26,Nội địa,Santa Magalhães Airport,Serra Talhada,BR,-8.061433,-38.328888,Serra Talhada
+2025-04,SNJM,14,Nội địa,Aeroporto Elias Breder Airport,Manhuaçu,BR,-20.259722,-42.183887,Manhuaçu
+2025-04,SNLN,42,Nội địa,Linhares Municipal Airport,Linhares,BR,-19.355202,-40.07128,Linhares
+2025-04,SNMZ,36,Nội địa,Porto de Moz Airport,Porto de Moz,BR,-1.741307,-52.236026,Porto de Moz
+2025-04,SNPD,239,Nội địa,Patos de Minas Airport,Patos de Minas,BR,-18.672673,-46.491292,Patos de Minas
+2025-04,SNRU,1,Nội địa,Caruaru Airport,Caruaru,BR,-8.28239,-36.0135,Caruaru
+2025-04,SNSM,2,Nội địa,Salinópolis Airport,Salinópolis,BR,-0.696111,-47.336111,Salinópolis
+2025-04,SNSS,54,Nội địa,Salinas Municipal Airport,Salinas,BR,-16.2083,-42.321999,Salinas
+2025-04,SNTO,38,Nội địa,Juscelino Kubitscheck Airport,Teófilo Otoni,BR,-17.8923,-41.513599,Teófilo Otoni
+2025-04,SNTS,63,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
+2025-04,SNVS,30,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
+2025-04,SNZR,8,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-04,SSGY,17,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
+2025-04,SSKW,229,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
+2025-04,SSOU,42,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
+2025-04,SSUM,37,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
+2025-04,SSUV,17,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
+2025-04,SSVL,6,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-04,SWBR,5,Nội địa,Borba Airport,Borba,BR,-4.40634,-59.602402,Borba
+2025-04,SWEI,151,Nội địa,Eirunepé Airport,Eirunepé,BR,-6.639533,-69.879709,Eirunepé
+2025-04,SWKO,27,Nội địa,Danilson Municipal Airport,Coari,BR,-4.13406,-63.132599,Coari
+2025-04,SWLB,11,Nội địa,Lábrea Airport,Lábrea,BR,-7.27897,-64.769501,Lábrea
+2025-04,SWMW,8,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
+2025-04,SWPI,743,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
+2025-04,SWTP,5,Nội địa,Tapuruquara Airport,Santa Isabel do Rio Negro,BR,-0.378604,-64.992558,Santa Isabel do Rio Negro
+2025-05,SBAE,1102,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
+2025-05,SBAQ,22,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
+2025-05,SBAR,22423,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
+2025-05,SBAT,972,Nội địa,Piloto Osvaldo Marques Dias Airport,Alta Floresta,BR,-9.866389,-56.106298,Alta Floresta
+2025-05,SBAU,2161,Nội địa,Araçatuba Airport,Araçatuba,BR,-21.141479,-50.424575,Araçatuba
+2025-05,SBAX,192,Nội địa,Romeu Zema Airport,Araxá,BR,-19.5632,-46.9604,Araxá
+2025-05,SBBE,73464,Nội địa,Val de Cans/Júlio Cezar Ribeiro International Airport,Belém,BR,-1.379279,-48.476207,Belém
+2025-05,SBBR,190081,Nội địa,Presidente Juscelino Kubitschek International Airport,Brasília,BR,-15.869167,-47.920834,Brasília
+2025-05,SBBV,6111,Nội địa,Atlas Brasil Cantanhede International Airport,Boa Vista,BR,2.84615,-60.690648,Boa Vista
+2025-05,SBBW,30,Nội địa,Barra do Garças Airport,Barra do Garças,BR,-15.861417,-52.389008,Barra do Garças
+2025-05,SBCA,10328,Nội địa,Coronel Adalberto Mendes da Silva Airport,Cascavel,BR,-25.000323,-53.501208,Cascavel
+2025-05,SBCF,148440,Nội địa,Tancredo Neves International Airport,Belo Horizonte,BR,-19.63571,-43.966928,Belo Horizonte
+2025-05,SBCG,33286,Nội địa,Campo Grande Airport,Campo Grande,BR,-20.469998,-54.673988,Campo Grande
+2025-05,SBCH,13089,Nội địa,Serafin Enoss Bertaso Airport,Chapecó,BR,-27.134199,-52.656601,Chapecó
+2025-05,SBCJ,2454,Nội địa,Carajás Airport,Parauapebas,BR,-6.117841,-50.003372,Parauapebas
+2025-05,SBCN,620,Nội địa,Nelson Ribeiro Guimarães Airport,Caldas Novas,BR,-17.725096,-48.606324,Caldas Novas
+2025-05,SBCR,959,Nội địa,Corumbá International Airport,Corumbá,BR,-19.01193,-57.672772,Corumbá
+2025-05,SBCT,111730,Nội địa,Curitiba-Afonso Pena International Airport,Curitiba,BR,-25.5285,-49.1758,Curitiba
+2025-05,SBCX,6681,Nội địa,Hugo Cantergiani Regional Airport,Caxias Do Sul,BR,-29.197183,-51.187647,Caxias Do Sul
+2025-05,SBCY,50862,Nội địa,Várzea Grande–Marechal Rondon International Airport,Cuiabá,BR,-15.6529,-56.116699,Cuiabá
+2025-05,SBCZ,567,Nội địa,Cruzeiro do Sul Airport,Cruzeiro Do Sul,BR,-7.59991,-72.769501,Cruzeiro Do Sul
+2025-05,SBDB,896,Nội địa,Bonito Airport,Bonito,BR,-21.2473,-56.452399,Bonito
+2025-05,SBDN,4199,Nội địa,Presidente Prudente Airport,Presidente Prudente,BR,-22.1751,-51.424599,Presidente Prudente
+2025-05,SBDO,278,Nội địa,Dourados Airport,Dourados,BR,-22.2019,-54.926601,Dourados
+2025-05,SBEG,54763,Nội địa,Eduardo Gomes International Airport,Manaus,BR,-3.03861,-60.049702,Manaus
+2025-05,SBFI,33525,Nội địa,Cataratas International Airport,Foz do Iguaçu,BR,-25.594167,-54.489444,Foz do Iguaçu
+2025-05,SBFL,73046,Nội địa,Hercílio Luz International Airport,Florianópolis,BR,-27.670279,-48.552502,Florianópolis
+2025-05,SBFN,7251,Nội địa,Fernando de Noronha Airport,Fernando de Noronha,BR,-3.854534,-32.423017,Fernando de Noronha
+2025-05,SBFZ,105074,Nội địa,Pinto Martins International Airport,Fortaleza,BR,-3.775833,-38.532222,Fortaleza
+2025-05,SBGL,175854,Nội địa,Rio de Janeiro Galeão – Tom Jobim International Airport,Rio De Janeiro,BR,-22.809999,-43.250557,Rio De Janeiro
+2025-05,SBGO,78403,Nội địa,Santa Genoveva International Airport,Goiânia,BR,-16.632,-49.220699,Goiânia
+2025-05,SBGR,331613,Nội địa,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,São Paulo,BR,-23.431274,-46.469954,São Paulo
+2025-05,SBGV,1766,Nội địa,Coronel Altino Machado Airport,Governador Valadares,BR,-18.895882,-41.982869,Governador Valadares
+2025-05,SBHT,2568,Nội địa,Altamira Interstate Airport,Altamira,BR,-3.253144,-52.253938,Altamira
+2025-05,SBIH,221,Nội địa,Itaituba Airport,Itaituba,BR,-4.242131,-56.000651,Itaituba
+2025-05,SBIL,13240,Nội địa,Bahia - Jorge Amado Airport,Ilhéus,BR,-14.815929,-39.033458,Ilhéus
+2025-05,SBIP,2036,Nội địa,Usiminas Airport,Ipatinga,BR,-19.470699,-42.487598,Ipatinga
+2025-05,SBIZ,7646,Nội địa,Prefeito Renato Moreira Airport,Imperatriz,BR,-5.53129,-47.459999,Imperatriz
+2025-05,SBJA,2615,Nội địa,Humberto Ghizzo Bortoluzzi Regional Airport,Jaguaruna,BR,-28.6753,-49.0596,Jaguaruna
+2025-05,SBJE,4687,Nội địa,Comandante Ariston Pessoa Airport,Cruz,BR,-2.906425,-40.357338,Cruz
+2025-05,SBJI,229,Nội địa,Ji-Paraná Airport,Ji-Paraná,BR,-10.870743,-61.846675,Ji-Paraná
+2025-05,SBJP,34862,Nội địa,Presidente Castro Pinto International Airport,João Pessoa,BR,-7.148691,-34.950554,João Pessoa
+2025-05,SBJR,833,Nội địa,Jacarepaguá - Roberto Marinho Airport,Rio de Janeiro,BR,-22.986773,-43.372194,Rio de Janeiro
+2025-05,SBJU,10334,Nội địa,Orlando Bezerra de Menezes Airport,Juazeiro do Norte,BR,-7.21932,-39.269096,Juazeiro do Norte
+2025-05,SBJV,11775,Nội địa,Lauro Carneiro de Loyola Airport,Joinville,BR,-26.224501,-48.797401,Joinville
+2025-05,SBKG,3601,Nội địa,Presidente João Suassuna Airport,Campina Grande,BR,-7.269662,-35.896057,Campina Grande
+2025-05,SBKP,97240,Nội địa,Viracopos International Airport,Campinas,BR,-23.007404,-47.134502,Campinas
+2025-05,SBLE,284,Nội địa,Coronel Horácio de Mattos Airport,Lençóis,BR,-12.4823,-41.277,Lençóis
+2025-05,SBLO,14434,Nội địa,Governor José Richa Airport,Londrina,BR,-23.334375,-51.128365,Londrina
+2025-05,SBMA,8891,Nội địa,João Correa da Rocha Airport,Marabá,BR,-5.36859,-49.138,Marabá
+2025-05,SBMD,21,Nội địa,Monte Dourado - Serra do Areão Airport,Almeirim,BR,-0.889839,-52.6022,Almeirim
+2025-05,SBMG,19592,Nội địa,Regional de Maringá - Sílvio Name Júnior Airport,Maringá,BR,-23.47606,-52.016187,Maringá
+2025-05,SBMK,9833,Nội địa,Mário Ribeiro Airport,Montes Claros,BR,-16.706919,-43.818901,Montes Claros
+2025-05,SBML,640,Nội địa,Frank Miloye Milenkowichi–Marília State Airport,Marília,BR,-22.196899,-49.926485,Marília
+2025-05,SBMO,43340,Nội địa,Zumbi dos Palmares International Airport,Maceió,BR,-9.512559,-35.791839,Maceió
+2025-05,SBMQ,14767,Nội địa,Macapá - Alberto Alcolumbre International Airport,Macapá,BR,0.050664,-51.072201,Macapá
+2025-05,SBMY,61,Nội địa,Manicoré Airport,Manicoré,BR,-5.81138,-61.278301,Manicoré
+2025-05,SBNF,44458,Nội địa,Ministro Victor Konder International Airport,Navegantes,BR,-26.879431,-48.650979,Navegantes
+2025-05,SBNM,1468,Nội địa,Santo Ângelo Airport,Santo Ângelo,BR,-28.282503,-54.169623,Santo Ângelo
+2025-05,SBPA,132118,Nội địa,Porto Alegre-Salgado Filho International Airport,Porto Alegre,BR,-29.993984,-51.167482,Porto Alegre
+2025-05,SBPB,43,Nội địa,Parnaíba - Prefeito Doutor João Silva Filho International Airport,Parnaíba,BR,-2.89375,-41.731998,Parnaíba
+2025-05,SBPF,5871,Nội địa,Lauro Kurtz Airport,Passo Fundo,BR,-28.243976,-52.32777,Passo Fundo
+2025-05,SBPJ,17313,Nội địa,Brigadeiro Lysias Rodrigues Airport,Palmas,BR,-10.2915,-48.356998,Palmas
+2025-05,SBPK,3420,Nội địa,João Simões Lopes Neto International Airport,Pelotas,BR,-31.717189,-52.327796,Pelotas
+2025-05,SBPL,10364,Nội địa,Senador Nilo Coelho Airport,Petrolina,BR,-9.362422,-40.569098,Petrolina
+2025-05,SBPO,789,Nội địa,Juvenal Loureiro Cardoso Airport,Pato Branco,BR,-26.217184,-52.694463,Pato Branco
+2025-05,SBPP,628,Nội địa,Ponta Porã Airport,Ponta Porã,BR,-22.549601,-55.702599,Ponta Porã
+2025-05,SBPS,34044,Nội địa,Porto Seguro International Airport,Porto Seguro,BR,-16.438426,-39.080584,Porto Seguro
+2025-05,SBPV,12383,Nội địa,Governador Jorge Teixeira de Oliveira International Airport,Porto Velho,BR,-8.708491,-63.902338,Porto Velho
+2025-05,SBRB,7112,Nội địa,Rio Branco-Plácido de Castro International Airport,Rio Branco,BR,-9.869031,-67.893984,Rio Branco
+2025-05,SBRD,978,Nội địa,Maestro Marinho Franco Airport,Rondonópolis,BR,-16.584292,-54.724803,Rondonópolis
+2025-05,SBRF,149329,Nội địa,Recife/Guararapes - Gilberto Freyre International Airport,Recife,BR,-8.12747,-34.922961,Recife
+2025-05,SBRJ,114160,Nội địa,Santos Dumont Airport,Rio de Janeiro,BR,-22.910397,-43.16282,Rio de Janeiro
+2025-05,SBRP,10913,Nội địa,Leite Lopes Airport,Ribeirão Preto,BR,-21.134314,-47.774053,Ribeirão Preto
+2025-05,SBSG,33385,Nội địa,Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport,Natal,BR,-5.769822,-35.36661,Natal
+2025-05,SBSI,9593,Nội địa,Presidente João Batista Figueiredo Airport,Sinop,BR,-11.885001,-55.586109,Sinop
+2025-05,SBSJ,725,Nội địa,Professor Urbano Ernesto Stumpf Airport,São José Dos Campos,BR,-23.2292,-45.8615,São José Dos Campos
+2025-05,SBSL,42932,Nội địa,Marechal Cunha Machado International Airport,São Luís,BR,-2.586386,-44.235008,São Luís
+2025-05,SBSM,773,Nội địa,Santa Maria Airport,Santa Maria,BR,-29.711399,-53.688202,Santa Maria
+2025-05,SBSN,11773,Nội địa,Santarém - Maestro Wilson Fonseca International Airport,Santarém,BR,-2.422423,-54.79306,Santarém
+2025-05,SBSO,1303,Nội địa,Adolino Bedin Regional Airport,Sorriso,BR,-12.479177,-55.672341,Sorriso
+2025-05,SBSP,360395,Nội địa,Congonhas–Deputado Freitas Nobre Airport,São Paulo,BR,-23.627657,-46.654601,São Paulo
+2025-05,SBSR,17531,Nội địa,Prof. Eribelto Manoel Reino State Airport,São José do Rio Preto,BR,-20.817113,-49.406963,São José do Rio Preto
+2025-05,SBSV,121619,Nội địa,Deputado Luiz Eduardo Magalhães International Airport,Salvador,BR,-12.908611,-38.322498,Salvador
+2025-05,SBTB,108,Nội địa,Trombetas Airport,Oriximiná,BR,-1.4896,-56.396801,Oriximiná
+2025-05,SBTC,35,Nội địa,Una-Comandatuba Airport,Una,BR,-15.354358,-38.998729,Una
+2025-05,SBTE,25469,Nội địa,Senador Petrônio Portela Airport,Teresina,BR,-5.06025,-42.823712,Teresina
+2025-05,SBTF,537,Nội địa,Tefé Airport,Tefé,BR,-3.38294,-64.724098,Tefé
+2025-05,SBTT,1373,Nội địa,Tabatinga International Airport,Tabatinga,BR,-4.25567,-69.935799,Tabatinga
+2025-05,SBTU,8,Nội địa,Tucuruí Airport,Tucuruí,BR,-3.78601,-49.720299,Tucuruí
+2025-05,SBUA,401,Nội địa,São Gabriel da Cachoeira Airport,São Gabriel da Cachoeira,BR,-0.14835,-66.9855,São Gabriel da Cachoeira
+2025-05,SBUG,637,Nội địa,Rubem Berta Airport,Uruguaiana,BR,-29.7822,-57.0382,Uruguaiana
+2025-05,SBUL,16146,Nội địa,Ten. Cel. Aviador César Bombonato Airport,Uberlândia,BR,-18.883579,-48.225936,Uberlândia
+2025-05,SBUR,1555,Nội địa,Mário de Almeida Franco Airport,Uberaba,BR,-19.765036,-47.964805,Uberaba
+2025-05,SBVG,14,Nội địa,Major Brigadeiro Trompowsky Airport,Varginha,BR,-21.591375,-45.474116,Varginha
+2025-05,SBVH,495,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
+2025-05,SBVT,77235,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
+2025-05,SBZM,2580,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-05,SDLO,20,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
+2025-05,SDOW,18,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-05,SNAB,11,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
+2025-05,SNBR,1344,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
+2025-05,SNCL,220,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
+2025-05,SNDV,90,Nội địa,Brigadeiro Cabral Airport,Divinópolis,BR,-20.180700302124,-44.870899200439,Divinópolis
+2025-05,SNEB,11,Nội địa,Nagib Demachki Airport,Paragominas,BR,-3.019798,-47.316474,Paragominas
+2025-05,SNGI,853,Nội địa,Guanambi Airport,Guanambi,BR,-14.2082,-42.746101,Guanambi
+2025-05,SNGN,14,Nội địa,Garanhuns Airport,Garanhuns,BR,-8.83428,-36.4716,Garanhuns
+2025-05,SNHS,16,Nội địa,Santa Magalhães Airport,Serra Talhada,BR,-8.061433,-38.328888,Serra Talhada
+2025-05,SNJM,17,Nội địa,Aeroporto Elias Breder Airport,Manhuaçu,BR,-20.259722,-42.183887,Manhuaçu
+2025-05,SNLN,37,Nội địa,Linhares Municipal Airport,Linhares,BR,-19.355202,-40.07128,Linhares
+2025-05,SNMZ,20,Nội địa,Porto de Moz Airport,Porto de Moz,BR,-1.741307,-52.236026,Porto de Moz
+2025-05,SNPD,312,Nội địa,Patos de Minas Airport,Patos de Minas,BR,-18.672673,-46.491292,Patos de Minas
+2025-05,SNRU,1,Nội địa,Caruaru Airport,Caruaru,BR,-8.28239,-36.0135,Caruaru
+2025-05,SNSS,51,Nội địa,Salinas Municipal Airport,Salinas,BR,-16.2083,-42.321999,Salinas
+2025-05,SNTO,39,Nội địa,Juscelino Kubitscheck Airport,Teófilo Otoni,BR,-17.8923,-41.513599,Teófilo Otoni
+2025-05,SNTS,48,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
+2025-05,SNVS,26,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
+2025-05,SNZR,10,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-05,SSGY,15,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
+2025-05,SSKW,210,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
+2025-05,SSOU,41,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
+2025-05,SSUM,37,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
+2025-05,SSUV,13,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
+2025-05,SSVL,5,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-05,SWBR,10,Nội địa,Borba Airport,Borba,BR,-4.40634,-59.602402,Borba
+2025-05,SWEI,37,Nội địa,Eirunepé Airport,Eirunepé,BR,-6.639533,-69.879709,Eirunepé
+2025-05,SWKO,35,Nội địa,Danilson Municipal Airport,Coari,BR,-4.13406,-63.132599,Coari
+2025-05,SWLB,23,Nội địa,Lábrea Airport,Lábrea,BR,-7.27897,-64.769501,Lábrea
+2025-05,SWMW,22,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
+2025-05,SWPI,957,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
+2025-05,SWTP,7,Nội địa,Tapuruquara Airport,Santa Isabel do Rio Negro,BR,-0.378604,-64.992558,Santa Isabel do Rio Negro
+2025-05,SWYN,82,Nội địa,Apuí Airport,Apuí,BR,-7.172773,-59.8396,Apuí
+2025-06,SBAE,640,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
+2025-06,SBAQ,41,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
+2025-06,SBAR,18345,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
+2025-06,SBAT,495,Nội địa,Piloto Osvaldo Marques Dias Airport,Alta Floresta,BR,-9.866389,-56.106298,Alta Floresta
+2025-06,SBAU,2025,Nội địa,Araçatuba Airport,Araçatuba,BR,-21.141479,-50.424575,Araçatuba
+2025-06,SBAX,166,Nội địa,Romeu Zema Airport,Araxá,BR,-19.5632,-46.9604,Araxá
+2025-06,SBBE,48921,Nội địa,Val de Cans/Júlio Cezar Ribeiro International Airport,Belém,BR,-1.379279,-48.476207,Belém
+2025-06,SBBR,144766,Nội địa,Presidente Juscelino Kubitschek International Airport,Brasília,BR,-15.869167,-47.920834,Brasília
+2025-06,SBBV,4949,Nội địa,Atlas Brasil Cantanhede International Airport,Boa Vista,BR,2.84615,-60.690648,Boa Vista
+2025-06,SBBW,31,Nội địa,Barra do Garças Airport,Barra do Garças,BR,-15.861417,-52.389008,Barra do Garças
+2025-06,SBCA,8432,Nội địa,Coronel Adalberto Mendes da Silva Airport,Cascavel,BR,-25.000323,-53.501208,Cascavel
+2025-06,SBCF,121085,Nội địa,Tancredo Neves International Airport,Belo Horizonte,BR,-19.63571,-43.966928,Belo Horizonte
+2025-06,SBCG,28273,Nội địa,Campo Grande Airport,Campo Grande,BR,-20.469998,-54.673988,Campo Grande
+2025-06,SBCH,11185,Nội địa,Serafin Enoss Bertaso Airport,Chapecó,BR,-27.134199,-52.656601,Chapecó
+2025-06,SBCJ,1846,Nội địa,Carajás Airport,Parauapebas,BR,-6.117841,-50.003372,Parauapebas
+2025-06,SBCN,920,Nội địa,Nelson Ribeiro Guimarães Airport,Caldas Novas,BR,-17.725096,-48.606324,Caldas Novas
+2025-06,SBCR,580,Nội địa,Corumbá International Airport,Corumbá,BR,-19.01193,-57.672772,Corumbá
+2025-06,SBCT,91682,Nội địa,Curitiba-Afonso Pena International Airport,Curitiba,BR,-25.5285,-49.1758,Curitiba
+2025-06,SBCX,5275,Nội địa,Hugo Cantergiani Regional Airport,Caxias Do Sul,BR,-29.197183,-51.187647,Caxias Do Sul
+2025-06,SBCY,40253,Nội địa,Várzea Grande–Marechal Rondon International Airport,Cuiabá,BR,-15.6529,-56.116699,Cuiabá
+2025-06,SBCZ,432,Nội địa,Cruzeiro do Sul Airport,Cruzeiro Do Sul,BR,-7.59991,-72.769501,Cruzeiro Do Sul
+2025-06,SBDB,894,Nội địa,Bonito Airport,Bonito,BR,-21.2473,-56.452399,Bonito
+2025-06,SBDN,3321,Nội địa,Presidente Prudente Airport,Presidente Prudente,BR,-22.1751,-51.424599,Presidente Prudente
+2025-06,SBDO,95,Nội địa,Dourados Airport,Dourados,BR,-22.2019,-54.926601,Dourados
+2025-06,SBEG,44011,Nội địa,Eduardo Gomes International Airport,Manaus,BR,-3.03861,-60.049702,Manaus
+2025-06,SBFI,27205,Nội địa,Cataratas International Airport,Foz do Iguaçu,BR,-25.594167,-54.489444,Foz do Iguaçu
+2025-06,SBFL,63862,Nội địa,Hercílio Luz International Airport,Florianópolis,BR,-27.670279,-48.552502,Florianópolis
+2025-06,SBFN,5858,Nội địa,Fernando de Noronha Airport,Fernando de Noronha,BR,-3.854534,-32.423017,Fernando de Noronha
+2025-06,SBFZ,81512,Nội địa,Pinto Martins International Airport,Fortaleza,BR,-3.775833,-38.532222,Fortaleza
+2025-06,SBGL,154735,Nội địa,Rio de Janeiro Galeão – Tom Jobim International Airport,Rio De Janeiro,BR,-22.809999,-43.250557,Rio De Janeiro
+2025-06,SBGO,63416,Nội địa,Santa Genoveva International Airport,Goiânia,BR,-16.632,-49.220699,Goiânia
+2025-06,SBGR,278604,Nội địa,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,São Paulo,BR,-23.431274,-46.469954,São Paulo
+2025-06,SBGV,1842,Nội địa,Coronel Altino Machado Airport,Governador Valadares,BR,-18.895882,-41.982869,Governador Valadares
+2025-06,SBHT,1697,Nội địa,Altamira Interstate Airport,Altamira,BR,-3.253144,-52.253938,Altamira
+2025-06,SBIH,188,Nội địa,Itaituba Airport,Itaituba,BR,-4.242131,-56.000651,Itaituba
+2025-06,SBIL,10041,Nội địa,Bahia - Jorge Amado Airport,Ilhéus,BR,-14.815929,-39.033458,Ilhéus
+2025-06,SBIP,1584,Nội địa,Usiminas Airport,Ipatinga,BR,-19.470699,-42.487598,Ipatinga
+2025-06,SBIZ,6497,Nội địa,Prefeito Renato Moreira Airport,Imperatriz,BR,-5.53129,-47.459999,Imperatriz
+2025-06,SBJA,2729,Nội địa,Humberto Ghizzo Bortoluzzi Regional Airport,Jaguaruna,BR,-28.6753,-49.0596,Jaguaruna
+2025-06,SBJE,3973,Nội địa,Comandante Ariston Pessoa Airport,Cruz,BR,-2.906425,-40.357338,Cruz
+2025-06,SBJI,245,Nội địa,Ji-Paraná Airport,Ji-Paraná,BR,-10.870743,-61.846675,Ji-Paraná
+2025-06,SBJP,28572,Nội địa,Presidente Castro Pinto International Airport,João Pessoa,BR,-7.148691,-34.950554,João Pessoa
+2025-06,SBJR,892,Nội địa,Jacarepaguá - Roberto Marinho Airport,Rio de Janeiro,BR,-22.986773,-43.372194,Rio de Janeiro
+2025-06,SBJU,7913,Nội địa,Orlando Bezerra de Menezes Airport,Juazeiro do Norte,BR,-7.21932,-39.269096,Juazeiro do Norte
+2025-06,SBJV,8797,Nội địa,Lauro Carneiro de Loyola Airport,Joinville,BR,-26.224501,-48.797401,Joinville
+2025-06,SBKG,2535,Nội địa,Presidente João Suassuna Airport,Campina Grande,BR,-7.269662,-35.896057,Campina Grande
+2025-06,SBKP,81370,Nội địa,Viracopos International Airport,Campinas,BR,-23.007404,-47.134502,Campinas
+2025-06,SBLE,208,Nội địa,Coronel Horácio de Mattos Airport,Lençóis,BR,-12.4823,-41.277,Lençóis
+2025-06,SBLO,10866,Nội địa,Governor José Richa Airport,Londrina,BR,-23.334375,-51.128365,Londrina
+2025-06,SBMA,6101,Nội địa,João Correa da Rocha Airport,Marabá,BR,-5.36859,-49.138,Marabá
+2025-06,SBMD,36,Nội địa,Monte Dourado - Serra do Areão Airport,Almeirim,BR,-0.889839,-52.6022,Almeirim
+2025-06,SBMG,16216,Nội địa,Regional de Maringá - Sílvio Name Júnior Airport,Maringá,BR,-23.47606,-52.016187,Maringá
+2025-06,SBMK,7395,Nội địa,Mário Ribeiro Airport,Montes Claros,BR,-16.706919,-43.818901,Montes Claros
+2025-06,SBML,611,Nội địa,Frank Miloye Milenkowichi–Marília State Airport,Marília,BR,-22.196899,-49.926485,Marília
+2025-06,SBMO,37483,Nội địa,Zumbi dos Palmares International Airport,Maceió,BR,-9.512559,-35.791839,Maceió
+2025-06,SBMQ,11436,Nội địa,Macapá - Alberto Alcolumbre International Airport,Macapá,BR,0.050664,-51.072201,Macapá
+2025-06,SBMY,86,Nội địa,Manicoré Airport,Manicoré,BR,-5.81138,-61.278301,Manicoré
+2025-06,SBNF,35541,Nội địa,Ministro Victor Konder International Airport,Navegantes,BR,-26.879431,-48.650979,Navegantes
+2025-06,SBNM,1366,Nội địa,Santo Ângelo Airport,Santo Ângelo,BR,-28.282503,-54.169623,Santo Ângelo
+2025-06,SBPA,100183,Nội địa,Porto Alegre-Salgado Filho International Airport,Porto Alegre,BR,-29.993984,-51.167482,Porto Alegre
+2025-06,SBPB,97,Nội địa,Parnaíba - Prefeito Doutor João Silva Filho International Airport,Parnaíba,BR,-2.89375,-41.731998,Parnaíba
+2025-06,SBPF,4530,Nội địa,Lauro Kurtz Airport,Passo Fundo,BR,-28.243976,-52.32777,Passo Fundo
+2025-06,SBPJ,13131,Nội địa,Brigadeiro Lysias Rodrigues Airport,Palmas,BR,-10.2915,-48.356998,Palmas
+2025-06,SBPK,2516,Nội địa,João Simões Lopes Neto International Airport,Pelotas,BR,-31.717189,-52.327796,Pelotas
+2025-06,SBPL,7188,Nội địa,Senador Nilo Coelho Airport,Petrolina,BR,-9.362422,-40.569098,Petrolina
+2025-06,SBPO,906,Nội địa,Juvenal Loureiro Cardoso Airport,Pato Branco,BR,-26.217184,-52.694463,Pato Branco
+2025-06,SBPP,448,Nội địa,Ponta Porã Airport,Ponta Porã,BR,-22.549601,-55.702599,Ponta Porã
+2025-06,SBPS,30768,Nội địa,Porto Seguro International Airport,Porto Seguro,BR,-16.438426,-39.080584,Porto Seguro
+2025-06,SBPV,8860,Nội địa,Governador Jorge Teixeira de Oliveira International Airport,Porto Velho,BR,-8.708491,-63.902338,Porto Velho
+2025-06,SBRB,6547,Nội địa,Rio Branco-Plácido de Castro International Airport,Rio Branco,BR,-9.869031,-67.893984,Rio Branco
+2025-06,SBRD,825,Nội địa,Maestro Marinho Franco Airport,Rondonópolis,BR,-16.584292,-54.724803,Rondonópolis
+2025-06,SBRF,120824,Nội địa,Recife/Guararapes - Gilberto Freyre International Airport,Recife,BR,-8.12747,-34.922961,Recife
+2025-06,SBRJ,90558,Nội địa,Santos Dumont Airport,Rio de Janeiro,BR,-22.910397,-43.16282,Rio de Janeiro
+2025-06,SBRP,9072,Nội địa,Leite Lopes Airport,Ribeirão Preto,BR,-21.134314,-47.774053,Ribeirão Preto
+2025-06,SBSG,28796,Nội địa,Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport,Natal,BR,-5.769822,-35.36661,Natal
+2025-06,SBSI,8464,Nội địa,Presidente João Batista Figueiredo Airport,Sinop,BR,-11.885001,-55.586109,Sinop
+2025-06,SBSJ,903,Nội địa,Professor Urbano Ernesto Stumpf Airport,São José Dos Campos,BR,-23.2292,-45.8615,São José Dos Campos
+2025-06,SBSL,29143,Nội địa,Marechal Cunha Machado International Airport,São Luís,BR,-2.586386,-44.235008,São Luís
+2025-06,SBSM,496,Nội địa,Santa Maria Airport,Santa Maria,BR,-29.711399,-53.688202,Santa Maria
+2025-06,SBSN,8239,Nội địa,Santarém - Maestro Wilson Fonseca International Airport,Santarém,BR,-2.422423,-54.79306,Santarém
+2025-06,SBSO,645,Nội địa,Adolino Bedin Regional Airport,Sorriso,BR,-12.479177,-55.672341,Sorriso
+2025-06,SBSP,302680,Nội địa,Congonhas–Deputado Freitas Nobre Airport,São Paulo,BR,-23.627657,-46.654601,São Paulo
+2025-06,SBSR,13390,Nội địa,Prof. Eribelto Manoel Reino State Airport,São José do Rio Preto,BR,-20.817113,-49.406963,São José do Rio Preto
+2025-06,SBSV,95929,Nội địa,Deputado Luiz Eduardo Magalhães International Airport,Salvador,BR,-12.908611,-38.322498,Salvador
+2025-06,SBTB,94,Nội địa,Trombetas Airport,Oriximiná,BR,-1.4896,-56.396801,Oriximiná
+2025-06,SBTC,15,Nội địa,Una-Comandatuba Airport,Una,BR,-15.354358,-38.998729,Una
+2025-06,SBTE,18154,Nội địa,Senador Petrônio Portela Airport,Teresina,BR,-5.06025,-42.823712,Teresina
+2025-06,SBTF,475,Nội địa,Tefé Airport,Tefé,BR,-3.38294,-64.724098,Tefé
+2025-06,SBTT,897,Nội địa,Tabatinga International Airport,Tabatinga,BR,-4.25567,-69.935799,Tabatinga
+2025-06,SBTU,16,Nội địa,Tucuruí Airport,Tucuruí,BR,-3.78601,-49.720299,Tucuruí
+2025-06,SBUA,425,Nội địa,São Gabriel da Cachoeira Airport,São Gabriel da Cachoeira,BR,-0.14835,-66.9855,São Gabriel da Cachoeira
+2025-06,SBUG,494,Nội địa,Rubem Berta Airport,Uruguaiana,BR,-29.7822,-57.0382,Uruguaiana
+2025-06,SBUL,15335,Nội địa,Ten. Cel. Aviador César Bombonato Airport,Uberlândia,BR,-18.883579,-48.225936,Uberlândia
+2025-06,SBUR,1250,Nội địa,Mário de Almeida Franco Airport,Uberaba,BR,-19.765036,-47.964805,Uberaba
+2025-06,SBVG,24,Nội địa,Major Brigadeiro Trompowsky Airport,Varginha,BR,-21.591375,-45.474116,Varginha
+2025-06,SBVH,346,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
+2025-06,SBVT,66677,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
+2025-06,SBZM,2345,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-06,SDLO,27,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
+2025-06,SDOW,14,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-06,SNAB,9,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
+2025-06,SNBR,1146,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
+2025-06,SNCL,227,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
+2025-06,SNDV,77,Nội địa,Brigadeiro Cabral Airport,Divinópolis,BR,-20.180700302124,-44.870899200439,Divinópolis
+2025-06,SNEB,8,Nội địa,Nagib Demachki Airport,Paragominas,BR,-3.019798,-47.316474,Paragominas
+2025-06,SNGI,517,Nội địa,Guanambi Airport,Guanambi,BR,-14.2082,-42.746101,Guanambi
+2025-06,SNGN,6,Nội địa,Garanhuns Airport,Garanhuns,BR,-8.83428,-36.4716,Garanhuns
+2025-06,SNHS,8,Nội địa,Santa Magalhães Airport,Serra Talhada,BR,-8.061433,-38.328888,Serra Talhada
+2025-06,SNJM,24,Nội địa,Aeroporto Elias Breder Airport,Manhuaçu,BR,-20.259722,-42.183887,Manhuaçu
+2025-06,SNLN,32,Nội địa,Linhares Municipal Airport,Linhares,BR,-19.355202,-40.07128,Linhares
+2025-06,SNMZ,17,Nội địa,Porto de Moz Airport,Porto de Moz,BR,-1.741307,-52.236026,Porto de Moz
+2025-06,SNPD,148,Nội địa,Patos de Minas Airport,Patos de Minas,BR,-18.672673,-46.491292,Patos de Minas
+2025-06,SNSM,2,Nội địa,Salinópolis Airport,Salinópolis,BR,-0.696111,-47.336111,Salinópolis
+2025-06,SNSS,32,Nội địa,Salinas Municipal Airport,Salinas,BR,-16.2083,-42.321999,Salinas
+2025-06,SNTO,57,Nội địa,Juscelino Kubitscheck Airport,Teófilo Otoni,BR,-17.8923,-41.513599,Teófilo Otoni
+2025-06,SNTS,11,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
+2025-06,SNVS,20,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
+2025-06,SNZR,13,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-06,SSGY,16,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
+2025-06,SSKW,227,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
+2025-06,SSOU,91,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
+2025-06,SSUM,20,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
+2025-06,SSUV,11,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
+2025-06,SSVL,4,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-06,SWBR,13,Nội địa,Borba Airport,Borba,BR,-4.40634,-59.602402,Borba
+2025-06,SWKO,53,Nội địa,Danilson Municipal Airport,Coari,BR,-4.13406,-63.132599,Coari
+2025-06,SWLB,25,Nội địa,Lábrea Airport,Lábrea,BR,-7.27897,-64.769501,Lábrea
+2025-06,SWMW,9,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
+2025-06,SWPI,731,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
+2025-06,SWTP,12,Nội địa,Tapuruquara Airport,Santa Isabel do Rio Negro,BR,-0.378604,-64.992558,Santa Isabel do Rio Negro
+2025-06,SWYN,56,Nội địa,Apuí Airport,Apuí,BR,-7.172773,-59.8396,Apuí
+2025-07,SBAE,547,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
+2025-07,SBAQ,40,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
+2025-07,SBAR,22417,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
+2025-07,SBAT,421,Nội địa,Piloto Osvaldo Marques Dias Airport,Alta Floresta,BR,-9.866389,-56.106298,Alta Floresta
+2025-07,SBAU,1949,Nội địa,Araçatuba Airport,Araçatuba,BR,-21.141479,-50.424575,Araçatuba
+2025-07,SBAX,108,Nội địa,Romeu Zema Airport,Araxá,BR,-19.5632,-46.9604,Araxá
+2025-07,SBBE,45794,Nội địa,Val de Cans/Júlio Cezar Ribeiro International Airport,Belém,BR,-1.379279,-48.476207,Belém
+2025-07,SBBR,160408,Nội địa,Presidente Juscelino Kubitschek International Airport,Brasília,BR,-15.869167,-47.920834,Brasília
+2025-07,SBBV,5297,Nội địa,Atlas Brasil Cantanhede International Airport,Boa Vista,BR,2.84615,-60.690648,Boa Vista
+2025-07,SBBW,20,Nội địa,Barra do Garças Airport,Barra do Garças,BR,-15.861417,-52.389008,Barra do Garças
+2025-07,SBCA,8282,Nội địa,Coronel Adalberto Mendes da Silva Airport,Cascavel,BR,-25.000323,-53.501208,Cascavel
+2025-07,SBCF,121559,Nội địa,Tancredo Neves International Airport,Belo Horizonte,BR,-19.63571,-43.966928,Belo Horizonte
+2025-07,SBCG,24730,Nội địa,Campo Grande Airport,Campo Grande,BR,-20.469998,-54.673988,Campo Grande
+2025-07,SBCH,11150,Nội địa,Serafin Enoss Bertaso Airport,Chapecó,BR,-27.134199,-52.656601,Chapecó
+2025-07,SBCJ,1574,Nội địa,Carajás Airport,Parauapebas,BR,-6.117841,-50.003372,Parauapebas
+2025-07,SBCN,674,Nội địa,Nelson Ribeiro Guimarães Airport,Caldas Novas,BR,-17.725096,-48.606324,Caldas Novas
+2025-07,SBCR,400,Nội địa,Corumbá International Airport,Corumbá,BR,-19.01193,-57.672772,Corumbá
+2025-07,SBCT,94633,Nội địa,Curitiba-Afonso Pena International Airport,Curitiba,BR,-25.5285,-49.1758,Curitiba
+2025-07,SBCX,3838,Nội địa,Hugo Cantergiani Regional Airport,Caxias Do Sul,BR,-29.197183,-51.187647,Caxias Do Sul
+2025-07,SBCY,35420,Nội địa,Várzea Grande–Marechal Rondon International Airport,Cuiabá,BR,-15.6529,-56.116699,Cuiabá
+2025-07,SBCZ,535,Nội địa,Cruzeiro do Sul Airport,Cruzeiro Do Sul,BR,-7.59991,-72.769501,Cruzeiro Do Sul
+2025-07,SBDB,898,Nội địa,Bonito Airport,Bonito,BR,-21.2473,-56.452399,Bonito
+2025-07,SBDN,2834,Nội địa,Presidente Prudente Airport,Presidente Prudente,BR,-22.1751,-51.424599,Presidente Prudente
+2025-07,SBDO,646,Nội địa,Dourados Airport,Dourados,BR,-22.2019,-54.926601,Dourados
+2025-07,SBEG,42731,Nội địa,Eduardo Gomes International Airport,Manaus,BR,-3.03861,-60.049702,Manaus
+2025-07,SBFI,26362,Nội địa,Cataratas International Airport,Foz do Iguaçu,BR,-25.594167,-54.489444,Foz do Iguaçu
+2025-07,SBFL,70910,Nội địa,Hercílio Luz International Airport,Florianópolis,BR,-27.670279,-48.552502,Florianópolis
+2025-07,SBFN,5010,Nội địa,Fernando de Noronha Airport,Fernando de Noronha,BR,-3.854534,-32.423017,Fernando de Noronha
+2025-07,SBFZ,82525,Nội địa,Pinto Martins International Airport,Fortaleza,BR,-3.775833,-38.532222,Fortaleza
+2025-07,SBGL,150092,Nội địa,Rio de Janeiro Galeão – Tom Jobim International Airport,Rio De Janeiro,BR,-22.809999,-43.250557,Rio De Janeiro
+2025-07,SBGO,60459,Nội địa,Santa Genoveva International Airport,Goiânia,BR,-16.632,-49.220699,Goiânia
+2025-07,SBGR,259852,Nội địa,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,São Paulo,BR,-23.431274,-46.469954,São Paulo
+2025-07,SBGV,1645,Nội địa,Coronel Altino Machado Airport,Governador Valadares,BR,-18.895882,-41.982869,Governador Valadares
+2025-07,SBHT,1437,Nội địa,Altamira Interstate Airport,Altamira,BR,-3.253144,-52.253938,Altamira
+2025-07,SBIH,199,Nội địa,Itaituba Airport,Itaituba,BR,-4.242131,-56.000651,Itaituba
+2025-07,SBIL,9160,Nội địa,Bahia - Jorge Amado Airport,Ilhéus,BR,-14.815929,-39.033458,Ilhéus
+2025-07,SBIP,1662,Nội địa,Usiminas Airport,Ipatinga,BR,-19.470699,-42.487598,Ipatinga
+2025-07,SBIZ,5681,Nội địa,Prefeito Renato Moreira Airport,Imperatriz,BR,-5.53129,-47.459999,Imperatriz
+2025-07,SBJA,3183,Nội địa,Humberto Ghizzo Bortoluzzi Regional Airport,Jaguaruna,BR,-28.6753,-49.0596,Jaguaruna
+2025-07,SBJE,2782,Nội địa,Comandante Ariston Pessoa Airport,Cruz,BR,-2.906425,-40.357338,Cruz
+2025-07,SBJI,269,Nội địa,Ji-Paraná Airport,Ji-Paraná,BR,-10.870743,-61.846675,Ji-Paraná
+2025-07,SBJP,29986,Nội địa,Presidente Castro Pinto International Airport,João Pessoa,BR,-7.148691,-34.950554,João Pessoa
+2025-07,SBJR,836,Nội địa,Jacarepaguá - Roberto Marinho Airport,Rio de Janeiro,BR,-22.986773,-43.372194,Rio de Janeiro
+2025-07,SBJU,9189,Nội địa,Orlando Bezerra de Menezes Airport,Juazeiro do Norte,BR,-7.21932,-39.269096,Juazeiro do Norte
+2025-07,SBJV,7246,Nội địa,Lauro Carneiro de Loyola Airport,Joinville,BR,-26.224501,-48.797401,Joinville
+2025-07,SBKG,2847,Nội địa,Presidente João Suassuna Airport,Campina Grande,BR,-7.269662,-35.896057,Campina Grande
+2025-07,SBKP,82111,Nội địa,Viracopos International Airport,Campinas,BR,-23.007404,-47.134502,Campinas
+2025-07,SBLE,188,Nội địa,Coronel Horácio de Mattos Airport,Lençóis,BR,-12.4823,-41.277,Lençóis
+2025-07,SBLO,10502,Nội địa,Governor José Richa Airport,Londrina,BR,-23.334375,-51.128365,Londrina
+2025-07,SBMA,5270,Nội địa,João Correa da Rocha Airport,Marabá,BR,-5.36859,-49.138,Marabá
+2025-07,SBMD,29,Nội địa,Monte Dourado - Serra do Areão Airport,Almeirim,BR,-0.889839,-52.6022,Almeirim
+2025-07,SBMG,16429,Nội địa,Regional de Maringá - Sílvio Name Júnior Airport,Maringá,BR,-23.47606,-52.016187,Maringá
+2025-07,SBMK,6773,Nội địa,Mário Ribeiro Airport,Montes Claros,BR,-16.706919,-43.818901,Montes Claros
+2025-07,SBML,521,Nội địa,Frank Miloye Milenkowichi–Marília State Airport,Marília,BR,-22.196899,-49.926485,Marília
+2025-07,SBMO,34332,Nội địa,Zumbi dos Palmares International Airport,Maceió,BR,-9.512559,-35.791839,Maceió
+2025-07,SBMQ,9747,Nội địa,Macapá - Alberto Alcolumbre International Airport,Macapá,BR,0.050664,-51.072201,Macapá
+2025-07,SBMY,90,Nội địa,Manicoré Airport,Manicoré,BR,-5.81138,-61.278301,Manicoré
+2025-07,SBNF,32970,Nội địa,Ministro Victor Konder International Airport,Navegantes,BR,-26.879431,-48.650979,Navegantes
+2025-07,SBNM,1348,Nội địa,Santo Ângelo Airport,Santo Ângelo,BR,-28.282503,-54.169623,Santo Ângelo
+2025-07,SBPA,111663,Nội địa,Porto Alegre-Salgado Filho International Airport,Porto Alegre,BR,-29.993984,-51.167482,Porto Alegre
+2025-07,SBPB,328,Nội địa,Parnaíba - Prefeito Doutor João Silva Filho International Airport,Parnaíba,BR,-2.89375,-41.731998,Parnaíba
+2025-07,SBPF,4730,Nội địa,Lauro Kurtz Airport,Passo Fundo,BR,-28.243976,-52.32777,Passo Fundo
+2025-07,SBPJ,11548,Nội địa,Brigadeiro Lysias Rodrigues Airport,Palmas,BR,-10.2915,-48.356998,Palmas
+2025-07,SBPK,1919,Nội địa,João Simões Lopes Neto International Airport,Pelotas,BR,-31.717189,-52.327796,Pelotas
+2025-07,SBPL,8556,Nội địa,Senador Nilo Coelho Airport,Petrolina,BR,-9.362422,-40.569098,Petrolina
+2025-07,SBPO,665,Nội địa,Juvenal Loureiro Cardoso Airport,Pato Branco,BR,-26.217184,-52.694463,Pato Branco
+2025-07,SBPP,445,Nội địa,Ponta Porã Airport,Ponta Porã,BR,-22.549601,-55.702599,Ponta Porã
+2025-07,SBPS,27843,Nội địa,Porto Seguro International Airport,Porto Seguro,BR,-16.438426,-39.080584,Porto Seguro
+2025-07,SBPV,8273,Nội địa,Governador Jorge Teixeira de Oliveira International Airport,Porto Velho,BR,-8.708491,-63.902338,Porto Velho
+2025-07,SBRB,5528,Nội địa,Rio Branco-Plácido de Castro International Airport,Rio Branco,BR,-9.869031,-67.893984,Rio Branco
+2025-07,SBRD,656,Nội địa,Maestro Marinho Franco Airport,Rondonópolis,BR,-16.584292,-54.724803,Rondonópolis
+2025-07,SBRF,114392,Nội địa,Recife/Guararapes - Gilberto Freyre International Airport,Recife,BR,-8.12747,-34.922961,Recife
+2025-07,SBRJ,96985,Nội địa,Santos Dumont Airport,Rio de Janeiro,BR,-22.910397,-43.16282,Rio de Janeiro
+2025-07,SBRP,9320,Nội địa,Leite Lopes Airport,Ribeirão Preto,BR,-21.134314,-47.774053,Ribeirão Preto
+2025-07,SBSG,26347,Nội địa,Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport,Natal,BR,-5.769822,-35.36661,Natal
+2025-07,SBSI,8565,Nội địa,Presidente João Batista Figueiredo Airport,Sinop,BR,-11.885001,-55.586109,Sinop
+2025-07,SBSJ,1066,Nội địa,Professor Urbano Ernesto Stumpf Airport,São José Dos Campos,BR,-23.2292,-45.8615,São José Dos Campos
+2025-07,SBSL,24956,Nội địa,Marechal Cunha Machado International Airport,São Luís,BR,-2.586386,-44.235008,São Luís
+2025-07,SBSM,351,Nội địa,Santa Maria Airport,Santa Maria,BR,-29.711399,-53.688202,Santa Maria
+2025-07,SBSN,7544,Nội địa,Santarém - Maestro Wilson Fonseca International Airport,Santarém,BR,-2.422423,-54.79306,Santarém
+2025-07,SBSO,391,Nội địa,Adolino Bedin Regional Airport,Sorriso,BR,-12.479177,-55.672341,Sorriso
+2025-07,SBSP,294484,Nội địa,Congonhas–Deputado Freitas Nobre Airport,São Paulo,BR,-23.627657,-46.654601,São Paulo
+2025-07,SBSR,13355,Nội địa,Prof. Eribelto Manoel Reino State Airport,São José do Rio Preto,BR,-20.817113,-49.406963,São José do Rio Preto
+2025-07,SBSV,108673,Nội địa,Deputado Luiz Eduardo Magalhães International Airport,Salvador,BR,-12.908611,-38.322498,Salvador
+2025-07,SBTB,86,Nội địa,Trombetas Airport,Oriximiná,BR,-1.4896,-56.396801,Oriximiná
+2025-07,SBTC,90,Nội địa,Una-Comandatuba Airport,Una,BR,-15.354358,-38.998729,Una
+2025-07,SBTE,17562,Nội địa,Senador Petrônio Portela Airport,Teresina,BR,-5.06025,-42.823712,Teresina
+2025-07,SBTF,469,Nội địa,Tefé Airport,Tefé,BR,-3.38294,-64.724098,Tefé
+2025-07,SBTT,1079,Nội địa,Tabatinga International Airport,Tabatinga,BR,-4.25567,-69.935799,Tabatinga
+2025-07,SBTU,17,Nội địa,Tucuruí Airport,Tucuruí,BR,-3.78601,-49.720299,Tucuruí
+2025-07,SBUA,367,Nội địa,São Gabriel da Cachoeira Airport,São Gabriel da Cachoeira,BR,-0.14835,-66.9855,São Gabriel da Cachoeira
+2025-07,SBUG,493,Nội địa,Rubem Berta Airport,Uruguaiana,BR,-29.7822,-57.0382,Uruguaiana
+2025-07,SBUL,13626,Nội địa,Ten. Cel. Aviador César Bombonato Airport,Uberlândia,BR,-18.883579,-48.225936,Uberlândia
+2025-07,SBUR,1107,Nội địa,Mário de Almeida Franco Airport,Uberaba,BR,-19.765036,-47.964805,Uberaba
+2025-07,SBVG,18,Nội địa,Major Brigadeiro Trompowsky Airport,Varginha,BR,-21.591375,-45.474116,Varginha
+2025-07,SBVH,366,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
+2025-07,SBVT,61114,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
+2025-07,SBZM,2315,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-07,SDLO,47,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
+2025-07,SDOW,16,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-07,SNAB,12,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
+2025-07,SNBR,1142,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
+2025-07,SNCL,341,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
+2025-07,SNDV,89,Nội địa,Brigadeiro Cabral Airport,Divinópolis,BR,-20.180700302124,-44.870899200439,Divinópolis
+2025-07,SNEB,9,Nội địa,Nagib Demachki Airport,Paragominas,BR,-3.019798,-47.316474,Paragominas
+2025-07,SNGI,630,Nội địa,Guanambi Airport,Guanambi,BR,-14.2082,-42.746101,Guanambi
+2025-07,SNGN,5,Nội địa,Garanhuns Airport,Garanhuns,BR,-8.83428,-36.4716,Garanhuns
+2025-07,SNHS,17,Nội địa,Santa Magalhães Airport,Serra Talhada,BR,-8.061433,-38.328888,Serra Talhada
+2025-07,SNJM,10,Nội địa,Aeroporto Elias Breder Airport,Manhuaçu,BR,-20.259722,-42.183887,Manhuaçu
+2025-07,SNLN,26,Nội địa,Linhares Municipal Airport,Linhares,BR,-19.355202,-40.07128,Linhares
+2025-07,SNMZ,20,Nội địa,Porto de Moz Airport,Porto de Moz,BR,-1.741307,-52.236026,Porto de Moz
+2025-07,SNPD,162,Nội địa,Patos de Minas Airport,Patos de Minas,BR,-18.672673,-46.491292,Patos de Minas
+2025-07,SNRU,2,Nội địa,Caruaru Airport,Caruaru,BR,-8.28239,-36.0135,Caruaru
+2025-07,SNSM,7,Nội địa,Salinópolis Airport,Salinópolis,BR,-0.696111,-47.336111,Salinópolis
+2025-07,SNSS,48,Nội địa,Salinas Municipal Airport,Salinas,BR,-16.2083,-42.321999,Salinas
+2025-07,SNTO,49,Nội địa,Juscelino Kubitscheck Airport,Teófilo Otoni,BR,-17.8923,-41.513599,Teófilo Otoni
+2025-07,SNTS,34,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
+2025-07,SNVS,21,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
+2025-07,SNZR,5,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-07,SSGY,12,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
+2025-07,SSKW,186,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
+2025-07,SSOU,49,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
+2025-07,SSUM,20,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
+2025-07,SSUV,4,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
+2025-07,SSVL,2,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-07,SWBR,9,Nội địa,Borba Airport,Borba,BR,-4.40634,-59.602402,Borba
+2025-07,SWKO,69,Nội địa,Danilson Municipal Airport,Coari,BR,-4.13406,-63.132599,Coari
+2025-07,SWLB,18,Nội địa,Lábrea Airport,Lábrea,BR,-7.27897,-64.769501,Lábrea
+2025-07,SWMW,27,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
+2025-07,SWPI,443,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
+2025-07,SWTP,10,Nội địa,Tapuruquara Airport,Santa Isabel do Rio Negro,BR,-0.378604,-64.992558,Santa Isabel do Rio Negro
+2025-07,SWYN,48,Nội địa,Apuí Airport,Apuí,BR,-7.172773,-59.8396,Apuí
+2025-08,SBAE,532,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
+2025-08,SBAQ,53,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
+2025-08,SBAR,23738,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
+2025-08,SBAT,523,Nội địa,Piloto Osvaldo Marques Dias Airport,Alta Floresta,BR,-9.866389,-56.106298,Alta Floresta
+2025-08,SBAU,1915,Nội địa,Araçatuba Airport,Araçatuba,BR,-21.141479,-50.424575,Araçatuba
+2025-08,SBAX,114,Nội địa,Romeu Zema Airport,Araxá,BR,-19.5632,-46.9604,Araxá
+2025-08,SBBE,55258,Nội địa,Val de Cans/Júlio Cezar Ribeiro International Airport,Belém,BR,-1.379279,-48.476207,Belém
+2025-08,SBBR,193150,Nội địa,Presidente Juscelino Kubitschek International Airport,Brasília,BR,-15.869167,-47.920834,Brasília
+2025-08,SBBV,4528,Nội địa,Atlas Brasil Cantanhede International Airport,Boa Vista,BR,2.84615,-60.690648,Boa Vista
+2025-08,SBBW,37,Nội địa,Barra do Garças Airport,Barra do Garças,BR,-15.861417,-52.389008,Barra do Garças
+2025-08,SBCA,9719,Nội địa,Coronel Adalberto Mendes da Silva Airport,Cascavel,BR,-25.000323,-53.501208,Cascavel
+2025-08,SBCF,131711,Nội địa,Tancredo Neves International Airport,Belo Horizonte,BR,-19.63571,-43.966928,Belo Horizonte
+2025-08,SBCG,25590,Nội địa,Campo Grande Airport,Campo Grande,BR,-20.469998,-54.673988,Campo Grande
+2025-08,SBCH,12659,Nội địa,Serafin Enoss Bertaso Airport,Chapecó,BR,-27.134199,-52.656601,Chapecó
+2025-08,SBCJ,1780,Nội địa,Carajás Airport,Parauapebas,BR,-6.117841,-50.003372,Parauapebas
+2025-08,SBCN,473,Nội địa,Nelson Ribeiro Guimarães Airport,Caldas Novas,BR,-17.725096,-48.606324,Caldas Novas
+2025-08,SBCR,311,Nội địa,Corumbá International Airport,Corumbá,BR,-19.01193,-57.672772,Corumbá
+2025-08,SBCT,99796,Nội địa,Curitiba-Afonso Pena International Airport,Curitiba,BR,-25.5285,-49.1758,Curitiba
+2025-08,SBCX,5469,Nội địa,Hugo Cantergiani Regional Airport,Caxias Do Sul,BR,-29.197183,-51.187647,Caxias Do Sul
+2025-08,SBCY,35845,Nội địa,Várzea Grande–Marechal Rondon International Airport,Cuiabá,BR,-15.6529,-56.116699,Cuiabá
+2025-08,SBCZ,455,Nội địa,Cruzeiro do Sul Airport,Cruzeiro Do Sul,BR,-7.59991,-72.769501,Cruzeiro Do Sul
+2025-08,SBDB,1332,Nội địa,Bonito Airport,Bonito,BR,-21.2473,-56.452399,Bonito
+2025-08,SBDN,3087,Nội địa,Presidente Prudente Airport,Presidente Prudente,BR,-22.1751,-51.424599,Presidente Prudente
+2025-08,SBDO,1121,Nội địa,Dourados Airport,Dourados,BR,-22.2019,-54.926601,Dourados
+2025-08,SBEG,40780,Nội địa,Eduardo Gomes International Airport,Manaus,BR,-3.03861,-60.049702,Manaus
+2025-08,SBFI,29544,Nội địa,Cataratas International Airport,Foz do Iguaçu,BR,-25.594167,-54.489444,Foz do Iguaçu
+2025-08,SBFL,94321,Nội địa,Hercílio Luz International Airport,Florianópolis,BR,-27.670279,-48.552502,Florianópolis
+2025-08,SBFN,4002,Nội địa,Fernando de Noronha Airport,Fernando de Noronha,BR,-3.854534,-32.423017,Fernando de Noronha
+2025-08,SBFZ,96460,Nội địa,Pinto Martins International Airport,Fortaleza,BR,-3.775833,-38.532222,Fortaleza
+2025-08,SBGL,181613,Nội địa,Rio de Janeiro Galeão – Tom Jobim International Airport,Rio De Janeiro,BR,-22.809999,-43.250557,Rio De Janeiro
+2025-08,SBGO,63939,Nội địa,Santa Genoveva International Airport,Goiânia,BR,-16.632,-49.220699,Goiânia
+2025-08,SBGR,303693,Nội địa,São Paulo/Guarulhos–Governor André Franco Montoro International Airport,São Paulo,BR,-23.431274,-46.469954,São Paulo
+2025-08,SBGV,1452,Nội địa,Coronel Altino Machado Airport,Governador Valadares,BR,-18.895882,-41.982869,Governador Valadares
+2025-08,SBHT,1313,Nội địa,Altamira Interstate Airport,Altamira,BR,-3.253144,-52.253938,Altamira
+2025-08,SBIH,214,Nội địa,Itaituba Airport,Itaituba,BR,-4.242131,-56.000651,Itaituba
+2025-08,SBIL,9393,Nội địa,Bahia - Jorge Amado Airport,Ilhéus,BR,-14.815929,-39.033458,Ilhéus
+2025-08,SBIP,1856,Nội địa,Usiminas Airport,Ipatinga,BR,-19.470699,-42.487598,Ipatinga
+2025-08,SBIZ,6196,Nội địa,Prefeito Renato Moreira Airport,Imperatriz,BR,-5.53129,-47.459999,Imperatriz
+2025-08,SBJA,3193,Nội địa,Humberto Ghizzo Bortoluzzi Regional Airport,Jaguaruna,BR,-28.6753,-49.0596,Jaguaruna
+2025-08,SBJE,2404,Nội địa,Comandante Ariston Pessoa Airport,Cruz,BR,-2.906425,-40.357338,Cruz
+2025-08,SBJI,105,Nội địa,Ji-Paraná Airport,Ji-Paraná,BR,-10.870743,-61.846675,Ji-Paraná
+2025-08,SBJP,34473,Nội địa,Presidente Castro Pinto International Airport,João Pessoa,BR,-7.148691,-34.950554,João Pessoa
+2025-08,SBJR,730,Nội địa,Jacarepaguá - Roberto Marinho Airport,Rio de Janeiro,BR,-22.986773,-43.372194,Rio de Janeiro
+2025-08,SBJU,13460,Nội địa,Orlando Bezerra de Menezes Airport,Juazeiro do Norte,BR,-7.21932,-39.269096,Juazeiro do Norte
+2025-08,SBJV,9509,Nội địa,Lauro Carneiro de Loyola Airport,Joinville,BR,-26.224501,-48.797401,Joinville
+2025-08,SBKG,3279,Nội địa,Presidente João Suassuna Airport,Campina Grande,BR,-7.269662,-35.896057,Campina Grande
+2025-08,SBKP,81597,Nội địa,Viracopos International Airport,Campinas,BR,-23.007404,-47.134502,Campinas
+2025-08,SBLE,283,Nội địa,Coronel Horácio de Mattos Airport,Lençóis,BR,-12.4823,-41.277,Lençóis
+2025-08,SBLO,10768,Nội địa,Governor José Richa Airport,Londrina,BR,-23.334375,-51.128365,Londrina
+2025-08,SBMA,5865,Nội địa,João Correa da Rocha Airport,Marabá,BR,-5.36859,-49.138,Marabá
+2025-08,SBMD,24,Nội địa,Monte Dourado - Serra do Areão Airport,Almeirim,BR,-0.889839,-52.6022,Almeirim
+2025-08,SBMG,18225,Nội địa,Regional de Maringá - Sílvio Name Júnior Airport,Maringá,BR,-23.47606,-52.016187,Maringá
+2025-08,SBMK,7776,Nội địa,Mário Ribeiro Airport,Montes Claros,BR,-16.706919,-43.818901,Montes Claros
+2025-08,SBML,404,Nội địa,Frank Miloye Milenkowichi–Marília State Airport,Marília,BR,-22.196899,-49.926485,Marília
+2025-08,SBMO,37087,Nội địa,Zumbi dos Palmares International Airport,Maceió,BR,-9.512559,-35.791839,Maceió
+2025-08,SBMQ,11655,Nội địa,Macapá - Alberto Alcolumbre International Airport,Macapá,BR,0.050664,-51.072201,Macapá
+2025-08,SBMY,49,Nội địa,Manicoré Airport,Manicoré,BR,-5.81138,-61.278301,Manicoré
+2025-08,SBNF,35653,Nội địa,Ministro Victor Konder International Airport,Navegantes,BR,-26.879431,-48.650979,Navegantes
+2025-08,SBNM,1318,Nội địa,Santo Ângelo Airport,Santo Ângelo,BR,-28.282503,-54.169623,Santo Ângelo
+2025-08,SBPA,126492,Nội địa,Porto Alegre-Salgado Filho International Airport,Porto Alegre,BR,-29.993984,-51.167482,Porto Alegre
+2025-08,SBPB,376,Nội địa,Parnaíba - Prefeito Doutor João Silva Filho International Airport,Parnaíba,BR,-2.89375,-41.731998,Parnaíba
+2025-08,SBPF,5779,Nội địa,Lauro Kurtz Airport,Passo Fundo,BR,-28.243976,-52.32777,Passo Fundo
+2025-08,SBPJ,13055,Nội địa,Brigadeiro Lysias Rodrigues Airport,Palmas,BR,-10.2915,-48.356998,Palmas
+2025-08,SBPK,2004,Nội địa,João Simões Lopes Neto International Airport,Pelotas,BR,-31.717189,-52.327796,Pelotas
+2025-08,SBPL,10593,Nội địa,Senador Nilo Coelho Airport,Petrolina,BR,-9.362422,-40.569098,Petrolina
+2025-08,SBPO,658,Nội địa,Juvenal Loureiro Cardoso Airport,Pato Branco,BR,-26.217184,-52.694463,Pato Branco
+2025-08,SBPP,520,Nội địa,Ponta Porã Airport,Ponta Porã,BR,-22.549601,-55.702599,Ponta Porã
+2025-08,SBPS,32823,Nội địa,Porto Seguro International Airport,Porto Seguro,BR,-16.438426,-39.080584,Porto Seguro
+2025-08,SBPV,7437,Nội địa,Governador Jorge Teixeira de Oliveira International Airport,Porto Velho,BR,-8.708491,-63.902338,Porto Velho
+2025-08,SBRB,5618,Nội địa,Rio Branco-Plácido de Castro International Airport,Rio Branco,BR,-9.869031,-67.893984,Rio Branco
+2025-08,SBRD,700,Nội địa,Maestro Marinho Franco Airport,Rondonópolis,BR,-16.584292,-54.724803,Rondonópolis
+2025-08,SBRF,121549,Nội địa,Recife/Guararapes - Gilberto Freyre International Airport,Recife,BR,-8.12747,-34.922961,Recife
+2025-08,SBRJ,109113,Nội địa,Santos Dumont Airport,Rio de Janeiro,BR,-22.910397,-43.16282,Rio de Janeiro
+2025-08,SBRP,12017,Nội địa,Leite Lopes Airport,Ribeirão Preto,BR,-21.134314,-47.774053,Ribeirão Preto
+2025-08,SBSG,24487,Nội địa,Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport,Natal,BR,-5.769822,-35.36661,Natal
+2025-08,SBSI,8818,Nội địa,Presidente João Batista Figueiredo Airport,Sinop,BR,-11.885001,-55.586109,Sinop
+2025-08,SBSJ,1536,Nội địa,Professor Urbano Ernesto Stumpf Airport,São José Dos Campos,BR,-23.2292,-45.8615,São José Dos Campos
+2025-08,SBSL,31571,Nội địa,Marechal Cunha Machado International Airport,São Luís,BR,-2.586386,-44.235008,São Luís
+2025-08,SBSM,221,Nội địa,Santa Maria Airport,Santa Maria,BR,-29.711399,-53.688202,Santa Maria
+2025-08,SBSN,9061,Nội địa,Santarém - Maestro Wilson Fonseca International Airport,Santarém,BR,-2.422423,-54.79306,Santarém
+2025-08,SBSO,747,Nội địa,Adolino Bedin Regional Airport,Sorriso,BR,-12.479177,-55.672341,Sorriso
+2025-08,SBSP,346914,Nội địa,Congonhas–Deputado Freitas Nobre Airport,São Paulo,BR,-23.627657,-46.654601,São Paulo
+2025-08,SBSR,16196,Nội địa,Prof. Eribelto Manoel Reino State Airport,São José do Rio Preto,BR,-20.817113,-49.406963,São José do Rio Preto
+2025-08,SBSV,121206,Nội địa,Deputado Luiz Eduardo Magalhães International Airport,Salvador,BR,-12.908611,-38.322498,Salvador
+2025-08,SBTB,61,Nội địa,Trombetas Airport,Oriximiná,BR,-1.4896,-56.396801,Oriximiná
+2025-08,SBTC,166,Nội địa,Una-Comandatuba Airport,Una,BR,-15.354358,-38.998729,Una
+2025-08,SBTE,21397,Nội địa,Senador Petrônio Portela Airport,Teresina,BR,-5.06025,-42.823712,Teresina
+2025-08,SBTF,423,Nội địa,Tefé Airport,Tefé,BR,-3.38294,-64.724098,Tefé
+2025-08,SBTT,994,Nội địa,Tabatinga International Airport,Tabatinga,BR,-4.25567,-69.935799,Tabatinga
+2025-08,SBTU,10,Nội địa,Tucuruí Airport,Tucuruí,BR,-3.78601,-49.720299,Tucuruí
+2025-08,SBUA,408,Nội địa,São Gabriel da Cachoeira Airport,São Gabriel da Cachoeira,BR,-0.14835,-66.9855,São Gabriel da Cachoeira
+2025-08,SBUG,426,Nội địa,Rubem Berta Airport,Uruguaiana,BR,-29.7822,-57.0382,Uruguaiana
+2025-08,SBUL,14145,Nội địa,Ten. Cel. Aviador César Bombonato Airport,Uberlândia,BR,-18.883579,-48.225936,Uberlândia
+2025-08,SBUR,759,Nội địa,Mário de Almeida Franco Airport,Uberaba,BR,-19.765036,-47.964805,Uberaba
+2025-08,SBVG,29,Nội địa,Major Brigadeiro Trompowsky Airport,Varginha,BR,-21.591375,-45.474116,Varginha
+2025-08,SBVH,260,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
+2025-08,SBVT,70162,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
+2025-08,SBZM,2478,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-08,SDLO,48,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
+2025-08,SDOW,14,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-08,SNAB,10,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
+2025-08,SNBR,1178,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
+2025-08,SNCL,296,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
+2025-08,SNDV,83,Nội địa,Brigadeiro Cabral Airport,Divinópolis,BR,-20.180700302124,-44.870899200439,Divinópolis
+2025-08,SNEB,11,Nội địa,Nagib Demachki Airport,Paragominas,BR,-3.019798,-47.316474,Paragominas
+2025-08,SNGI,558,Nội địa,Guanambi Airport,Guanambi,BR,-14.2082,-42.746101,Guanambi
+2025-08,SNGN,5,Nội địa,Garanhuns Airport,Garanhuns,BR,-8.83428,-36.4716,Garanhuns
+2025-08,SNHS,10,Nội địa,Santa Magalhães Airport,Serra Talhada,BR,-8.061433,-38.328888,Serra Talhada
+2025-08,SNJM,14,Nội địa,Aeroporto Elias Breder Airport,Manhuaçu,BR,-20.259722,-42.183887,Manhuaçu
+2025-08,SNLN,39,Nội địa,Linhares Municipal Airport,Linhares,BR,-19.355202,-40.07128,Linhares
+2025-08,SNMZ,19,Nội địa,Porto de Moz Airport,Porto de Moz,BR,-1.741307,-52.236026,Porto de Moz
+2025-08,SNPD,199,Nội địa,Patos de Minas Airport,Patos de Minas,BR,-18.672673,-46.491292,Patos de Minas
+2025-08,SNRU,3,Nội địa,Caruaru Airport,Caruaru,BR,-8.28239,-36.0135,Caruaru
+2025-08,SNSS,40,Nội địa,Salinas Municipal Airport,Salinas,BR,-16.2083,-42.321999,Salinas
+2025-08,SNTO,42,Nội địa,Juscelino Kubitscheck Airport,Teófilo Otoni,BR,-17.8923,-41.513599,Teófilo Otoni
+2025-08,SNTS,24,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
+2025-08,SNVS,38,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
+2025-08,SNZR,13,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-08,SSGY,20,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
+2025-08,SSKW,76,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
+2025-08,SSOU,66,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
+2025-08,SSUM,18,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
+2025-08,SSUV,4,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
+2025-08,SSVL,1,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-08,SWBC,18,Nội địa,Barcelos Airport,Barcelos,BR,-0.981191,-62.918603,Barcelos
+2025-08,SWBR,3,Nội địa,Borba Airport,Borba,BR,-4.40634,-59.602402,Borba
+2025-08,SWGN,132,Nội địa,Araguaína Airport,Araguaína,BR,-7.22787,-48.240501,Araguaína
+2025-08,SWKO,38,Nội địa,Danilson Municipal Airport,Coari,BR,-4.13406,-63.132599,Coari
+2025-08,SWLB,16,Nội địa,Lábrea Airport,Lábrea,BR,-7.27897,-64.769501,Lábrea
+2025-08,SWMW,20,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
+2025-08,SWPI,385,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
+2025-08,SWYN,38,Nội địa,Apuí Airport,Apuí,BR,-7.172773,-59.8396,Apuí

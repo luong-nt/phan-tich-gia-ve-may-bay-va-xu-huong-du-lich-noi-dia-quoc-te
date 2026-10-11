@@ -1,0 +1,58 @@
+name: ANAC - Tu dong cap nhat du lieu
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 1 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: anac-etl-main
+  cancel-in-progress: false
+
+jobs:
+  cap-nhat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Lay ma nguon
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+
+      - name: Cai Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Cai cac thu vien
+        run: python -m pip install -r requirements.txt
+
+      - name: Tai ANAC, ETL va luu ket qua theo dot
+        shell: bash
+        run: |
+          set -e
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          for i in 1 2 3 4 5 6; do
+            echo "===== ETL dot $i ====="
+
+            python cap_nhat_anac.py
+
+            git add -A DuLieu_DaXuLy
+
+            if git diff --cached --quiet; then
+              echo 'Khong co du lieu moi.'
+              break
+            fi
+
+            git commit -m "ANAC auto-ETL: dot $i"
+            git push origin main
+          done

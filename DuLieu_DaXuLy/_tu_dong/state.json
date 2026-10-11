@@ -1,5 +1,5 @@
 {
-  "last_success_utc": "2026-10-11 06:20:19",
+  "last_success_utc": "2026-10-11 06:22:23",
   "period": "2024-01 den 2026-08",
   "months": {
     "domestic_2025-01": {
@@ -271,15 +271,53 @@
       "rows": 59738,
       "sha256": "31c5995937081de5efbe534e982bf0d5d7d81d5ca7ce22b82f800e34d3380869",
       "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-08.csv"
+    },
+    "international_2025-09": {
+      "month": "2025-09",
+      "market": "international",
+      "seats": 204032.0,
+      "fare_weight": 125768163.05000001,
+      "fare_seats": 204032.0,
+      "rows": 61074,
+      "sha256": "015d9381a57bb10a4def27c911bff218d771bb69526fddd431ed6c42490deae5",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-09.csv"
+    },
+    "international_2025-10": {
+      "month": "2025-10",
+      "market": "international",
+      "seats": 230669.0,
+      "fare_weight": 127137389.07,
+      "fare_seats": 230669.0,
+      "rows": 60100,
+      "sha256": "dd5d7abbc53ef31b7d2f08251fba054eecf1101c10fc379f352ddc0f7fe8cd37",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-10.csv"
+    },
+    "international_2025-11": {
+      "month": "2025-11",
+      "market": "international",
+      "seats": 261923.0,
+      "fare_weight": 140350705.79000002,
+      "fare_seats": 261923.0,
+      "rows": 64061,
+      "sha256": "f59da1b827672339f60979d50fb7b717e61c7a9915e25329a63eaca34168bed7",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-11.csv"
+    },
+    "international_2025-12": {
+      "month": "2025-12",
+      "market": "international",
+      "seats": 205356.0,
+      "fare_weight": 114467413.99000001,
+      "fare_seats": 205356.0,
+      "rows": 53602,
+      "sha256": "d5ea0cb91cd9de958ae8d0e3ae951caf34480a4aa40d4525b0a63f10a82c10a2",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-12.csv"
     }
   },
   "newly_processed": [
-    "international_2025-03",
-    "international_2025-04",
-    "international_2025-05",
-    "international_2025-06",
-    "international_2025-07",
-    "international_2025-08"
+    "international_2025-09",
+    "international_2025-10",
+    "international_2025-11",
+    "international_2025-12"
   ],
   "warnings": [],
   "year_coverage": [

@@ -4352,6 +4352,66 @@
 2025-08,TNCA,371,Quốc tế,Queen Beatrix International Airport,Oranjestad,AW,12.501056,-70.014281,Oranjestad
 2025-08,TNCC,454,Quốc tế,Hato International Airport,Willemstad,CW,12.1889,-68.959801,Willemstad
 2025-08,ZBAA,284,Quốc tế,Beijing Capital International Airport,Beijing,CN,40.077349,116.596702,Beijing
+2025-09,CYUL,296,Quốc tế,Montreal / Pierre Elliott Trudeau International Airport,Montréal,CA,45.467837,-73.742294,Montréal
+2025-09,CYYZ,701,Quốc tế,Toronto Pearson International Airport,Toronto,CA,43.675935,-79.629421,Toronto
+2025-09,DTTA,22,Quốc tế,Tunis Carthage International Airport,Tunis,TN,36.851002,10.2272,Tunis
+2025-09,EDDF,2019,Quốc tế,Frankfurt Main Airport,Frankfurt am Main,DE,50.026706,8.55835,Frankfurt am Main
+2025-09,EDDM,242,Quốc tế,Munich Airport,Munich,DE,48.353802,11.7861,Munich
+2025-09,EGLL,3393,Quốc tế,London Heathrow Airport,London,GB,51.470748,-0.459909,London
+2025-09,EHAM,903,Quốc tế,Amsterdam Airport Schiphol,Amsterdam,NL,52.308601,4.76389,Amsterdam
+2025-09,FAOR,1026,Quốc tế,O.R. Tambo International Airport,Johannesburg,ZA,-26.140081,28.246801,Johannesburg
+2025-09,FNLU,1651,Quốc tế,Quatro de Fevereiro International Airport,Luanda,AO,-8.85837,13.2312,Luanda
+2025-09,GMMN,684,Quốc tế,Mohammed V International Airport,Casablanca,MA,33.3675,-7.58997,Casablanca
+2025-09,HAAB,5,Quốc tế,Addis Ababa Bole International Airport,Addis Ababa,ET,8.97789,38.799301,Addis Ababa
+2025-09,KATL,333,Quốc tế,Hartsfield Jackson Atlanta International Airport,Atlanta,US,33.6367,-84.428101,Atlanta
+2025-09,KBOS,422,Quốc tế,Boston Logan International Airport,Boston,US,42.36197,-71.0079,Boston
+2025-09,KDFW,337,Quốc tế,Dallas Fort Worth International Airport,Dallas-Fort Worth,US,32.896801,-97.038002,Dallas-Fort Worth
+2025-09,KEWR,982,Quốc tế,Newark Liberty International Airport,Newark,US,40.6894,-74.170545,Newark
+2025-09,KFLL,2625,Quốc tế,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,US,26.072599,-80.152702,Fort Lauderdale
+2025-09,KIAD,375,Quốc tế,Washington Dulles International Airport,Dulles,US,38.9445,-77.455803,Dulles
+2025-09,KIAH,424,Quốc tế,George Bush Intercontinental Airport,Houston,US,29.9844,-95.3414,Houston
+2025-09,KJFK,3778,Quốc tế,John F. Kennedy International Airport,New York,US,40.639447,-73.779317,New York
+2025-09,KLAX,672,Quốc tế,Los Angeles International Airport,Los Angeles,US,33.942501,-118.407997,Los Angeles
+2025-09,KMCO,9956,Quốc tế,Orlando International Airport,Orlando,US,28.429399490356445,-81.30899810791016,Orlando
+2025-09,KMIA,10863,Quốc tế,Miami International Airport,Miami,US,25.796011,-80.289751,Miami
+2025-09,KORD,662,Quốc tế,Chicago O'Hare International Airport,Chicago,US,41.9786,-87.9048,Chicago
+2025-09,LEBL,1070,Quốc tế,Josep Tarradellas Barcelona-El Prat Airport,Barcelona,ES,41.2971,2.07846,Barcelona
+2025-09,LEMD,10810,Quốc tế,Adolfo Suárez Madrid–Barajas Airport,Madrid,ES,40.493407,-3.572249,Madrid
+2025-09,LFMN,24,Quốc tế,Nice-Côte d'Azur Airport,"Nice, Alpes-Maritimes",FR,43.658401,7.21587,"Nice, Alpes-Maritimes"
+2025-09,LFPG,4830,Quốc tế,Charles de Gaulle International Airport,"Paris (Roissy-en-France, Val-d'Oise)",FR,49.00896,2.554117,"Paris (Roissy-en-France, Val-d'Oise)"
+2025-09,LFPO,1177,Quốc tế,Paris-Orly Airport,"Paris (Orly, Val-de-Marne)",FR,48.729499,2.358963,"Paris (Orly, Val-de-Marne)"
+2025-09,LGAV,128,Quốc tế,Athens Eleftherios Venizelos International Airport,Spata-Artemida,GR,37.936401,23.9445,Spata-Artemida
+2025-09,LIBD,68,Quốc tế,Bari Karol Wojtyła International Airport,Bari,IT,41.138901,16.760599,Bari
+2025-09,LIBR,16,Quốc tế,Brindisi Airport,Brindisi,IT,40.6576,17.947001,Brindisi
+2025-09,LICA,18,Quốc tế,Lamezia Terme Sant'Eufemia International Airport,Lamezia Terme (CZ),IT,38.906214,16.246007,Lamezia Terme (CZ)
+2025-09,LICC,36,Quốc tế,Catania-Fontanarossa Airport,Catania,IT,37.466801,15.0664,Catania
+2025-09,LICJ,45,Quốc tế,Falcone–Borsellino Airport,Palermo,IT,38.175999,13.091,Palermo
+2025-09,LIMC,3889,Quốc tế,Milan Malpensa International Airport,Ferno (VA),IT,45.6306,8.72811,Ferno (VA)
+2025-09,LIMF,65,Quốc tế,Turin Airport,Caselle Torinese (TO),IT,45.200802,7.64963,Caselle Torinese (TO)
+2025-09,LIMJ,38,Quốc tế,Genoa Cristoforo Colombo Airport,Genova (GE),IT,44.412039,8.840732,Genova (GE)
+2025-09,LIPE,46,Quốc tế,Bologna Guglielmo Marconi Airport,Bologna,IT,44.5354,11.2887,Bologna
+2025-09,LIPQ,29,Quốc tế,Trieste Airport,Ronchi dei Legionari/Trieste,IT,45.827862,13.466672,Ronchi dei Legionari/Trieste
+2025-09,LIPZ,102,Quốc tế,Venice Marco Polo Airport,Venezia (VE),IT,45.505299,12.3519,Venezia (VE)
+2025-09,LIRF,4874,Quốc tế,Rome–Fiumicino Leonardo da Vinci International Airport,Rome,IT,41.804532,12.251998,Rome
+2025-09,LIRN,63,Quốc tế,Naples International Airport,Napoli,IT,40.886002,14.2908,Napoli
+2025-09,LIRQ,78,Quốc tế,"Florence Airport, Peretola",Firenze (FI),IT,43.808558,11.202822,Firenze (FI)
+2025-09,LPPR,4646,Quốc tế,Francisco de Sá Carneiro Airport,Porto,PT,41.2481002808,-8.68138980865,Porto
+2025-09,LPPT,13171,Quốc tế,Lisbon Humberto Delgado Airport,Lisbon,PT,38.7813,-9.13592,Lisbon
+2025-09,LSZH,460,Quốc tế,Zürich Airport,Zurich,CH,47.458056,8.548056,Zurich
+2025-09,LTFM,1742,Quốc tế,İstanbul Airport,Istanbul,TR,41.274874,28.732136,Istanbul
+2025-09,MDPC,7401,Quốc tế,Punta Cana International Airport,Punta Cana,DO,18.567093,-68.364558,Punta Cana
+2025-09,MMMX,2701,Quốc tế,Mexico City Benito Juárez International Airport,Mexico City,MX,19.435822,-99.07033,Mexico City
+2025-09,MMUN,388,Quốc tế,Cancún International Airport,Cancún,MX,21.040817,-86.87347,Cancún
+2025-09,MPTO,1820,Quốc tế,Tocumen International Airport,Tocumen,PA,9.07136,-79.383499,Tocumen
+2025-09,MROC,277,Quốc tế,Juan Santamaría International Airport,San José (Alajuela),CR,9.99386,-84.208801,San José (Alajuela)
+2025-09,OMDB,584,Quốc tế,Dubai International Airport,Dubai,AE,25.24979,55.370992,Dubai
+2025-09,OTHH,97,Quốc tế,Hamad International Airport,Doha,QA,25.273056,51.608056,Doha
+2025-09,SAAR,37,Quốc tế,Rosario Islas Malvinas International Airport,Rosario,AR,-32.9036,-60.785,Rosario
+2025-09,SABE,19761,Quốc tế,Aeroparque Jorge Newbery,Buenos Aires,AR,-34.559419,-58.415536,Buenos Aires
+2025-09,SACO,1439,Quốc tế,Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport,Cordoba,AR,-31.312346,-64.208329,Cordoba
+2025-09,SAEZ,14266,Quốc tế,Ezeiza International Airport - Ministro Pistarini,Buenos Aires (Ezeiza),AR,-34.8222,-58.5358,Buenos Aires (Ezeiza)
+2025-09,SAME,1358,Quốc tế,Governor Francisco Gabrielli International Airport,Mendoza,AR,-32.831699,-68.7929,Mendoza
+2025-09,SAZS,19,Quốc tế,Teniente Luis Candelaria International Airport,San Carlos de Bariloche,AR,-41.151199,-71.157501,San Carlos de Bariloche
 2025-09,SBAE,493,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
 2025-09,SBAQ,30,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
 2025-09,SBAR,20482,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
@@ -4450,8 +4510,14 @@
 2025-09,SBVH,126,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
 2025-09,SBVT,60800,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
 2025-09,SBZM,2000,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-09,SCEL,37919,Quốc tế,Comodoro Arturo Merino Benítez International Airport,Santiago,CL,-33.393001556396484,-70.78579711914062,Santiago
 2025-09,SDLO,36,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
 2025-09,SDOW,16,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-09,SGAS,1308,Quốc tế,Silvio Pettirossi International Airport,Asunción,PY,-25.240156,-57.519227,Asunción
+2025-09,SKBO,3214,Quốc tế,El Dorado International Airport,Bogota,CO,4.70159,-74.1469,Bogota
+2025-09,SLCB,232,Quốc tế,Jorge Wilsterman International Airport,Cochabamba,BO,-17.421105,-66.177102,Cochabamba
+2025-09,SLVR,1686,Quốc tế,Viru Viru International Airport,Santa Cruz,BO,-17.6448,-63.135399,Santa Cruz
+2025-09,SMJP,562,Quốc tế,Johan Adolf Pengel International Airport,Paramaribo,SR,5.45283,-55.187801,Paramaribo
 2025-09,SNAB,14,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
 2025-09,SNBR,814,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
 2025-09,SNCL,289,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
@@ -4471,18 +4537,84 @@
 2025-09,SNTS,44,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
 2025-09,SNVS,20,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
 2025-09,SNZR,7,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-09,SOCA,26,Quốc tế,Cayenne – Félix Eboué Airport,Matoury,GF,4.819964,-52.361326,Matoury
+2025-09,SPJC,5886,Quốc tế,Jorge Chávez International Airport,Lima,PE,-12.0219,-77.1143,Lima
 2025-09,SSGY,13,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
 2025-09,SSKW,149,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
 2025-09,SSOU,69,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
 2025-09,SSUM,32,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
 2025-09,SSUV,2,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
 2025-09,SSVL,1,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-09,SULS,282,Quốc tế,Capitan Corbeta CA Curbelo International Airport,Punta del Este,UY,-34.855099,-55.094299,Punta del Este
+2025-09,SUMU,11088,Quốc tế,Carrasco General Cesáreo L. Berisso International Airport,Ciudad de la Costa,UY,-34.835647,-56.026497,Ciudad de la Costa
+2025-09,SVMI,241,Quốc tế,Maiquetía Simón Bolívar International Airport,Maiquetía,VE,10.602214,-66.991174,Maiquetía
 2025-09,SWBC,30,Nội địa,Barcelos Airport,Barcelos,BR,-0.981191,-62.918603,Barcelos
 2025-09,SWGN,270,Nội địa,Araguaína Airport,Araguaína,BR,-7.22787,-48.240501,Araguaína
 2025-09,SWKO,41,Nội địa,Danilson Municipal Airport,Coari,BR,-4.13406,-63.132599,Coari
 2025-09,SWLB,17,Nội địa,Lábrea Airport,Lábrea,BR,-7.27897,-64.769501,Lábrea
 2025-09,SWMW,12,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
 2025-09,SWPI,311,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
+2025-09,TNCA,464,Quốc tế,Queen Beatrix International Airport,Oranjestad,AW,12.501056,-70.014281,Oranjestad
+2025-09,TNCC,487,Quốc tế,Hato International Airport,Willemstad,CW,12.1889,-68.959801,Willemstad
+2025-09,ZBAA,628,Quốc tế,Beijing Capital International Airport,Beijing,CN,40.077349,116.596702,Beijing
+2025-10,CYUL,190,Quốc tế,Montreal / Pierre Elliott Trudeau International Airport,Montréal,CA,45.467837,-73.742294,Montréal
+2025-10,CYYZ,400,Quốc tế,Toronto Pearson International Airport,Toronto,CA,43.675935,-79.629421,Toronto
+2025-10,DTTA,18,Quốc tế,Tunis Carthage International Airport,Tunis,TN,36.851002,10.2272,Tunis
+2025-10,EDDF,1591,Quốc tế,Frankfurt Main Airport,Frankfurt am Main,DE,50.026706,8.55835,Frankfurt am Main
+2025-10,EDDM,236,Quốc tế,Munich Airport,Munich,DE,48.353802,11.7861,Munich
+2025-10,EGLL,3333,Quốc tế,London Heathrow Airport,London,GB,51.470748,-0.459909,London
+2025-10,EHAM,827,Quốc tế,Amsterdam Airport Schiphol,Amsterdam,NL,52.308601,4.76389,Amsterdam
+2025-10,FAOR,904,Quốc tế,O.R. Tambo International Airport,Johannesburg,ZA,-26.140081,28.246801,Johannesburg
+2025-10,GMMN,515,Quốc tế,Mohammed V International Airport,Casablanca,MA,33.3675,-7.58997,Casablanca
+2025-10,HAAB,7,Quốc tế,Addis Ababa Bole International Airport,Addis Ababa,ET,8.97789,38.799301,Addis Ababa
+2025-10,KATL,389,Quốc tế,Hartsfield Jackson Atlanta International Airport,Atlanta,US,33.6367,-84.428101,Atlanta
+2025-10,KBOS,467,Quốc tế,Boston Logan International Airport,Boston,US,42.36197,-71.0079,Boston
+2025-10,KDFW,229,Quốc tế,Dallas Fort Worth International Airport,Dallas-Fort Worth,US,32.896801,-97.038002,Dallas-Fort Worth
+2025-10,KEWR,1133,Quốc tế,Newark Liberty International Airport,Newark,US,40.6894,-74.170545,Newark
+2025-10,KFLL,3056,Quốc tế,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,US,26.072599,-80.152702,Fort Lauderdale
+2025-10,KIAD,339,Quốc tế,Washington Dulles International Airport,Dulles,US,38.9445,-77.455803,Dulles
+2025-10,KIAH,385,Quốc tế,George Bush Intercontinental Airport,Houston,US,29.9844,-95.3414,Houston
+2025-10,KJFK,3298,Quốc tế,John F. Kennedy International Airport,New York,US,40.639447,-73.779317,New York
+2025-10,KLAX,611,Quốc tế,Los Angeles International Airport,Los Angeles,US,33.942501,-118.407997,Los Angeles
+2025-10,KMCO,11311,Quốc tế,Orlando International Airport,Orlando,US,28.429399490356445,-81.30899810791016,Orlando
+2025-10,KMIA,11165,Quốc tế,Miami International Airport,Miami,US,25.796011,-80.289751,Miami
+2025-10,KORD,584,Quốc tế,Chicago O'Hare International Airport,Chicago,US,41.9786,-87.9048,Chicago
+2025-10,LEBL,814,Quốc tế,Josep Tarradellas Barcelona-El Prat Airport,Barcelona,ES,41.2971,2.07846,Barcelona
+2025-10,LEMD,10058,Quốc tế,Adolfo Suárez Madrid–Barajas Airport,Madrid,ES,40.493407,-3.572249,Madrid
+2025-10,LFMN,23,Quốc tế,Nice-Côte d'Azur Airport,"Nice, Alpes-Maritimes",FR,43.658401,7.21587,"Nice, Alpes-Maritimes"
+2025-10,LFPG,4756,Quốc tế,Charles de Gaulle International Airport,"Paris (Roissy-en-France, Val-d'Oise)",FR,49.00896,2.554117,"Paris (Roissy-en-France, Val-d'Oise)"
+2025-10,LFPO,418,Quốc tế,Paris-Orly Airport,"Paris (Orly, Val-de-Marne)",FR,48.729499,2.358963,"Paris (Orly, Val-de-Marne)"
+2025-10,LGAV,141,Quốc tế,Athens Eleftherios Venizelos International Airport,Spata-Artemida,GR,37.936401,23.9445,Spata-Artemida
+2025-10,LIBD,43,Quốc tế,Bari Karol Wojtyła International Airport,Bari,IT,41.138901,16.760599,Bari
+2025-10,LIBR,12,Quốc tế,Brindisi Airport,Brindisi,IT,40.6576,17.947001,Brindisi
+2025-10,LICA,15,Quốc tế,Lamezia Terme Sant'Eufemia International Airport,Lamezia Terme (CZ),IT,38.906214,16.246007,Lamezia Terme (CZ)
+2025-10,LICC,42,Quốc tế,Catania-Fontanarossa Airport,Catania,IT,37.466801,15.0664,Catania
+2025-10,LICJ,37,Quốc tế,Falcone–Borsellino Airport,Palermo,IT,38.175999,13.091,Palermo
+2025-10,LIMC,3564,Quốc tế,Milan Malpensa International Airport,Ferno (VA),IT,45.6306,8.72811,Ferno (VA)
+2025-10,LIMF,113,Quốc tế,Turin Airport,Caselle Torinese (TO),IT,45.200802,7.64963,Caselle Torinese (TO)
+2025-10,LIMJ,33,Quốc tế,Genoa Cristoforo Colombo Airport,Genova (GE),IT,44.412039,8.840732,Genova (GE)
+2025-10,LIPE,68,Quốc tế,Bologna Guglielmo Marconi Airport,Bologna,IT,44.5354,11.2887,Bologna
+2025-10,LIPQ,33,Quốc tế,Trieste Airport,Ronchi dei Legionari/Trieste,IT,45.827862,13.466672,Ronchi dei Legionari/Trieste
+2025-10,LIPZ,109,Quốc tế,Venice Marco Polo Airport,Venezia (VE),IT,45.505299,12.3519,Venezia (VE)
+2025-10,LIRF,5354,Quốc tế,Rome–Fiumicino Leonardo da Vinci International Airport,Rome,IT,41.804532,12.251998,Rome
+2025-10,LIRN,81,Quốc tế,Naples International Airport,Napoli,IT,40.886002,14.2908,Napoli
+2025-10,LIRQ,85,Quốc tế,"Florence Airport, Peretola",Firenze (FI),IT,43.808558,11.202822,Firenze (FI)
+2025-10,LPPR,4261,Quốc tế,Francisco de Sá Carneiro Airport,Porto,PT,41.2481002808,-8.68138980865,Porto
+2025-10,LPPT,13338,Quốc tế,Lisbon Humberto Delgado Airport,Lisbon,PT,38.7813,-9.13592,Lisbon
+2025-10,LSZH,434,Quốc tế,Zürich Airport,Zurich,CH,47.458056,8.548056,Zurich
+2025-10,LTFM,1377,Quốc tế,İstanbul Airport,Istanbul,TR,41.274874,28.732136,Istanbul
+2025-10,MDPC,7762,Quốc tế,Punta Cana International Airport,Punta Cana,DO,18.567093,-68.364558,Punta Cana
+2025-10,MMMX,2398,Quốc tế,Mexico City Benito Juárez International Airport,Mexico City,MX,19.435822,-99.07033,Mexico City
+2025-10,MMUN,402,Quốc tế,Cancún International Airport,Cancún,MX,21.040817,-86.87347,Cancún
+2025-10,MPTO,1814,Quốc tế,Tocumen International Airport,Tocumen,PA,9.07136,-79.383499,Tocumen
+2025-10,MROC,129,Quốc tế,Juan Santamaría International Airport,San José (Alajuela),CR,9.99386,-84.208801,San José (Alajuela)
+2025-10,OMDB,594,Quốc tế,Dubai International Airport,Dubai,AE,25.24979,55.370992,Dubai
+2025-10,OTHH,106,Quốc tế,Hamad International Airport,Doha,QA,25.273056,51.608056,Doha
+2025-10,SAAR,60,Quốc tế,Rosario Islas Malvinas International Airport,Rosario,AR,-32.9036,-60.785,Rosario
+2025-10,SABE,18418,Quốc tế,Aeroparque Jorge Newbery,Buenos Aires,AR,-34.559419,-58.415536,Buenos Aires
+2025-10,SACO,2475,Quốc tế,Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport,Cordoba,AR,-31.312346,-64.208329,Cordoba
+2025-10,SAEZ,17348,Quốc tế,Ezeiza International Airport - Ministro Pistarini,Buenos Aires (Ezeiza),AR,-34.8222,-58.5358,Buenos Aires (Ezeiza)
+2025-10,SAME,1370,Quốc tế,Governor Francisco Gabrielli International Airport,Mendoza,AR,-32.831699,-68.7929,Mendoza
 2025-10,SBAE,661,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
 2025-10,SBAQ,33,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
 2025-10,SBAR,24523,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
@@ -4581,8 +4713,14 @@
 2025-10,SBVH,202,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
 2025-10,SBVT,66735,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
 2025-10,SBZM,2341,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-10,SCEL,65148,Quốc tế,Comodoro Arturo Merino Benítez International Airport,Santiago,CL,-33.393001556396484,-70.78579711914062,Santiago
 2025-10,SDLO,26,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
 2025-10,SDOW,32,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-10,SGAS,1845,Quốc tế,Silvio Pettirossi International Airport,Asunción,PY,-25.240156,-57.519227,Asunción
+2025-10,SKBO,2868,Quốc tế,El Dorado International Airport,Bogota,CO,4.70159,-74.1469,Bogota
+2025-10,SLCB,174,Quốc tế,Jorge Wilsterman International Airport,Cochabamba,BO,-17.421105,-66.177102,Cochabamba
+2025-10,SLVR,1818,Quốc tế,Viru Viru International Airport,Santa Cruz,BO,-17.6448,-63.135399,Santa Cruz
+2025-10,SMJP,623,Quốc tế,Johan Adolf Pengel International Airport,Paramaribo,SR,5.45283,-55.187801,Paramaribo
 2025-10,SNAB,12,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
 2025-10,SNBR,736,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
 2025-10,SNCL,377,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
@@ -4602,12 +4740,17 @@
 2025-10,SNTS,63,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
 2025-10,SNVS,25,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
 2025-10,SNZR,15,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-10,SOCA,19,Quốc tế,Cayenne – Félix Eboué Airport,Matoury,GF,4.819964,-52.361326,Matoury
+2025-10,SPJC,6245,Quốc tế,Jorge Chávez International Airport,Lima,PE,-12.0219,-77.1143,Lima
 2025-10,SSGY,18,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
 2025-10,SSKW,100,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
 2025-10,SSOU,93,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
 2025-10,SSUM,31,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
 2025-10,SSUV,4,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
 2025-10,SSVL,4,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-10,SULS,317,Quốc tế,Capitan Corbeta CA Curbelo International Airport,Punta del Este,UY,-34.855099,-55.094299,Punta del Este
+2025-10,SUMU,10367,Quốc tế,Carrasco General Cesáreo L. Berisso International Airport,Ciudad de la Costa,UY,-34.835647,-56.026497,Ciudad de la Costa
+2025-10,SVMI,240,Quốc tế,Maiquetía Simón Bolívar International Airport,Maiquetía,VE,10.602214,-66.991174,Maiquetía
 2025-10,SWBC,24,Nội địa,Barcelos Airport,Barcelos,BR,-0.981191,-62.918603,Barcelos
 2025-10,SWBR,6,Nội địa,Borba Airport,Borba,BR,-4.40634,-59.602402,Borba
 2025-10,SWGN,552,Nội địa,Araguaína Airport,Araguaína,BR,-7.22787,-48.240501,Araguaína
@@ -4616,6 +4759,67 @@
 2025-10,SWMW,15,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
 2025-10,SWPI,236,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
 2025-10,SWYN,56,Nội địa,Apuí Airport,Apuí,BR,-7.172773,-59.8396,Apuí
+2025-10,TNCA,580,Quốc tế,Queen Beatrix International Airport,Oranjestad,AW,12.501056,-70.014281,Oranjestad
+2025-10,TNCC,615,Quốc tế,Hato International Airport,Willemstad,CW,12.1889,-68.959801,Willemstad
+2025-10,ZBAA,664,Quốc tế,Beijing Capital International Airport,Beijing,CN,40.077349,116.596702,Beijing
+2025-11,CYUL,172,Quốc tế,Montreal / Pierre Elliott Trudeau International Airport,Montréal,CA,45.467837,-73.742294,Montréal
+2025-11,CYYZ,366,Quốc tế,Toronto Pearson International Airport,Toronto,CA,43.675935,-79.629421,Toronto
+2025-11,EBBR,202,Quốc tế,Brussels Airport,Zaventem,BE,50.901402,4.48444,Zaventem
+2025-11,EDDF,1766,Quốc tế,Frankfurt Main Airport,Frankfurt am Main,DE,50.026706,8.55835,Frankfurt am Main
+2025-11,EDDM,176,Quốc tế,Munich Airport,Munich,DE,48.353802,11.7861,Munich
+2025-11,EGLL,3395,Quốc tế,London Heathrow Airport,London,GB,51.470748,-0.459909,London
+2025-11,EHAM,1867,Quốc tế,Amsterdam Airport Schiphol,Amsterdam,NL,52.308601,4.76389,Amsterdam
+2025-11,FACT,97,Quốc tế,Cape Town International Airport,Cape Town,ZA,-33.97403,18.604333,Cape Town
+2025-11,FAOR,1694,Quốc tế,O.R. Tambo International Airport,Johannesburg,ZA,-26.140081,28.246801,Johannesburg
+2025-11,GMMN,577,Quốc tế,Mohammed V International Airport,Casablanca,MA,33.3675,-7.58997,Casablanca
+2025-11,HAAB,1,Quốc tế,Addis Ababa Bole International Airport,Addis Ababa,ET,8.97789,38.799301,Addis Ababa
+2025-11,KATL,320,Quốc tế,Hartsfield Jackson Atlanta International Airport,Atlanta,US,33.6367,-84.428101,Atlanta
+2025-11,KBOS,553,Quốc tế,Boston Logan International Airport,Boston,US,42.36197,-71.0079,Boston
+2025-11,KDFW,212,Quốc tế,Dallas Fort Worth International Airport,Dallas-Fort Worth,US,32.896801,-97.038002,Dallas-Fort Worth
+2025-11,KEWR,2202,Quốc tế,Newark Liberty International Airport,Newark,US,40.6894,-74.170545,Newark
+2025-11,KFLL,2223,Quốc tế,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,US,26.072599,-80.152702,Fort Lauderdale
+2025-11,KIAD,237,Quốc tế,Washington Dulles International Airport,Dulles,US,38.9445,-77.455803,Dulles
+2025-11,KJFK,3763,Quốc tế,John F. Kennedy International Airport,New York,US,40.639447,-73.779317,New York
+2025-11,KLAX,673,Quốc tế,Los Angeles International Airport,Los Angeles,US,33.942501,-118.407997,Los Angeles
+2025-11,KMCO,12893,Quốc tế,Orlando International Airport,Orlando,US,28.429399490356445,-81.30899810791016,Orlando
+2025-11,KMIA,9349,Quốc tế,Miami International Airport,Miami,US,25.796011,-80.289751,Miami
+2025-11,LEBL,1541,Quốc tế,Josep Tarradellas Barcelona-El Prat Airport,Barcelona,ES,41.2971,2.07846,Barcelona
+2025-11,LEMD,10726,Quốc tế,Adolfo Suárez Madrid–Barajas Airport,Madrid,ES,40.493407,-3.572249,Madrid
+2025-11,LFMN,24,Quốc tế,Nice-Côte d'Azur Airport,"Nice, Alpes-Maritimes",FR,43.658401,7.21587,"Nice, Alpes-Maritimes"
+2025-11,LFPG,5273,Quốc tế,Charles de Gaulle International Airport,"Paris (Roissy-en-France, Val-d'Oise)",FR,49.00896,2.554117,"Paris (Roissy-en-France, Val-d'Oise)"
+2025-11,LFPO,87,Quốc tế,Paris-Orly Airport,"Paris (Orly, Val-de-Marne)",FR,48.729499,2.358963,"Paris (Orly, Val-de-Marne)"
+2025-11,LIBD,70,Quốc tế,Bari Karol Wojtyła International Airport,Bari,IT,41.138901,16.760599,Bari
+2025-11,LIBR,11,Quốc tế,Brindisi Airport,Brindisi,IT,40.6576,17.947001,Brindisi
+2025-11,LICA,8,Quốc tế,Lamezia Terme Sant'Eufemia International Airport,Lamezia Terme (CZ),IT,38.906214,16.246007,Lamezia Terme (CZ)
+2025-11,LICC,19,Quốc tế,Catania-Fontanarossa Airport,Catania,IT,37.466801,15.0664,Catania
+2025-11,LICJ,27,Quốc tế,Falcone–Borsellino Airport,Palermo,IT,38.175999,13.091,Palermo
+2025-11,LIMC,4807,Quốc tế,Milan Malpensa International Airport,Ferno (VA),IT,45.6306,8.72811,Ferno (VA)
+2025-11,LIMF,50,Quốc tế,Turin Airport,Caselle Torinese (TO),IT,45.200802,7.64963,Caselle Torinese (TO)
+2025-11,LIMJ,29,Quốc tế,Genoa Cristoforo Colombo Airport,Genova (GE),IT,44.412039,8.840732,Genova (GE)
+2025-11,LIPE,48,Quốc tế,Bologna Guglielmo Marconi Airport,Bologna,IT,44.5354,11.2887,Bologna
+2025-11,LIPQ,21,Quốc tế,Trieste Airport,Ronchi dei Legionari/Trieste,IT,45.827862,13.466672,Ronchi dei Legionari/Trieste
+2025-11,LIPZ,78,Quốc tế,Venice Marco Polo Airport,Venezia (VE),IT,45.505299,12.3519,Venezia (VE)
+2025-11,LIRF,5983,Quốc tế,Rome–Fiumicino Leonardo da Vinci International Airport,Rome,IT,41.804532,12.251998,Rome
+2025-11,LIRN,58,Quốc tế,Naples International Airport,Napoli,IT,40.886002,14.2908,Napoli
+2025-11,LIRQ,63,Quốc tế,"Florence Airport, Peretola",Firenze (FI),IT,43.808558,11.202822,Firenze (FI)
+2025-11,LPPR,2772,Quốc tế,Francisco de Sá Carneiro Airport,Porto,PT,41.2481002808,-8.68138980865,Porto
+2025-11,LPPT,16474,Quốc tế,Lisbon Humberto Delgado Airport,Lisbon,PT,38.7813,-9.13592,Lisbon
+2025-11,LSZH,433,Quốc tế,Zürich Airport,Zurich,CH,47.458056,8.548056,Zurich
+2025-11,LTFM,1978,Quốc tế,İstanbul Airport,Istanbul,TR,41.274874,28.732136,Istanbul
+2025-11,MDPC,7834,Quốc tế,Punta Cana International Airport,Punta Cana,DO,18.567093,-68.364558,Punta Cana
+2025-11,MMMX,2237,Quốc tế,Mexico City Benito Juárez International Airport,Mexico City,MX,19.435822,-99.07033,Mexico City
+2025-11,MMUN,360,Quốc tế,Cancún International Airport,Cancún,MX,21.040817,-86.87347,Cancún
+2025-11,MPTO,1848,Quốc tế,Tocumen International Airport,Tocumen,PA,9.07136,-79.383499,Tocumen
+2025-11,MROC,84,Quốc tế,Juan Santamaría International Airport,San José (Alajuela),CR,9.99386,-84.208801,San José (Alajuela)
+2025-11,OMDB,587,Quốc tế,Dubai International Airport,Dubai,AE,25.24979,55.370992,Dubai
+2025-11,OTHH,180,Quốc tế,Hamad International Airport,Doha,QA,25.273056,51.608056,Doha
+2025-11,SAAR,130,Quốc tế,Rosario Islas Malvinas International Airport,Rosario,AR,-32.9036,-60.785,Rosario
+2025-11,SABE,26618,Quốc tế,Aeroparque Jorge Newbery,Buenos Aires,AR,-34.559419,-58.415536,Buenos Aires
+2025-11,SACO,3596,Quốc tế,Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport,Cordoba,AR,-31.312346,-64.208329,Cordoba
+2025-11,SAEZ,31474,Quốc tế,Ezeiza International Airport - Ministro Pistarini,Buenos Aires (Ezeiza),AR,-34.8222,-58.5358,Buenos Aires (Ezeiza)
+2025-11,SAME,2644,Quốc tế,Governor Francisco Gabrielli International Airport,Mendoza,AR,-32.831699,-68.7929,Mendoza
+2025-11,SAWH,18,Quốc tế,Ushuaia - Malvinas Argentinas International Airport,Ushuaia,AR,-54.8433,-68.2958,Ushuaia
+2025-11,SAZS,223,Quốc tế,Teniente Luis Candelaria International Airport,San Carlos de Bariloche,AR,-41.151199,-71.157501,San Carlos de Bariloche
 2025-11,SBAE,715,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
 2025-11,SBAQ,21,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
 2025-11,SBAR,31554,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
@@ -4714,8 +4918,14 @@
 2025-11,SBVH,268,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
 2025-11,SBVT,85116,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
 2025-11,SBZM,2686,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-11,SCEL,60726,Quốc tế,Comodoro Arturo Merino Benítez International Airport,Santiago,CL,-33.393001556396484,-70.78579711914062,Santiago
 2025-11,SDLO,29,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
 2025-11,SDOW,19,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-11,SGAS,2456,Quốc tế,Silvio Pettirossi International Airport,Asunción,PY,-25.240156,-57.519227,Asunción
+2025-11,SKBO,2868,Quốc tế,El Dorado International Airport,Bogota,CO,4.70159,-74.1469,Bogota
+2025-11,SLCB,148,Quốc tế,Jorge Wilsterman International Airport,Cochabamba,BO,-17.421105,-66.177102,Cochabamba
+2025-11,SLVR,2142,Quốc tế,Viru Viru International Airport,Santa Cruz,BO,-17.6448,-63.135399,Santa Cruz
+2025-11,SMJP,471,Quốc tế,Johan Adolf Pengel International Airport,Paramaribo,SR,5.45283,-55.187801,Paramaribo
 2025-11,SNAB,14,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
 2025-11,SNBR,1182,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
 2025-11,SNCL,310,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
@@ -4735,12 +4945,17 @@
 2025-11,SNTS,16,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
 2025-11,SNVS,7,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
 2025-11,SNZR,10,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-11,SOCA,28,Quốc tế,Cayenne – Félix Eboué Airport,Matoury,GF,4.819964,-52.361326,Matoury
+2025-11,SPJC,7313,Quốc tế,Jorge Chávez International Airport,Lima,PE,-12.0219,-77.1143,Lima
 2025-11,SSGY,12,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
 2025-11,SSKW,162,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
 2025-11,SSOU,38,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
 2025-11,SSUM,29,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
 2025-11,SSUV,13,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
 2025-11,SSVL,3,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-11,SULS,350,Quốc tế,Capitan Corbeta CA Curbelo International Airport,Punta del Este,UY,-34.855099,-55.094299,Punta del Este
+2025-11,SUMU,12570,Quốc tế,Carrasco General Cesáreo L. Berisso International Airport,Ciudad de la Costa,UY,-34.835647,-56.026497,Ciudad de la Costa
+2025-11,SVMI,164,Quốc tế,Maiquetía Simón Bolívar International Airport,Maiquetía,VE,10.602214,-66.991174,Maiquetía
 2025-11,SWBC,40,Nội địa,Barcelos Airport,Barcelos,BR,-0.981191,-62.918603,Barcelos
 2025-11,SWBR,1,Nội địa,Borba Airport,Borba,BR,-4.40634,-59.602402,Borba
 2025-11,SWGN,544,Nội địa,Araguaína Airport,Araguaína,BR,-7.22787,-48.240501,Araguaína
@@ -4749,6 +4964,71 @@
 2025-11,SWMW,14,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
 2025-11,SWPI,317,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
 2025-11,SWYN,49,Nội địa,Apuí Airport,Apuí,BR,-7.172773,-59.8396,Apuí
+2025-11,TNCA,441,Quốc tế,Queen Beatrix International Airport,Oranjestad,AW,12.501056,-70.014281,Oranjestad
+2025-11,TNCC,525,Quốc tế,Hato International Airport,Willemstad,CW,12.1889,-68.959801,Willemstad
+2025-11,ZBAA,467,Quốc tế,Beijing Capital International Airport,Beijing,CN,40.077349,116.596702,Beijing
+2025-12,CYUL,118,Quốc tế,Montreal / Pierre Elliott Trudeau International Airport,Montréal,CA,45.467837,-73.742294,Montréal
+2025-12,CYYZ,333,Quốc tế,Toronto Pearson International Airport,Toronto,CA,43.675935,-79.629421,Toronto
+2025-12,EBBR,106,Quốc tế,Brussels Airport,Zaventem,BE,50.901402,4.48444,Zaventem
+2025-12,EDDF,1369,Quốc tế,Frankfurt Main Airport,Frankfurt am Main,DE,50.026706,8.55835,Frankfurt am Main
+2025-12,EDDM,146,Quốc tế,Munich Airport,Munich,DE,48.353802,11.7861,Munich
+2025-12,EGLL,2910,Quốc tế,London Heathrow Airport,London,GB,51.470748,-0.459909,London
+2025-12,EHAM,1232,Quốc tế,Amsterdam Airport Schiphol,Amsterdam,NL,52.308601,4.76389,Amsterdam
+2025-12,FACT,88,Quốc tế,Cape Town International Airport,Cape Town,ZA,-33.97403,18.604333,Cape Town
+2025-12,FAOR,955,Quốc tế,O.R. Tambo International Airport,Johannesburg,ZA,-26.140081,28.246801,Johannesburg
+2025-12,FNBJ,1389,Quốc tế,Dr. Antonio Agostinho Neto International Airport,Luanda (Ícolo e Bengo),AO,-9.050734,13.499078,Luanda (Ícolo e Bengo)
+2025-12,GMMN,560,Quốc tế,Mohammed V International Airport,Casablanca,MA,33.3675,-7.58997,Casablanca
+2025-12,HAAB,8,Quốc tế,Addis Ababa Bole International Airport,Addis Ababa,ET,8.97789,38.799301,Addis Ababa
+2025-12,KATL,379,Quốc tế,Hartsfield Jackson Atlanta International Airport,Atlanta,US,33.6367,-84.428101,Atlanta
+2025-12,KBOS,459,Quốc tế,Boston Logan International Airport,Boston,US,42.36197,-71.0079,Boston
+2025-12,KDFW,193,Quốc tế,Dallas Fort Worth International Airport,Dallas-Fort Worth,US,32.896801,-97.038002,Dallas-Fort Worth
+2025-12,KEWR,1266,Quốc tế,Newark Liberty International Airport,Newark,US,40.6894,-74.170545,Newark
+2025-12,KFLL,2101,Quốc tế,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,US,26.072599,-80.152702,Fort Lauderdale
+2025-12,KIAD,187,Quốc tế,Washington Dulles International Airport,Dulles,US,38.9445,-77.455803,Dulles
+2025-12,KIAH,265,Quốc tế,George Bush Intercontinental Airport,Houston,US,29.9844,-95.3414,Houston
+2025-12,KJFK,3415,Quốc tế,John F. Kennedy International Airport,New York,US,40.639447,-73.779317,New York
+2025-12,KLAX,535,Quốc tế,Los Angeles International Airport,Los Angeles,US,33.942501,-118.407997,Los Angeles
+2025-12,KMCO,8094,Quốc tế,Orlando International Airport,Orlando,US,28.429399490356445,-81.30899810791016,Orlando
+2025-12,KMIA,8296,Quốc tế,Miami International Airport,Miami,US,25.796011,-80.289751,Miami
+2025-12,KORD,338,Quốc tế,Chicago O'Hare International Airport,Chicago,US,41.9786,-87.9048,Chicago
+2025-12,LEBL,1170,Quốc tế,Josep Tarradellas Barcelona-El Prat Airport,Barcelona,ES,41.2971,2.07846,Barcelona
+2025-12,LEMD,7925,Quốc tế,Adolfo Suárez Madrid–Barajas Airport,Madrid,ES,40.493407,-3.572249,Madrid
+2025-12,LFMN,29,Quốc tế,Nice-Côte d'Azur Airport,"Nice, Alpes-Maritimes",FR,43.658401,7.21587,"Nice, Alpes-Maritimes"
+2025-12,LFPG,4156,Quốc tế,Charles de Gaulle International Airport,"Paris (Roissy-en-France, Val-d'Oise)",FR,49.00896,2.554117,"Paris (Roissy-en-France, Val-d'Oise)"
+2025-12,LFPO,103,Quốc tế,Paris-Orly Airport,"Paris (Orly, Val-de-Marne)",FR,48.729499,2.358963,"Paris (Orly, Val-de-Marne)"
+2025-12,LIBD,51,Quốc tế,Bari Karol Wojtyła International Airport,Bari,IT,41.138901,16.760599,Bari
+2025-12,LIBR,12,Quốc tế,Brindisi Airport,Brindisi,IT,40.6576,17.947001,Brindisi
+2025-12,LICA,6,Quốc tế,Lamezia Terme Sant'Eufemia International Airport,Lamezia Terme (CZ),IT,38.906214,16.246007,Lamezia Terme (CZ)
+2025-12,LICC,13,Quốc tế,Catania-Fontanarossa Airport,Catania,IT,37.466801,15.0664,Catania
+2025-12,LICJ,17,Quốc tế,Falcone–Borsellino Airport,Palermo,IT,38.175999,13.091,Palermo
+2025-12,LIMC,3341,Quốc tế,Milan Malpensa International Airport,Ferno (VA),IT,45.6306,8.72811,Ferno (VA)
+2025-12,LIMF,52,Quốc tế,Turin Airport,Caselle Torinese (TO),IT,45.200802,7.64963,Caselle Torinese (TO)
+2025-12,LIMJ,13,Quốc tế,Genoa Cristoforo Colombo Airport,Genova (GE),IT,44.412039,8.840732,Genova (GE)
+2025-12,LIPE,44,Quốc tế,Bologna Guglielmo Marconi Airport,Bologna,IT,44.5354,11.2887,Bologna
+2025-12,LIPQ,21,Quốc tế,Trieste Airport,Ronchi dei Legionari/Trieste,IT,45.827862,13.466672,Ronchi dei Legionari/Trieste
+2025-12,LIPZ,81,Quốc tế,Venice Marco Polo Airport,Venezia (VE),IT,45.505299,12.3519,Venezia (VE)
+2025-12,LIRF,3785,Quốc tế,Rome–Fiumicino Leonardo da Vinci International Airport,Rome,IT,41.804532,12.251998,Rome
+2025-12,LIRN,36,Quốc tế,Naples International Airport,Napoli,IT,40.886002,14.2908,Napoli
+2025-12,LIRQ,64,Quốc tế,"Florence Airport, Peretola",Firenze (FI),IT,43.808558,11.202822,Firenze (FI)
+2025-12,LPPR,2186,Quốc tế,Francisco de Sá Carneiro Airport,Porto,PT,41.2481002808,-8.68138980865,Porto
+2025-12,LPPT,10330,Quốc tế,Lisbon Humberto Delgado Airport,Lisbon,PT,38.7813,-9.13592,Lisbon
+2025-12,LSZH,366,Quốc tế,Zürich Airport,Zurich,CH,47.458056,8.548056,Zurich
+2025-12,LTFM,2381,Quốc tế,İstanbul Airport,Istanbul,TR,41.274874,28.732136,Istanbul
+2025-12,MDPC,6794,Quốc tế,Punta Cana International Airport,Punta Cana,DO,18.567093,-68.364558,Punta Cana
+2025-12,MMMX,2015,Quốc tế,Mexico City Benito Juárez International Airport,Mexico City,MX,19.435822,-99.07033,Mexico City
+2025-12,MMUN,192,Quốc tế,Cancún International Airport,Cancún,MX,21.040817,-86.87347,Cancún
+2025-12,MPTO,2003,Quốc tế,Tocumen International Airport,Tocumen,PA,9.07136,-79.383499,Tocumen
+2025-12,OMDB,350,Quốc tế,Dubai International Airport,Dubai,AE,25.24979,55.370992,Dubai
+2025-12,OTHH,262,Quốc tế,Hamad International Airport,Doha,QA,25.273056,51.608056,Doha
+2025-12,SAAR,259,Quốc tế,Rosario Islas Malvinas International Airport,Rosario,AR,-32.9036,-60.785,Rosario
+2025-12,SABE,21111,Quốc tế,Aeroparque Jorge Newbery,Buenos Aires,AR,-34.559419,-58.415536,Buenos Aires
+2025-12,SACO,3155,Quốc tế,Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport,Cordoba,AR,-31.312346,-64.208329,Cordoba
+2025-12,SAEZ,21413,Quốc tế,Ezeiza International Airport - Ministro Pistarini,Buenos Aires (Ezeiza),AR,-34.8222,-58.5358,Buenos Aires (Ezeiza)
+2025-12,SAME,2298,Quốc tế,Governor Francisco Gabrielli International Airport,Mendoza,AR,-32.831699,-68.7929,Mendoza
+2025-12,SANT,2,Quốc tế,Teniente Benjamín Matienzo International Airport,San Miguel de Tucumán,AR,-26.837397,-65.104195,San Miguel de Tucumán
+2025-12,SASA,6,Quốc tế,Martín Miguel de Güemes International Airport,Salta,AR,-24.856001,-65.486198,Salta
+2025-12,SAWH,79,Quốc tế,Ushuaia - Malvinas Argentinas International Airport,Ushuaia,AR,-54.8433,-68.2958,Ushuaia
+2025-12,SAZS,240,Quốc tế,Teniente Luis Candelaria International Airport,San Carlos de Bariloche,AR,-41.151199,-71.157501,San Carlos de Bariloche
 2025-12,SBAE,514,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
 2025-12,SBAQ,7,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
 2025-12,SBAR,17578,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju
@@ -4847,8 +5127,14 @@
 2025-12,SBVH,171,Nội địa,Brigadeiro Camarão Airport,Vilhena,BR,-12.6944,-60.098301,Vilhena
 2025-12,SBVT,48071,Nội địa,Eurico de Aguiar Salles International Airport,Vitória,BR,-20.258,-40.285,Vitória
 2025-12,SBZM,1499,Nội địa,Presidente Itamar Franco Airport,Juiz de Fora,BR,-21.513086,-43.173069,Juiz de Fora
+2025-12,SCEL,52359,Quốc tế,Comodoro Arturo Merino Benítez International Airport,Santiago,CL,-33.393001556396484,-70.78579711914062,Santiago
 2025-12,SDLO,28,Nội địa,Fábio Perini Airport,Cairu,BR,-13.5648,-38.939999,Cairu
 2025-12,SDOW,20,Nội địa,Ourilândia do Norte Airport,Ourilândia do Norte,BR,-6.762992,-51.04993,Ourilândia do Norte
+2025-12,SGAS,1726,Quốc tế,Silvio Pettirossi International Airport,Asunción,PY,-25.240156,-57.519227,Asunción
+2025-12,SKBO,1871,Quốc tế,El Dorado International Airport,Bogota,CO,4.70159,-74.1469,Bogota
+2025-12,SLCB,206,Quốc tế,Jorge Wilsterman International Airport,Cochabamba,BO,-17.421105,-66.177102,Cochabamba
+2025-12,SLVR,1329,Quốc tế,Viru Viru International Airport,Santa Cruz,BO,-17.6448,-63.135399,Santa Cruz
+2025-12,SMJP,590,Quốc tế,Johan Adolf Pengel International Airport,Paramaribo,SR,5.45283,-55.187801,Paramaribo
 2025-12,SNAB,10,Nội địa,Araripina Airport,Araripina,BR,-7.586417,-40.535431,Araripina
 2025-12,SNBR,774,Nội địa,Dom Ricardo Weberberger Airport,Barreiras,BR,-12.0789,-45.008999,Barreiras
 2025-12,SNCL,318,Nội địa,Lorenzo Airport,Cairu,BR,-13.389444,-38.91,Cairu
@@ -4868,12 +5154,16 @@
 2025-12,SNTS,17,Nội địa,Aeroporto Brigadeiro Firmino Ayres,Patos,BR,-7.03899,-37.251598,Patos
 2025-12,SNVS,5,Nội địa,Breves Airport,Breves,BR,-1.63653,-50.4436,Breves
 2025-12,SNZR,11,Nội địa,Pedro Rabelo de Souza Airport,Paracatu,BR,-17.242599,-46.883099,Paracatu
+2025-12,SOCA,36,Quốc tế,Cayenne – Félix Eboué Airport,Matoury,GF,4.819964,-52.361326,Matoury
+2025-12,SPJC,4523,Quốc tế,Jorge Chávez International Airport,Lima,PE,-12.0219,-77.1143,Lima
 2025-12,SSGY,8,Nội địa,Guaíra Airport,Guaíra,BR,-24.0811,-54.1917,Guaíra
 2025-12,SSKW,91,Nội địa,Cacoal Airport,Cacoal,BR,-11.496,-61.4508,Cacoal
 2025-12,SSOU,38,Nội địa,Aripuanã Airport,Aripuanã,BR,-10.187375,-59.457469,Aripuanã
 2025-12,SSUM,4,Nội địa,Orlando de Carvalho Airport,Umuarama,BR,-23.7987,-53.313801,Umuarama
 2025-12,SSUV,20,Nội địa,José Cleto Airport,União da Vitória,BR,-26.233224,-51.066754,União da Vitória
 2025-12,SSVL,1,Nội địa,Fazenda Santa Claudina Airport,Caarapó,BR,-22.521667,-54.677776,Caarapó
+2025-12,SULS,226,Quốc tế,Capitan Corbeta CA Curbelo International Airport,Punta del Este,UY,-34.855099,-55.094299,Punta del Este
+2025-12,SUMU,10538,Quốc tế,Carrasco General Cesáreo L. Berisso International Airport,Ciudad de la Costa,UY,-34.835647,-56.026497,Ciudad de la Costa
 2025-12,SWBC,39,Nội địa,Barcelos Airport,Barcelos,BR,-0.981191,-62.918603,Barcelos
 2025-12,SWGN,439,Nội địa,Araguaína Airport,Araguaína,BR,-7.22787,-48.240501,Araguaína
 2025-12,SWKO,7,Nội địa,Danilson Municipal Airport,Coari,BR,-4.13406,-63.132599,Coari
@@ -4881,6 +5171,9 @@
 2025-12,SWMW,13,Nội địa,Maués Airport,Maués,BR,-3.37217,-57.7248,Maués
 2025-12,SWPI,226,Nội địa,Parintins Airport,Parintins,BR,-2.673521,-56.777625,Parintins
 2025-12,SWYN,89,Nội địa,Apuí Airport,Apuí,BR,-7.172773,-59.8396,Apuí
+2025-12,TNCA,139,Quốc tế,Queen Beatrix International Airport,Oranjestad,AW,12.501056,-70.014281,Oranjestad
+2025-12,TNCC,88,Quốc tế,Hato International Airport,Willemstad,CW,12.1889,-68.959801,Willemstad
+2025-12,ZBAA,531,Quốc tế,Beijing Capital International Airport,Beijing,CN,40.077349,116.596702,Beijing
 2026-01,SBAE,822,Nội địa,Bauru/Arealva–Moussa Nakhal Tobias State Airport,Bauru,BR,-22.160755,-49.070325,Bauru
 2026-01,SBAQ,15,Nội địa,Araraquara Airport,Araraquara,BR,-21.812,-48.132999,Araraquara
 2026-01,SBAR,22686,Nội địa,Aracaju - Santa Maria Airport,Aracaju,BR,-10.98394,-37.072873,Aracaju

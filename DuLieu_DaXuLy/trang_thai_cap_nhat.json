@@ -1,13 +1,13 @@
 {
-  "last_success_utc": "2026-10-11 06:15:35",
-  "period": "2024-01 den 2026-02",
+  "last_success_utc": "2026-10-11 06:19:53",
+  "period": "2024-01 den 2026-08",
   "newly_processed": [
-    "domestic_2025-09",
-    "domestic_2025-10",
-    "domestic_2025-11",
-    "domestic_2025-12",
-    "domestic_2026-01",
-    "domestic_2026-02"
+    "domestic_2026-03",
+    "domestic_2026-04",
+    "domestic_2026-06",
+    "domestic_2026-07",
+    "domestic_2026-08",
+    "international_2025-02"
   ],
   "warnings": [],
   "year_coverage": [

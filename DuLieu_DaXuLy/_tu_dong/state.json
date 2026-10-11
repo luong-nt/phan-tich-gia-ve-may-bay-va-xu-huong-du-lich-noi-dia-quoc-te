@@ -1,5 +1,5 @@
 {
-  "last_success_utc": "2026-10-11 06:19:53",
+  "last_success_utc": "2026-10-11 06:20:19",
   "period": "2024-01 den 2026-08",
   "months": {
     "domestic_2025-01": {
@@ -211,15 +211,75 @@
       "rows": 51391,
       "sha256": "16fc0874e014b9eb3cb9c693ba6d235401f2b11232e792832174c2c5542779c7",
       "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-02.csv"
+    },
+    "international_2025-03": {
+      "month": "2025-03",
+      "market": "international",
+      "seats": 237627.0,
+      "fare_weight": 141428068.43,
+      "fare_seats": 237627.0,
+      "rows": 62855,
+      "sha256": "922fc8e60f03718d3fe8d0f3654b6fa3d4bb10d289d6f883a150121e2a6ccf60",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-03.csv"
+    },
+    "international_2025-04": {
+      "month": "2025-04",
+      "market": "international",
+      "seats": 200139.0,
+      "fare_weight": 133144043.82000001,
+      "fare_seats": 200139.0,
+      "rows": 60599,
+      "sha256": "8f96905535849dc1a20f9802de2e5ba57ff280a41fdb3eebf2a59ed44ec721b3",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-04.csv"
+    },
+    "international_2025-05": {
+      "month": "2025-05",
+      "market": "international",
+      "seats": 217899.0,
+      "fare_weight": 131856358.27000001,
+      "fare_seats": 217899.0,
+      "rows": 63959,
+      "sha256": "bdc1937fffcc8965f58a55e6ddee727eada4cfb67fe431c2570b412f923a4415",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-05.csv"
+    },
+    "international_2025-06": {
+      "month": "2025-06",
+      "market": "international",
+      "seats": 223682.0,
+      "fare_weight": 120227904.17999999,
+      "fare_seats": 223682.0,
+      "rows": 59150,
+      "sha256": "160412a3812c2c8a02ccb6861a174f990a2df7aab2d5015085af44c8b6202ba9",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-06.csv"
+    },
+    "international_2025-07": {
+      "month": "2025-07",
+      "market": "international",
+      "seats": 217221.0,
+      "fare_weight": 125464362.42000002,
+      "fare_seats": 217221.0,
+      "rows": 60751,
+      "sha256": "4c0b2d4f5656fc2b47f6ab34d01661ef390f9432c9f4e4e9850aa8bb90570f3d",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-07.csv"
+    },
+    "international_2025-08": {
+      "month": "2025-08",
+      "market": "international",
+      "seats": 220989.0,
+      "fare_weight": 120394153.78,
+      "fare_seats": 220989.0,
+      "rows": 59738,
+      "sha256": "31c5995937081de5efbe534e982bf0d5d7d81d5ca7ce22b82f800e34d3380869",
+      "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-08.csv"
     }
   },
   "newly_processed": [
-    "domestic_2026-03",
-    "domestic_2026-04",
-    "domestic_2026-06",
-    "domestic_2026-07",
-    "domestic_2026-08",
-    "international_2025-02"
+    "international_2025-03",
+    "international_2025-04",
+    "international_2025-05",
+    "international_2025-06",
+    "international_2025-07",
+    "international_2025-08"
   ],
   "warnings": [],
   "year_coverage": [

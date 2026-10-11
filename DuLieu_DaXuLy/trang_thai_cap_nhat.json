@@ -1,13 +1,19 @@
 {
-  "last_success_utc": "2026-10-11 06:01:58",
-  "period": "2024-01 den 2025-08",
+  "last_success_utc": "2026-10-11 06:15:35",
+  "period": "2024-01 den 2026-02",
   "newly_processed": [
-    "international_2025-01"
+    "domestic_2025-09",
+    "domestic_2025-10",
+    "domestic_2025-11",
+    "domestic_2025-12",
+    "domestic_2026-01",
+    "domestic_2026-02"
   ],
   "warnings": [],
   "year_coverage": [
     "2024",
-    "2025"
+    "2025",
+    "2026"
   ],
   "source": "ANAC Brazil / OurAirports"
 }

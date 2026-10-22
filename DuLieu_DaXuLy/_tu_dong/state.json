@@ -1,6 +1,6 @@
 {
-  "last_success_utc": "2026-10-11 06:22:23",
-  "period": "2024-01 den 2026-08",
+  "last_success_utc": "2026-10-22 06:14:24",
+  "period": "2024-01 den 2026-09",
   "months": {
     "domestic_2025-01": {
       "month": "2025-01",
@@ -311,13 +311,20 @@
       "rows": 53602,
       "sha256": "d5ea0cb91cd9de958ae8d0e3ae951caf34480a4aa40d4525b0a63f10a82c10a2",
       "url": "https://sas.anac.gov.br/sas/tarifainternacional/2025/INTERNACIONAL_2025-12.csv"
+    },
+    "domestic_2026-09": {
+      "month": "2026-09",
+      "market": "domestic",
+      "seats": 2551248.0,
+      "fare_weight": 1904815711.2199998,
+      "fare_seats": 2551248.0,
+      "rows": 892505,
+      "sha256": "030fa56727481e097a914a638b5f39eb601866bfdc8326ac2a13c7b9b0f42138",
+      "url": "https://sas.anac.gov.br/sas/tarifadomestica/2026/202609.csv"
     }
   },
   "newly_processed": [
-    "international_2025-09",
-    "international_2025-10",
-    "international_2025-11",
-    "international_2025-12"
+    "domestic_2026-09"
   ],
   "warnings": [],
   "year_coverage": [
